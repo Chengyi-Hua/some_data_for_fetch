@@ -1,0 +1,1563 @@
+node_id,text
+N001119,tenosynovial giant-cell tumo
+N001066,Diffuse-type tenosynovial giant-cell tumor
+N001385,tenosynovial giant-cell tumor
+N001385,Tenosynovial giant cell tumor
+N001385,tenosynovial giant cell tumor
+N001385,tenosynovial giant cell tumors
+N001186,D-TGCT
+N001202,pigmented villonodular synovitis
+N001332,Surgical excision
+N001332,surgical excision
+N000105,knee
+N001131,anterior compartment
+N001139,posterior compartment
+N001134,extraarticular
+N001288,multiportal arthroscopic synovectomy
+N001293,open posterior incision
+N001279,manipulation under anesthesia
+N000911,repeat surgery
+N000901,recurrence
+N000901,recurrence 
+N000901,recurrences 
+N000901,Recurrence 
+N000880,No postradiotherapy complications
+N000987,high recurrence rate
+N000560,asymptomatic recurrences found during regular MRI
+N001302,postoperative adjuvant radiotherapy
+N000049,postoperative joint stiffness
+N000061,vascular injury)
+N001115,soft-tissue sarcoma
+N001115,soft tissue sarcoma
+N001115,soft tissue sarcomas
+N001115,Soft-tissue sarcomas
+N001115,soft-tissue sarcomas
+N001115,Soft tissue sarcoma
+N001115,Soft-tissue sarcoma
+N001078,high-risk soft-tissue sarcoma
+N001381,soft-tissue sarcoma
+N001381,soft tissue sarcoma
+N001381,soft tissue sarcomas
+N001381,Soft-tissue sarcoma
+N001381,soft-tissue sarcomas
+N001381,Soft tissue sarcoma
+N001082,liposarcoma
+N001082,liposarcoma 
+N001082,liposarcomas 
+N000540,myxoid liposarcoma
+N000533,high-grade myxoid liposarcoma
+N001375,liposarcoma
+N001375,liposarcoma 
+N001375,liposarcomas 
+N001081,leiomyosarcoma
+N001081,leiomyosarcoma 
+N001081,leiomyosarcomas
+N001081,Leiomyosarcoma
+N001081,leiomyosarcomas 
+N001081,Leiomyosarcomas 
+N001374,leiomyosarcoma
+N001374,leiomyosarcoma 
+N001374,leiomyosarcomas
+N001374,Leiomyosarcoma
+N001374,leiomyosarcomas 
+N001118,synovial sarcoma
+N001118,synovial sarcomas
+N001118,Synovial sarcoma
+N001384,synovial sarcoma
+N001384,synovial sarcomas
+N001384,Synovial sarcoma
+N001085,malignant peripheral nerve sheath tumour
+N001085,malignant peripheral nerve sheath tumor
+N001085,malignant peripheral nerve sheath tumors 
+N001085,Malignant peripheral nerve sheath tumors
+N001085,Malignant peripheral nerve sheath tumor
+N001085,malignant peripheral nerve sheath tumors
+N001376,malignant peripheral nerve sheath tumour
+N001376,malignant peripheral nerve sheath tumor
+N001376,malignant peripheral nerve sheath tumor 
+N001376,Malignant peripheral nerve sheath tumors
+N001376,Malignant peripheral nerve sheath tumor
+N001387,undifferentiated pleomorphic sarcoma
+N001123,undifferentiated pleomorphic sarcoma
+N000329,epirubicin
+N000336,ifosfamide
+N000336,ifosfamide 
+N000363,trabectedin
+N000334,gemcitabine
+N000323,dacarbazine
+N000326,docetaxel
+N000816,disease-free survival
+N001322,standard chemotherapy
+N001262,histotype-tailored chemotherapy
+N001307,preoperative radiotherapy
+N000883,No treatment-related deaths
+N000883,no treatment-related deaths
+N000874,no difference in overall survival benefit
+N001292,neoadjuvant regimen
+N000058,thrombocytopenia 
+N000001,anaemia 
+N000042,neutropenia 
+N000341,intravenous etoposide
+N000342,intravenous ifosfamide
+N001207,STS
+N000982,five-year local recurrence
+N000981,five- and ten-year relative mortalities of 32.8% and 36.0%
+N000980,five- and ten-year disease-specific mortalities were underestimated by 3.1 and 1.9 percentage
+N000847,local recurrence
+N000960,Cox proportional hazard regression
+N000959,competing risk model
+N000966,prognostic biomarker score
+N001314,radiotherapy
+N001314,radiotherapy 
+N001314,Radiotherapy 
+N000708,"pretreatment levels of albumin, hemoglobin, and neutrophil to lymphocyte ratios"
+N000186,albumin
+N000226,hemoglobin
+N000261,neutrophil to lymphocyte ratios 
+N000818,disease-specific mortality
+N001364,Chondrosarcomas
+N001364,chondrosarcoma
+N001364,chondrosarcoma 
+N000761,IDH wildtype
+N000762,IDH1 mutant
+N000763,IDH2 mutant]
+N000357,talazoparib
+N001235,chemotherapy
+N001235,chemotherapy 
+N000962,Excess over Bliss scores
+N000738,calculating Excess over Bliss scores
+N000375,"Excess over Bliss scores: CH2879 59% [lower 95% CI 52%], JJ012 18% [lower 95% CI 8%], and SW1353 55% [lower 95% CI 25%]) of this combination treatment"
+N000276,proliferation
+N000189,apoptosis
+N001058,Chondrosarcomas
+N001058,chondrosarcoma
+N001058,chondrosarcoma 
+N000912,resistance
+N001268,inhibition of poly(ADP-ribose) polymerase (PARP)
+N000907,reducing the viability of chondrosarcoma spheroids and spheroid growth
+N000915,sensitize chondrosarcoma cell lines to chemotherapy (temozolomide) or radiotherapy
+N001337,talazoparib and radiotherapy
+N001338,talazoparib and temozolomide
+N001111,retroperitoneal sarcoma
+N001379,retroperitoneal sarcoma
+N001326,surgery
+N001326,surgery 
+N001326,Surgery
+N001326,Surgery 
+N001303,postoperative radiotherapy
+N000835,for preoperative radiotherapy median follow-up time was 42 months (IQR 27-70) for the preoperative radiotherapy group versus 43 months (25-64) for the no radiotherapy group; median overall survival was 110 months (95% CI 75-not estimable) versus 66 months (61-76)
+N000834,for postoperative radiotherapy median follow-up time was 54 months (IQR 32-79) for patients in the postoperative radiotherapy group and 47 months (26-72) for patients in the no radiotherapy group; median overall survival was 89 months (95% CI 79-100) versus 64 months (59-69)
+N001096,non-rhabdomyosarcoma soft-tissue sarcoma
+N001200,NRSTS
+N001366,dermatofibrosarcoma protuberans
+N001366,Dermatofibrosarcoma protuberans
+N001065,dermatofibrosarcoma protuberans
+N001065,Dermatofibrosarcoma protuberans
+N001121,unclassified malignant soft-tissue sarcoma
+N001004,low-risk group
+N000995,intermediate-risk group
+N000989,high-risk group
+N000831,event-free survival
+N000890,overall survival
+N000933,treatment failure
+N000600,tumour size
+N000600,tumor size
+N000600,Tumor size
+N000586,resection potential
+N000567,extent of disease
+N000597,Tumour grade
+N001327,surgery alone
+N001234,chemoradiotherapy
+N001290,neoadjuvant chemoradiotherapy
+N000872,No deaths from toxic events
+N000020,grade 4 adverse events
+N000064,wound complications that required surgery
+N000781,5-year event-free survival and overall survival were: 88.9% (95% CI 84.0-93.8) and 96.2% (93.2-99.2) in the low-risk group; 65.0% (58.2-71.8) and 79.2% (73.4-85.0) in the intermediate-risk group; and 21.2% (11.4-31.1) and 35.5% (23.6-47.4) in the high-risk group
+N000327,doxorubicin 
+N001053,Alveolar soft-part sarcoma
+N001053,alveolar soft part sarcoma
+N001053,alveolar soft part sarcomas
+N001053,alveolar soft-part sarcoma
+N001183,ASPS
+N000321,Cediranib
+N000921,substantial activity in ASPS
+N000938, unresponsive
+N000019,grade 3 adverse events
+N000025,hypertension
+N000025,hypertension 
+N000014,diarrhoea
+N000013,dehydration
+N000062,vomiting
+N000062,vomiting 
+N000052,proteinuria
+N000060,treatment-related death
+N000033,intracranial haemorrhage
+N001028,poor long-term prognosis 
+N001025,high incidence of metastatic disease
+N001027,lack of efficacy of conventional chemotherapy
+N000968,Response Evaluation Criteria in Solid Tumors
+N000744,percentage change in sum of target marker lesion diameters
+N000376,for the evaluable population was -8.3% (IQR -26.5 to 5.9) with cediranib versus 13.4% (IQR 1.1 to 21.3) with placebo (one-sided p=0.0010)
+N001353,tyrosine-kinase inhibitor
+N001362,Alveolar soft-part sarcoma
+N001362,alveolar soft part sarcoma
+N001362,alveolar soft-part sarcoma
+N001059,chordoma
+N000352,regorafenib 
+N000885,non-progressive at 8 weeks
+N000022,hand-foot skin reaction
+N000016,fatigue 
+N000026,hypophosphataemia 
+N000011,chest pain
+N000044,No treatment-related deaths
+N000796,delaying disease progression
+N001372,gastrointestinal stromal tumours
+N001372,gastrointestinal stromal tumor
+N001372,gastrointestinal stromal tumour
+N001372,gastrointestinal stromal tumors
+N001075,gastrointestinal stromal tumour
+N001075,gastrointestinal stromal tumours
+N001075,gastrointestinal stromal tumors
+N001075,gastrointestinal stromal tumor
+N000348,pazopanib 
+N000348,pazopanib
+N000315,anthracycline 
+N000315,anthracycline
+N000315,anthracyclines 
+N000369,improving progression-free survival
+N000035,liver failure
+N000003,arterial hypertension
+N000021,hand and foot skin reaction
+N000004,asthenia
+N000004,asthenia 
+N001091,metastatic soft tissue sarcomas
+N000349,pembrolizumab
+N000349,pembrolizumab 
+N000012,decreased lymphocyte count
+N000051,prolonged activated partial thromboplastin time
+N000027,immune-related SAEs
+N000000,adrenal insufficiency
+N000048,pneumonitis
+N000041,nephritis
+N001011,poor prognosis
+N001120,Tenosynovial giant cell tumor
+N001120,tenosynovial giant cell tumor
+N001120,tenosynovial giant cell tumors
+N001209,TGCT
+N001067,diffuse-type TGCT
+N001177,swelling
+N001166,pain
+N001161,limited ROM with a median time before diagnosis of 12 months
+N000902,recurrence-free survival at 2.5 years
+N001294,open resection
+N001060,clear cell sarcoma
+N001060,clear cell sarcomas
+N001060,clear-cell sarcoma
+N001080,inflammatory myofibroblastic tumor
+N001080,inflammatory myofibroblastic tumour
+N001193,GISTs
+N000428,KIT
+N000454,PDGFRA
+N000442,NF2 
+N000411,ETV6
+N000445,NTRK 
+N000492,ETV6-NTRK
+N000382,ALK
+N000382,ALK 
+N000479,TPM3 
+N000485,ALK-TPM3
+N000515,SYT-SSX
+N000495,EWS-Fli1
+N000493,EWS-ATF1
+N000499,FUS-CHOP
+N000475,SYT
+N000475,SYT 
+N000471,SSX
+N000471,SSX 
+N000412,EWS
+N000416,Fli1
+N000386,ATF1
+N000420,FUS
+N000402,CHOP
+N000402,CHOP 
+N000766,KIT exon 11 mutations
+N000764,in frame deletions
+N000774,point mutations
+N000754,duplications
+N000755,exon 9 insertion-duplication AY502-503
+N000773,PDGFRA mutations
+N000772,nonsense or missense mutation in NF2 gene
+N000768,loss of the other NF2 allele
+N000339,Imatinib mesylate
+N000339,imatinib mesylate
+N000914,Secondary drug resistance
+N001026,Imatinib-resistant mutations
+N000214,epithelioid morphology
+N000214,Epithelioid morphology
+N001079,infantile fibrosarcoma
+N001074,gastric GISTs
+N001117,sporadic schwannomas
+N001090,meningiomas
+N001116,solitary fibrous tumor
+N001116,solitary fibrous tumors
+N001116,Solitary fibrous tumors
+N001116,Solitary fibrous tumor
+N001382,solitary fibrous tumor
+N001382,solitary fibrous tumors
+N001382,Solitary fibrous tumor
+N001076,hemangiopericytoma 
+N000133,orbit
+N001165,orbital mass
+N001176,proptosis
+N001168,painful mass
+N001169,painless mass
+N000644,CD34
+N000644,CD34 
+N000647,CD99 
+N000647,CD99
+N000628,Bcl-2
+N000677,Ki-67
+N000696,p53 
+N000206,cytologic atypia
+N000234,increased mitotic activity
+N000266,Overlapping features with soft tissue giant cell fibroblastoma
+N000294,stromal collagen
+N000296,stromal myxoid change
+N000295,stromal intramembranous ossification
+N000185,Adipocytes 
+N000308,unusual multivacuolated adipocytic cells
+N000307,uncertain behavior to low-grade malignant
+N000429,KIT proto-oncogene receptor tyrosine kinase
+N000417,FMS-like tyrosine kinase 3
+N000765,internal tandem duplication mutation
+N000350,pexidartinib
+N000330,esomeprazole
+N000351,probenecid
+N000353,rifampin
+N000344,itraconazole
+N000333,fluconazole
+N000328,efavirenz
+N000844,itraconazole increased pexidartinib exposure
+N000913,rifampin decreased exposure
+N000937,UGT inhibition increased pexidartinib exposure
+N000830,esomeprazole modestly decreased pexidartinib exposure
+N001239,Co-administration of pexidartinib
+N001365,clear cell sarcoma
+N001365,clear-cell sarcoma
+N001185,CCSK
+N000602,tumor volume
+N001305,preoperative chemotherapy
+N001301,post-operative chemotherapy
+N000935,tumor volume did shrink
+N000940,vent free survival (EFS) after 5 years was 91 %
+N000930,"The EFS is identical for patients with stage I and II N- (0.92), as well as for stage II N+ and III (0.82)"
+N000192,blastemal predominant subtype
+N000213,epithelial and stromal predominant
+N000217,Focal anaplasia
+N000209,diffuse anaplasia
+N001003, low risk 
+N001003,low-risk
+N000994,intermediate risk
+N000994,intermediate-risk
+N000994,intermediate risk 
+N000988,high risk
+N000988,high-risk
+N000920,stage I can be reduced to 4 weeks without worsening treatment outcome
+N000972,better prognosis than diffuse anaplasia
+N000971,after preoperative chemotherapy is worse than in any other patient group of intermediate risk
+N000978,do not shrink during preoperative chemotherapy
+N001070,epithelioid sarcoma
+N001070,epithelioid sarcomas
+N001368,epithelioid sarcoma
+N000414,EZH2 
+N000424,INI1 
+N000467,SMARCA4
+N000749,Activating enhancer of zeste homolog 2 (EZH2) mutations
+N000748,aberrations of the switch/sucrose non-fermentable
+N000359,tazemetostat
+N001029,proliferative dependency on EZH2 activity
+N001343,tazemetostat monotherapy
+N000828,"Durable objective responses,"
+N000002,anorexia 
+N000038,muscle spasms
+N000040,nausea 
+N000371,No treatment-related deaths
+N000792,complete responses
+N000792,complete response
+N000127,mobile spine
+N000148,sacrum
+N000137,pelvis
+N000137,pelvis 
+N001010,poor outcome
+N001317,Resection 
+N000889,"Overall median survival was histology-specific (osteosarcoma, 11 months; Ewing sarcoma, 26 months; chondrosarcoma, 37 months; chordoma, 50 months) and significantly worse in patients with metastasis"
+N000524,Dedifferentiated liposarcoma
+N000524,dedifferentiated liposarcoma
+N001187,DDLPS
+N001057,atypical lipomatous tumor
+N000694,p16 
+N000694,p16
+N000648,CDK4
+N001007,metastasis-free survival
+N001009,overall survival
+N000996,local recurrence-free survival
+N000862,metastasis-free survival
+N000929,"The 3- and 5-year metastasis-free survival rates were 86% (95% CI 0.67 to 1.00) and 75% (95% CI 0.49 to 1.00), respectively"
+N000561,biphasic pattern
+N000609,FDG-PET
+N000614,PET/CT
+N000611,MRI
+N000785,additional primary malignancies developed
+N001195,LPS
+N000555,WDLPS
+N000538,MLPS
+N000546,PLPS
+N001095,non-metastatic liposarcoma
+N000823,distant metastasis-free survival
+N000849,local recurrence-free survival
+N000819,disease-specific survival
+N000118,lower limb
+N000595,tumor depth
+N001354,wide excision
+N001354,wide excisions
+N000790,better OS
+N000521,DDLPS
+N000521,DDLPS 
+N001112,rhabdomyosarcoma
+N001112,rhabdomyosarcoma 
+N001112,rhabdomyosarcomas
+N001380,rhabdomyosarcoma
+N001380,rhabdomyosarcoma 
+N001380,rhabdomyosarcomas
+N001380,rhabdomyosarcomas 
+N000542,myxoid/round cell liposarcoma
+N000542,myxoid round cell liposarcomas
+N000120,lymph node
+N001005,lymph node metastases
+N000977,distant metastases
+N000993,improved overall survival after lymphadenectomy
+N000924,survival 
+N000888,overall 5-year survival
+N001278,lymphadenectomy
+N001277,lymph node excision
+N000991,higher risk of lymph node involvement
+N001015,poorer survival
+N000855,lymph node metastases
+N000855,Lymph node metastases
+N000821,distant metastases
+N000860,metastases 
+N001275,local excision
+N000178,vastus lateralis
+N000068,adductor muscle
+N000097,groin muscles
+N000094,gastrocnemius
+N000124,mentalis
+N000158,sternocleidomastoid muscle
+N000172,upper extremity
+N000165,trunk
+N000165,trunk 
+N000165, trunk
+N000129,neck 
+N000129,neck
+N000311,variable myopathic
+N000220,focal neurogenic
+N000216,fibrosis
+N000237,inflammation 
+N000277,prominent eosinophils
+N000194,CD163-positive macrophages
+N000196,"CD3, CD4-positive lymphocytes"
+N000195,CD20-positive B cells
+N000193,CD123-positive plasmacytic dendritic cells
+N000288,skeletal muscle fibers with vacuolar change
+N000245,Major histocompatibility complex-1 and weak IgG4 were focally positive
+N000639,CD163
+N000642,CD3
+N000646,CD4
+N000640,CD20
+N000638,CD123
+N000713,S100
+N000682,Major histocompatibility complex-1
+N000116,lower extremities
+N000673,IgG4 
+N001110,Retroperitoneal liposarcoma
+N001110,retroperitoneal liposarcoma
+N001203,RLPS
+N000465,Siglec-15
+N000451,PD-L1
+N000384,APOA1
+N000415,F2
+N000380,AHSG
+N000383,AMBP
+N000463,SERPINC1
+N000717,Siglec-15 expression
+N000703,PD-L1 expression
+N001012,poor sarcoma OS
+N001014,poorer disease-free survival
+N000964,independent predictor of DFS
+N000287,Siglec-15 and PD-L1 expression were evaluated using immunohistochemistry
+N000144,Retroperitoneal 
+N000144,retroperitoneal 
+N001126,uterine leiomyosarcoma
+N001114,soft tissue leiomyosarcoma
+N001386,undifferentiated pleiomorphic sarcoma
+N001122,undifferentiated pleiomorphic sarcoma
+N001371,infantile fibrosarcoma
+N000453,PDGFR
+N000347,olaratumab 
+N000175,uterine 
+N001373,inflammatory myofibroblastic tumour
+N001373,inflammatory myofibroblastic tumor
+N001093,myxofibrosarcoma
+N001093,myxofibrosarcoma 
+N000434,MDM2 
+N000434,MDM2
+N000478,TP53
+N000478,TP53 
+N000399,CDKN2A/B
+N000455,PIKC3
+N000457,PTEN
+N000750,alterations 
+N001378,myxofibrosarcoma
+N001378,myxofibrosarcoma 
+N000388,Aurora kinase B
+N000387,Aurora kinase A
+N000779,truncated splice variant
+N000318,AZD1152-HQPA
+N000314,AMG 900
+N000345,MK-5108
+N000825,dose-dependent decrease in the total viable cell number
+N000916,significant increase in polyploidy
+N000661,expression of Aurora kinase A and B
+N000627,Aurora kinase A and B mRNA expression
+N000734,truncated splice variant of Aurora kinase B
+N000270,polyploidy 
+N000805,did not significantly increase the percentage of polyploid cells
+N000917,significant increase starting at 100 nM in the SW-872 cells and 250 nM in the 93T449 cells
+N001383,clear cell sarcoma
+N001296,ovarian tissue cryopreservation
+N001349,transplantation 
+N000942,FISH 
+N000942,FISH
+N000955,sensitive IHC
+N000954,RT-PCR
+N000952,qPCR
+N000866,Minimal disseminated disease
+N001073,fibrosarcoma 
+N001073,fibrosarcoma
+N000530,fibroma-like epithelioid sarcoma
+N000098,head
+N000098,head 
+N000171,upper extremities
+N000123,mediastinum
+N000123,mediastinum 
+N000065,abdomen 
+N000735,wide-spectrum cytokeratin
+N000658,EMA
+N000670,high molecular weight CK
+N000733,TLE1
+N000643,CD31
+N000643,CD31 
+N000720,smooth muscle actin
+N000656,desmin
+N000656,desmin 
+N000656,Desmin 
+N000623,ALK1
+N000688,Myo-D1
+N000689,myogenin
+N000631,c-kit
+N000676,INI1
+N000641,CD21
+N000699,p63
+N000736,WT1
+N000998,locally aggressive
+N001008,metastatic disease
+N000808,died of locally aggressive
+N000787,alive without disease
+N000809,died of other causes
+N001370,fibrosarcoma 
+N001370,fibrosarcoma
+N001192,FS
+N001204,SS
+N001208,STSs
+N001211,UPS
+N001266,Immune checkpoint inhibitors
+N001266,immune checkpoint inhibitors
+N001225,anti-PD1
+N001226,anti-PD1 + anti-cytotoxic T-lymphocyte-associated protein 4
+N001229,anti-PD1 + tyrosine kinase inhibitor
+N001227,anti-PD1 + chemo
+N001228,anti-PD1 + immunomodulator
+N000922,substantially improved prognosis for many cancer types
+N000784,Activity was limited
+N000839,High response rates
+N001100,pleomorphic liposarcoma
+N001128,distant metastasis
+N000997,locally advanced disease
+N001022,ulceration
+N001021,sepsis
+N000983,fungating mass
+N001006,metastasis 
+N001222,amputation
+N001222,amputations 
+N001250,dis-articulation
+N001308,radiation
+N000852,loss of extremity
+N000076,bone
+N000155,soft tissue
+N001071,extraskeletal myxoid chondrosarcoma
+N001071,Extraskeletal myxoid chondrosarcoma
+N001191,EMC
+N001197,MLPS
+N001184,CCS
+N001369,extraskeletal myxoid chondrosarcoma
+N001369,Extraskeletal myxoid chondrosarcoma
+N000496,EWSR1 rearrangement
+N000283,round cell tumours with pathology consistent with Ewing sarcoma
+N000413,EWSR1 
+N001109,retroperitoneal leiomyosarcoma
+N000607,CT-based radiomics
+N000585,radiological phenotype
+N000605,contrast-enhanced CT scans
+N000961,CT-based radiomics classification model for the prediction of histological type and grade
+N000746,receiver operator curve
+N001188,DFSP
+N001188,DFSP 
+N001094,myxoid DFSP
+N000532,"fibrosarcomatous, myofibroblastic, and granular cell DFSP"
+N000100,inguinal area
+N000163,thigh
+N000169,upper arm
+N000151,shoulder
+N000067,abdominal wall
+N000073,back 
+N000581,nodular growth
+N000583,peripheral diffuse infiltration
+N000590,slightly enlarged nuclei
+N000210,diffusely infiltrating growth
+N000258,myxoid stromal changes
+N000218,focal fibrosarcomatous and focal giant cell fibroblastoma-like changes
+N000231,hypocellular areas
+N000285,Scattered enlarged tumor cells
+N000251,mitotic rate
+N000264,Numerous blood vessels with slightly fibrosed vessel walls
+N000624,alpha-smooth muscle actin
+N000659,epithelial membrane antigen
+N000653,COL1A1-PDGFB fusion gene
+N000491,COL1A1-PDGFB fusion gene
+N000406,COL1A1
+N000452,PDGFB 
+N000395,CD34
+N000395,CD34 
+N001316,reexcision
+N000848,local recurrence at 5 years
+N001113,round cell liposarcoma
+N000397,CDK4 
+N000494,EWS-CHOP
+N000145,retroperitoneum
+N000145,retroperitoneum 
+N000089,extremity 
+N000089,extremity
+N000255,myxoid areas
+N000312,vascular crow's feet pattern
+N000570,histopathological mimics
+N000232,immunohistochemical features
+N000247,MDM2 and CDK4 staining
+N000187,amplification of the 12q13-15 region
+N001312,radio- and chemo
+N000992,highly radio- and chemosensitive
+N000535,intraperitoneal dedifferentiated liposarcoma
+N000556,well-differentiated liposarcoma
+N000102,intraperitoneal location
+N000126,meso-hypogastrium
+N000125,mesentery 
+N000103,jejunum
+N000086,duodenum
+N001144,abdominal pain
+N001151,constipation 
+N000604,Computed tomography
+N000604,computed tomography
+N000568,heterogeneous density mass
+N000949,Macroscopic examination
+N000257,myxoid mass
+N000309,variable hemorrhage
+N000204,cystic degeneration
+N000252,morphologic patterns
+N000943,Fluorescence in situ hybridization
+N001333,Surgical removal
+N001273,jejunal resection
+N000851,locoregional recurrence
+N000101,intraperitoneal 
+N000077,buccal fat pad
+N000078,buccal space
+N000092,facial buccal branches
+N000135,parotid duct
+N000147,right cheek
+N000121,masseter muscle
+N000160,submandibular region
+N000619,ultrasound
+N000610,magnetic resonance imaging
+N000215,fibrolipoma
+N000291,spindle cell lipoma
+N001272,intraoral resection
+N000903,recurrent 
+N000864,metastatic
+N000864,Metastatic 
+N001199,nmRPS
+N001097,nonmetastatic retroperitoneal sarcoma
+N001336,surgically treated
+N000965,Multivariable CRR model
+N000741,hazard ratio
+N000740,confidence interval
+N001001,"low grade, and tumor size >=17cm"
+N000985,"high grade, and tumor size >=17cm"
+N000871,NDSM was higher
+N000827,DSM rates were also higher
+N000870,NDSM 
+N000826,DSM
+N000473,STRN3
+N000447,NTRK3
+N000482,VWC2
+N000409,EGFR
+N000423,ICK
+N000426,KDR
+N000419,FOXP2
+N000436,MET 
+N000436,MET
+N000401,CEP290
+N000514,STRN3-NTRK3
+N000516,VWC2-EGFR
+N000500,ICK-KDR
+N000498,FOXP2-MET
+N000488,CEP290-MET
+N000489,CLTC-ALK
+N000501,LMNA-NTRK1
+N000430,LMNA
+N000446,NTRK1 
+N000405,CLTC
+N000793,complete response was achieved
+N000367,tyrosine kinase inhibitors
+N001030,STRN3-NTRK3 -positive cells were sensitive to larotrectinib in vitro
+N000616,scintigraphy 
+N000618,tumour-to-background ratio
+N000621,visual inspection of scintigrams
+N001194,LMS
+N001000,low grade
+N000984,high grade
+N000936,Two-years cumulative survival rate was 74.3%
+N000932,three-years cumulative survival rate was 71.1%
+N000833,five years survival rate was 64.3%
+N001174,Postmenopausal abnormal bleeding
+N001346,total hysterectomy with bilateral salpingooophorectomy
+N001295,operative procedure
+N000379,regular yearly or more frequent follow-up
+N001344,total hysterectomy
+N001232,bilateral salpingo-oophorectomy
+N001298,pelvic lymphadenectomy
+N000601,tumour size >8 cm
+N000979,early stages
+N000969,advanced stages
+N000850,local relapse-free survival
+N001345,total hysterectomy plus bilateral salpingo-oophorectomy
+N000526,epithelioid angiosarcomas
+N000526,Epithelioid angiosarcoma 
+N000527,epithelioid gastrointestinal stromal tumors
+N000520,biphasic synovial sarcomas
+N000660,EWSR1 and CREB3L1 rearrangements
+N000407,CREB3L1 
+N000298,Strong diffuse cytoplasmic staining for MUC4
+N001054,angiosarcomas
+N001054,angiosarcoma
+N001054,angiosarcoma 
+N001054,angiosarcomas 
+N001363,angiosarcomas
+N001363,angiosarcoma 
+N001363,angiosarcoma
+N001363,angiosarcomas 
+N000944,FUS 
+N000687,MUC4 expression
+N000566,enlarged pelvic lymph nodes
+N000594,T2W signal intensity
+N000565,DW signal intensity
+N000559,ADC cutoff value of 0.9 × 10
+N000574,irregular tumor margins
+N000552,spindle-cell angiosarcomas
+N001069,epithelioid hemangioendotheliomas
+N001069,epithelioid hemangioendothelioma
+N001069,Epithelioid hemangioendothelioma
+N000511,SERPINE1-FOSB fusion
+N000464,SERPINE1
+N000418,FOSB 
+N000497,FOSB gene fusions
+N000665,FOSB expression
+N000634,CAMTA1 
+N000732,TFE3 
+N000201,coexpression of keratins and endothelial markers
+N000269,plump spindled and epithelioid cells
+N000254,multifocal presentation
+N000221,Focal weak FOSB staining
+N001367,epithelioid hemangioendothelioma
+N001367,Epithelioid hemangioendothelioma
+N001098,PEComa 
+N001361,PEComa 
+N000637,CD10 
+N000667,h-caldesmon
+N000671,HMB-45
+N000684,MelanA
+N000685,MiTF
+N000635,CathepsinK
+N000731,TFE-3
+N000622,ALK 
+N000769,MED12 mutations
+N000250,mitotic activity
+N000302,tumor cell necrosis
+N000235,infiltration
+N000244,lymphovascular invasion
+N000256,myxoid change
+N000243,lymphoplasmacytic infiltrate
+N000188,apoplectic change
+N000191,bizarre nuclei
+N000280,"Rarely, it may contain melanin pigment"
+N000695,p16 should be used with caution
+N000970,adverse outcome
+N001104,primary caval leiomyosarcoma
+N001130,Tumor involvement of the inferior vena cava
+N000721,smooth muscle gamma actin
+N000633,calsequestrin 2
+N000672,human muscle cofilin2
+N000690,myosin light chain kinase
+N000715,sarcolemmal membrane associated protein
+N000281,reactivity for at least 3 of 5 immunohistochemistry (IHC) markers
+N000441,NF1
+N000441,NF1 
+N001127,develop malignant tumors
+N000539,myxoid leiomyosarcomas
+N000154,smooth muscles of the uterus
+N000128,myometrium
+N001179,vaginal bleeding
+N001145,abdominal pressure
+N000613,pelvic ultrasonography
+N000615,positron emission tomography
+N000592,soft and gelatinous
+N000573,"infiltrative, irregular tumor margin"
+N000262,"nuclear pleomorphism,"
+N000310,variable mitotic activity
+N000200,classical Hematoxylin-Eosin (HE) staining
+N000279,rare mitosis on high-power fields
+N000197,cell pleomorphism
+N000272,predominant myxoid component
+N000246,matrix rich in proteoglycans and glycosaminoglycans
+N000138,pelvic 
+N000177,vaginal 
+N000066,abdominal 
+N001196,MLMS
+N000176,uterus
+N001263,hysterectomy
+N001286,morcellation 
+N000820,disseminating malignant cells and worsening survival outcomes
+N000522,de-differentiated liposarcoma
+N000549,round cell liposarcoma
+N000544,pleomorphic liposarcoma
+N000139,posterior mediastinum
+N001152,cough
+N001154,dysphagia
+N001149,chest pain
+N000577,large lobulated masses
+N000289,smooth muscle component
+N000712,S-100 protein
+N000683,MDM2
+N000719,SMA 
+N000403,CHOP translocation at 12q13.1-q13.2
+N000435,MDM2 at 12q13-15
+N001245,Complete surgical excision
+N000868,multiple recurrences
+N000845,liver metastasis
+N000531,fibrosarcomatous dermatofibrosarcoma protuberans
+N000545,pleomorphic rhabdomyosarcoma
+N000519,alveolar rhabdomyosarcoma
+N000519,alveolar rhabdomyosarcomas
+N000525,embryonal rhabdomyosarcoma
+N001062,clear cell sarcoma of soft tissue
+N000707,PRAME 
+N000951,PRAME immunoreactivity
+N000523,dedifferentiated chondrosarcoma
+N000729,telomere lengths
+N000625,alternative lengthening of telomeres (ALT) pathway
+N000728,telomerase
+N000709,promyelocytic leukemia nuclear body
+N000528,epithelioid liposarcoma
+N000548,proximal-type epithelioid sarcoma
+N000543,pigmented dermatofibrosarcoma protuberans
+N000536,lipoleiomyosarcoma
+N000071,aortic arch
+N000072,ascending aorta
+N000976,dismal prognosis
+N000925,Survival rates appear to be higher after surgical treatment and were significantly improved by adjuvant chemotherapy
+N000179,visceral aorta
+N001215,adjuvant chemotherapy
+N000810,died of tumor-related complications
+N000791,cachexia 
+N001331,surgical
+N001037,incomplete resection
+N000142,proximal extremities
+N000110,left side of the abdomen
+N000571,ill-defined plaque measuring 10 cm
+N000563,centrally located palpable nodules measuring between 3 and 5 mm
+N000591,slowly growing indurated dermal plaque or firm nodule attached to the skin
+N000589,skin discoloration
+N000645,CD34 expression
+N000693,over expression of PDGFbeta
+N001355,wide local excision
+N001355,Wide Local Excision
+N001285,Mohs surgery
+N000338,imatinib mesilat
+N000894,positive therapeutic efficacy
+N000999,locally aggressive behavior
+N000986,high local recurrence rates
+N001019,relatively low risk of metastatic spread
+N000815,disease-free for one year postoperatively
+N000377,Clinical follow-up of patients with DFSP after tumor excision should be performed every six months for the first five years
+N000869,narrow surgical margins
+N000876,No further disease progression
+N000373,reduction in tumor size
+N000370,modest improvement in pain
+N001167,pain at the site of the tumor
+N000117,lower extremity
+N001023,wound-healing complication
+N001306,preoperative radiation
+N001274,limb salvage
+N001257,flap
+N001321,skin graft
+N001206,soft tissue sarcoma
+N001084,lower extremity soft tissue sarcoma
+N000782,5-year survival rate >70%
+N000887,outcome for patients who present with metastatic disease remains poor
+N000039,myelosuppression
+N000017,febrile neutropenia
+N000024,hepatopathy
+N000032,infertility
+N000055,second malignant neoplasms
+N001213,A backbone of vincristine and dactinomycin with either cyclophosphamide (VAC) or ifosfamide (IVA)
+N000362,topotecan 
+N000343,irinotecan
+N000010,bone growth arrest
+N000037,muscle atrophy
+N000006,bladder dysfunction
+N000031,induction of second malignant neoplasms
+N001210,TSGCT
+N001068,diffuse-type TSGCT
+N001083,localized type of TSGCT
+N000275,presence of villous growths
+N000274,presence of nodes
+N000286,severity of hemosiderosis
+N000306,type of predominant cellular proliferates
+N000300,the number of multinucleated giant cells
+N000198,"cell size (area, cm2)"
+N001172,physical impairments
+N001146,activity limitations
+N001159,"high risk for depression, anxiety, and suicidal ideation"
+N000074,base of the skull
+N000170,upper cervical region
+N000579,Mass response
+N000612,MRI scans
+N001310,radiation therapy
+N001335,surgical treatment
+N001259,Gamma Knife treatment
+N001360,mass reduction
+N000054,radiation-induced myelopathy
+N000059,transient esophagitis
+N000045,otitis
+N001248,Cyberknife SRT
+N001358,Disease progression was not noted 
+N000811,difficult candidates for surgical treatment
+N000939,usually resistant
+N001205,SFT
+N001205,SFTs
+N001205,SFT 
+N000422,HTER
+N000861,metastasis 
+N000861,metastasis
+N000679,Ki-67 index
+N000686,mitotic count
+N000956,tissue microarrays
+N000957,whole tissue sections
+N000229,hotspot areas easier to locate in whole sections
+N001156,flat plaque
+N001020,risk of recurrence
+N000990,higher rate of recurrence
+N001017,rate of recurrence was 5.4%
+N001284,Mohs micrographic surgery
+N001246,conservative excision
+N001052,alveolar rhabdomyosarcoma
+N001271,intraoperative RT boost
+N001304,postoperative RT
+N001281,marginal resection
+N001129,malignant fibrous histiocytoma
+N000018,fibrosis 
+N000005,atrophy 
+N000009,bone growth abnormalities
+N000028,impairment of mobility and extremity function
+N000015,edema 
+N000047,peripheral nerve injury
+N000036,moderate to severe limitation of movement
+N000053,radial nerve palsy
+N001388,undifferentiated spindle cell sarcoma
+N000385,ARID1A 
+N000655,complete loss of ARID1A expression 
+N000948,immunohistochemistry
+N000948,immunohistochemistry 
+N000576,"large, ill-defined, prostatic mass lesion with circumferential extension into the rectal wall"
+N000593,solid and cystic mass
+N000282,rhabdoid morphology
+N000265,"oval to spindle-shaped cells, arranged in sheets and fascicles or herringbone-like patterns within a small amount of edematous to myxoid, vascularized stroma"
+N000253,multifocal geographic necroses
+N000222,foci of lymphovascular invasion
+N000278,prominent mitotic figures
+N001155,dysuria 
+N001164,obstructive voiding symptoms
+N000331,etoposide 
+N000322,cisplatin 
+N001236,chemotherapy of combined etoposide and cisplatin
+N001237,chemotherapy of doxorubicin and ifosfamide
+N001124,undifferentiated spindle cell sarcoma
+N000752,biallelic inactivation mutation of ARID1A
+N000141,prostate
+N000141,prostate 
+N000596,tumor diameter
+N000598,tumor location
+N000918,"significantly worse recurrence-free survival (RFS, p < 0.001) and overall survival (OS, p = 0.004)"
+N000958,clinical model 
+N000747,ROC
+N000745,precision-recall (P-R) curve
+N000739,calibration curves
+N000742,Kaplan-Meier (K-M) curves
+N000743,log-rank tests
+N000963,hybrid model (Model<sup>CR</sup>) that amalgamated radiomics and clinical features
+N000967,radiomics model utilizing multiparametric magnetic resonance imaging (MRI) for the prediction of preoperative risk assessment in gastrointestinal stromal tumors (GISTs).
+N001249,cytotoxic chemotherapy
+N000854,low sensitivity to cytotoxic chemotherapy
+N000510,NR4A3-translocated
+N000443,NR4A3
+N000886,objective response according to RECIST 1.1
+N000030, increased concentration of alanine aminotransferase
+N000029,increased aspartate aminotransferase
+N000873,No deaths or grade 4 adverse events occurred
+N001341,"targeted therapy (tyrosine kinase, BRAF, or MEK inhibitors)"
+N001267,immunotherapy-related drugs
+N000366,"tyrosine kinase, BRAF, or MEK inhibitors"
+N001313,radiofrequency ablation
+N001247,cryoablation 
+N001283,microwave ablation
+N001323,stereotactic body radiotherapy
+N001299,percutaneous ablation
+N000046,pain requiring IV medication
+N000007,bleeding
+N000840,hospitalized 
+N000057,skin burns
+N000070,aorta
+N000108,left external iliac
+N000093,femoral arteries
+N000107,large systemic vein
+N000167,tunica intima
+N000599,Tumors ranged from 1 cm to over 10 cm in diameter
+N000578,largely necrotic
+N000271,poorly differentiated epithelioid and pleomorphic malignant neoplasm
+N000181,a thin layer of viable tumor cells overlying a large thrombus
+N000299,The distinctive histopathologic appearance of the primary luminal lesion was lost whenever tumor invaded outside the vessel wall
+N000664,Fli-1
+N000934,tumor-related death
+N001016,rare long-term survivors
+N001013,poor survival
+N000780,"1-year, 3-year, and 5-year overall survival rate for the entire cohort was 86.2% (95% confidence interval [CI]: 85.2%-87.2%), 70.5% (95% CI: 68.9%-72.1%), and 63.0% (95% CI: 61.2%-64.8%)"
+N000931,"The mean overall survival duration of patients with chordoma, chondrosarcoma, Ewing sarcoma, and osteosarcoma was 66.86 (95% CI: 64.06-69.66), 63.53 (95% CI: 61.81-65.25), 58.06 (95% CI: 55.49-60.62) and 54.91 (95% CI: 53.14-56.69) months"
+N001033,bone and lung metastases
+N001048,T2 stage
+N001049,tumor in the extremities
+N001045,regional and distant stag
+N001041,non-surgery
+N001105,primary renal synovial sarcoma
+N000468,SMARCB1 
+N000753,biallelic SMARCB1 (the gene that encodes INI1) alterations
+N000767,loss of INI1 expression
+N000372,objective response
+N000859,Median progression-free survival was 5.5 months
+N000858,median overall survival was 19.0 months
+N000063,weight loss
+N000056,seizure 
+N000023,haemoptysis
+N000941,well tolerated
+N001342,"tazemetostat, an oral selective EZH2 inhibitor"
+N001198,MPNST
+N001198,MPNSTs
+N000722,Sox10 
+N000714,S100 protein
+N000143,renal 
+N000700,PAX2 
+N000701,PAX8
+N001106,primary synovial sarcoma
+N001099,pediatric RMS
+N000134,paranasal sinuses
+N000122,masticator space
+N000149,scalp 
+N000149,scalp
+N000846,local control
+N000853,low rates of regional metastases
+N001038,larger tumor size
+N001035,high-grade histology
+N001043,positive surgical margins
+N001291,neoadjuvant chemotherapy
+N001243,combined multiagent chemotherapy
+N001217,Adjuvant radiotherapy
+N001287,multimodality therapy combining surgery and wide-field radiation therapy
+N001258,"free tissue transfer,"
+N000205,cytogenetic findings
+N000927,survival rates were 76.7%
+N001221,adoptive T-cell based immunotherapy
+N000892,partial responses
+N000919,stable disease
+N000897,progressive disease
+N000088,extremities
+N000088,extremities 
+N000119,lung 
+N000166,trunk wall
+N000469,SOX2 
+N000513,SS18-SSX gene fusion
+N000470,SS18
+N000723,SOX2 protein expression
+N000668,H3K27me3
+N000908,regional lymph node metastases
+N000899,pulmonary metastases
+N000603,(18)F-FDG PET/CT
+N000608,F-FDG PET alone
+N000606,CT
+N000798,detection of regional lymph node metastases
+N000797,detection of distant metastases
+N000512,SS18-SSX fusion oncogenes
+N000335,HDAC inhibitor
+N001261,HDAC inhibitor (HDACi) monotherapies
+N000354,SAHA 
+N000332,FK228 
+N000364,trametinib
+N000789,antiproliferative and pro-apoptotic effects
+N000829,enhanced antiproliferative and pro-apoptotic effects
+N000368,cytoprotective
+N001024,"activation of a cytoprotective and auto-sustaining axis involving ERKs, EGR1, and the beta-endoglycosidase heparanase"
+N001031,The combination of SAHA with SST0001 prevented the upregulation of ERK-EGR1-heparanase induced by the HDACi and promoted caspase-dependent cell death
+N000669,heparanase 
+N000657,EGR1
+N000698,p53 through its acetylation
+N000975,disease progression
+N000228,histone acetylation and nuclear heparanase levels
+N000356,SST0001/roneparstat
+N001240,co-treatment with a MEK inhibitor (trametinib) or a heparanase inhibitor (SST0001/roneparstat)
+N001319,SAHA and SST0001
+N000895,potentiated the antitumor efficacy against the CME-1 orthotopic SS model
+N000541,myxoid or round cell liposarcoma
+N001334,surgical resection
+N000706,PGP 9.5 expression in mesenchymal neoplasms
+N001063,clear cell sarcoma of the gastrointestinal tract
+N000095,gastrointestinal tract
+N000550,sclerosing rhabdomyosarcoma
+N000547,poorly-differentiated synovial sarcoma
+N001125,UPS
+N001056,ASPS 
+N001224,Anti-PD-(L)1 therapies
+N000812,disappointing response rate of 15%
+N000340,intratumoral talimogene laherpavec
+N000317,antiangiogenics
+N001300,PIK3CA/AKT inhibition
+N001265,IDO blockade
+N001351,treatments aiming at increasing antigenicity
+N001297,PARP inhibitors
+N001242,Combinations with MDM2 antagonists or CDK4/6 inhibitors
+N000856,may improve responses
+N001264,ICB monotherapy
+N001220,adoptive cellular therapies
+N000225,have higher PD-L1 expression
+N000824,do not benefit
+N000227,high expression of cancer-testis antigens (CTA)
+N000788,an ORR ranging from 20 to 50%
+N001231,association of ICI with chemotherapy
+N000783,"achieving encouraging results especially with pembrolizumab and doxorubicin at an early stage, or ICI with antiangiogenics"
+N000374,yields an impressive 35% ORR when associated to pembrolizumab
+N001061,clear cell sarcoma of kidney
+N000104,kidney 
+N000104,kidney
+N000486,BCOR-CCNB3
+N000487,BCOR-MAML3
+N000518,YWHAE-NUTM2B
+N000751,BCOR internal tandem duplications
+N000392,BCOR
+N000394,CCNB3
+N000432,MAML3
+N000484,YWHAE
+N000448,NUTM2B 
+N000716,SATB2 mRNA upregulation
+N000297,strong and diffuse nuclear BCOR immunoreactivity
+N000190,BCOR overexpression
+N000630,BCOR gene expression
+N001252,DN R-Ras inhibition
+N001359,impaired migration and invasion but not survival
+N000404,classic Ras
+N000431,M-Ras
+N000898,"promote proliferation and survival, but not migration"
+N000421,H-Ras
+N000439,N-Ras
+N000425,K-Ras
+N000458,R-Ras
+N000459,R-Ras2
+N000770,Mutations of the NF1 gene
+N001251,DN R-Ras expression and RRAS and RRAS2 knockdown
+N000843,inhibited migration and ROCK1 phosphorylation
+N001318,ROCK1 inhibition
+N000841,"impaired migration and invasion, altered cellular morphology and triggered the accumulation of large intracellular vesicles"
+N001238,classic Ras proteins
+N000474,SUZ12
+N000466,SMARCA2
+N000758,focal NF1 copy number loss
+N000756,"focal copy number gains in chromosome arms 1q, 7p, 8q, 9q, and 17q"
+N000757,"focal copy number losses in SUZ12, SMARCA2, CDKN2A/B, and chromosome arms 6p and 9p"
+N000301,the sum of longest tumor diameters (SLD) visualized by cross-sectional imaging correlated significantly with paired tumor fractions in plasma
+N001160,lesion was enlarged
+N000410,ErbB4 
+N000480,Trp53
+N000444,NRG1beta
+N000771,NF1-null
+N001357,WNK1 inhibition
+N000842,inhibited DNA synthesis and viability
+N001256,ERBB4 knockdown in human MPNST cells
+N001255,Erbb4 ablation
+N000799,did not affect Ras activation
+N000800,did not alter proliferation
+N001269,"inhibition of STAT3, STAT5 and phospholipase-Cgamma"
+N000905,reduced proliferation
+N000950,p53 immunoreactions
+N000263,nuclear staining
+N001276,local resections
+N000112,leg 
+N000083,deep groin
+N000173,upper thigh
+N000150,sciatic nerve
+N001253,Enneking appropriate (EA) resections
+N001254,Enneking inappropriate (EI) resections
+N000893,patients died
+N000882,no significant influence on recurrence or survival.
+N001218,Adjuvant therapy
+N000801,did not have a significant influence on local recurrence or survival
+N000156,spinal 
+N000111,left upper arm
+N000553,spindle cell MPNST
+N000529,epithelioid malignant peripheral nerve sheath tumor
+N001315,radiotherapy was performed in addition to excision
+N001175,progressive severe pain
+N001148,changes in tumor volume
+N001162,"new, unexplained neurologic symptoms"
+N000759,heterozygous loss-of-function variant in the tumor suppressor gene NF1
+N001077,high-grade undifferentiated spindle cell sarcoma
+N000224,H3K27me3 loss
+N000398,CDKN2A 
+N001087,malignant solitary fibrous tumor
+N001289,neoadjuvant chemoradiation
+N000814,disease-free after treatment
+N000082,cranial nerve
+N000710,protein S-100
+N000654,collagen IV-laminin
+N000926,survival rate was better than the cases without
+N000832,Fatal outcome occurred in 66% of patients whereas 19% were reported alive with or without complications
+N000857,mean time of recurrence or metastasis is 12.2 months
+N001311,radical resection with adjuvant radiotherapy
+N000157,spinal cord
+N000378,close postoperative follow-up is
+N001325,subtotal resection
+N000973,brain metastases
+N001086,Malignant peripheral sheath tumor
+N001377,Malignant peripheral sheath tumor
+N000106,large nerve roots and bundles
+N000460,Ras
+N000381,AKT
+N000437,mTOR
+N000433,MAPK
+N000450,p53
+N000456,PRC2
+N001330,surgery with wide excisional margins
+N001309,radiation and chemotherapy
+N000316,anthracyclines plus ifosfamide
+N000837,have somewhat promising but still largely uncertain treatment roles
+N001340,targeted therapies
+N000879,no objective responses
+N001212,3-BrPA treatment
+N000427,Ki67
+N000390,bcl2
+N000391,bcl6
+N000408,cyclin D1
+N000449,p21
+N000923,sufficient to reduce NF1 associated MPNST viability potentially due inhibition of glycolysis
+N000355,Single-agent doxorubicin
+N001320,Single-agent doxorubicin
+N001241,combination of doxorubicin and anti-PDGFRA
+N000891,overall survival benefit of 11.8 months
+N001230,anti-PDGFRA
+N000803,did not reduce tumor growth
+N000804,did not result in significant anti-proliferative or pro-apoptotic activity
+N000802,did not reduce tumor burden
+N000865,mild inhibition of proliferation
+N001280,marginal excisions
+N001270,intracapsular excision
+N001219,adjuvant treatment
+N000211,doubly indented spindle cells
+N000284,S-100 protein positivity
+N001032,<= 30 years of age
+N001047,T size > 5 cm
+N001034,high grade
+N000867,multifocality 
+N000130,non-extremities
+N000159,subcutaneous areas
+N000230,hypercellularity 
+N000180,>=4 mitoses/10HPF
+N000259,necrosis
+N000219,focal myxoid areas
+N000207,Dedifferentiation 
+N000629,Bcl2 
+N000629,Bcl2
+N000692,neuroendocrine markers
+N000652,CK
+N000626,Apoptotic Protease Activating Factor
+N000678,Ki-67 >= 10%
+N000760,HTER
+N000778,TP53
+N000502,NAB2/STAT6
+N000502,NAB2-STAT6
+N000776,TERT
+N000900,recurred
+N000863,metastasized
+N000807,died of disease
+N000836,free of disease
+N000136,parotid gland
+N001170,parotid gland painless mass
+N001150,compression symptoms
+N000305,"tumors were described as well-circumscribed to encapsulated, firm, homogenous white to tan masses"
+N000303,tumors showed focally entrapped normal salivary gland acini and ducts at the edge
+N000304,tumors were cellular
+N000293,"spindled cells showed tapering cytoplasm with monotonous, round to oval nuclei with coarse nuclear chromatin distribution"
+N000239,Keloid-like to wiry collagen was present between the neoplastic cells
+N000249,Mitoses 
+N000260,necrosis was absent
+N000238,"Isolated, patulous vessels"
+N000389,bcl-2
+N000389,Bcl-2
+N000396,CD99
+N000396,CD99 
+N000580,mean tumor size was 4.5
+N000079,central nervous system
+N000081,cerebellopontine angle
+N000481,vimentin 
+N000461,RF 
+N000462,S-100
+N001216,adjuvant radiosurgery
+N000896,progression
+N001157,headache
+N001153,dizziness
+N001178,unstable walk
+N001158,hearing loss
+N000080,cerebellar pontine angle
+N000292,"spindle to oval cells were disposed in wavy fascicles between prominent, eosinophilic bands of collagen"
+N000208,Dense bands of collagen appeared in cross section as minute nodules that separated individual tumor cells
+N000199,Cellular areas with a partial hemangiopericytoma pattern
+N000085,deep soft tissue of thigh
+N000132,omentum
+N000267,p53 and p16 overexpression
+N000875,no evidence of disease
+N001089,Meningeal SFT
+N000551,SFT phenotype
+N000534,HPC phenotype
+N000440,NAB2
+N000440,NAB2 
+N000472,STAT6
+N000472,STAT6 
+N000724,staining with STAT6
+N000806,died 
+N001260,gross total resection
+N000946,Immunohistochemical 
+N000726,STAT6 antibody
+N000483,WWTR1
+N000393,CAMTA1 
+N000517,WWTR1-CAMTA1
+N000737,WWTR1-CAMTA1
+N001173,pleural-based mass
+N000928,systemic metastases
+N000822,distant metastasis
+N000554,spindle cell rhabdomyosarcoma
+N000050,postoperative numbness at the surgical site
+N000813,disease-free
+N001136,lung 
+N000877,no local or distant recurrence
+N000075,bladder neck
+N001147,acute urinary retention
+N001107,prostatic SFT
+N000617,thoracoabdominal computed tomograph
+N000945,histopathology
+N001352,TUR
+N001324,STR
+N001101,Pleuro-pulmonary solitary fibrous tumor
+N001244,complete resection
+N000704,PDGFR-alpha
+N000705,PDGFR-beta
+N000632,c-met
+N000697,p53 expression
+N000504,NAB2ex4/STAT6ex2
+N000509,NAB2ex7/STAT6ex2
+N000508,NAB2ex6/STAT6ex3
+N000506,NAB2ex6/SAT6ex16
+N000503,NAB2ex3/STAT6ex19
+N000507,NAB2ex6/STAT6ex17
+N000505,NAB2ex4/STAT6ex4
+N000674,IHC expression of STAT6
+N001018,relatively aggressive clinical outcomes
+N000537,malignant SFT
+N001108,renal SFT
+N001072,extrathoracic SFT
+N000575,kidney mass
+N000953,reverse transcription-polymerase chain reaction
+N000691,NAB2
+N000725,STAT6
+N000666,GRIA2
+N000184,activation of telomere maintenance pathways
+N000477,TERT
+N001042,older age
+N000777,TERT promoter mutation
+N000730,TERT mRNA expression
+N000910,relapse
+N000795,death
+N000564,deep location
+N000569,high signal intensities on T1-weighted imaging
+N000562,central area of necrosis
+N000557,absence of fibrotic component
+N000572,infiltrative growth pattern
+N000558,absence of tail sign
+N000584,presence of intra- and peritumoral flow-voids
+N000582,number of flow-voids
+N001133,dermis
+N001143,subcutaneous tissue
+N001138,muscle
+N000904,recurrent disease
+N000878,no local recurrences
+N000881,no regional and/or distant metastases
+N001092,metastatic STS
+N000360,temozolomide
+N000358,taxanes
+N000365,trofosfamide
+N000325,DNA topoisomerase I inhibitors
+N000324,DNA minor groove binders
+N000319,bendamustine 
+N000320,bevacizumab
+N000346,multi-tyrosine kinase inhibitors
+N000337,imatinib
+N000361,thrombospondin agonist ABT 510
+N001339,targeted oncologic therapy
+N001223,Anthracyclines with or without ifosfamide
+N000974,destructive nature
+N000838,high recurrence rate
+N000906,reducing the rates of recurrence
+N000168,upper and lower extremities
+N001356,wide surgical excision
+N000242,"low-level amplified sequences from 17q22-qter and 22q10-q13.1, or t(17;22)"
+N000490,COL1A1-PDGFB
+N000202,complex chromosomal rearrangements
+N000775,supernumerary ring chromosomes
+N000651,changes in cell cytoskeletal architecture
+N000649,cell stiffness
+N000650,cells were significant stiffer than the chondrocytes
+N000680,less stiff than their corresponding non-malignant counterparts
+N000662,F-actin content was lowe
+N000718,significant upregulation of beta-tubulin gene expression
+N000681,levels of MMP-9 monomer and dimer
+N000636,CD-31
+N000702,PCNA polyclonal antibodies
+N000947,immunohistochemical analysis
+N000223,GHR expression
+N000203,"cords, strands, and solid aggregates of round, oval, and polygonal cells"
+N000183,abundant pale eosinophilic cytoplasm
+N000313,vesicular nuclei
+N000233,inconspicuous nucleoli
+N000212,embedded in a fibromyxoid or sclerotic stroma
+N001140,regional lymph nodes
+N000084,deep soft tissues
+N001064,Cutaneous angiosarcoma
+N001181,AS
+N000152,skin of the scalp
+N000109,left lower leg
+N000091,face
+N000131,nose
+N000115,lower arm
+N000090,eyelid
+N000087,ear
+N000162,temple
+N000587,size from 0.4 up to 9.5 cm
+N000290,solid architecture
+N000268,papillary endothelial hyperplasia-like foci
+N000236,infiltrative growth pattern
+N000248,Mild to moderate lymphocytic inflammatory
+N000182,Absence of SMA
+N000240,lacks HIF-1alpha expression
+N001189,EA
+N000241,large cells with an epethelioid morphology
+N000069,adrenal gland
+N000153,"skin thyroid,"
+N000161,T4 spine
+N000140,posterior one third of the left fourth rib
+N000663,factor VIII related antigen
+N000273,presence of large polygonal epithelioid malignant cells with marked cellular atypia and pleomorphism
+N001233,bloc resection
+N001282,megavoltage radiotherapy
+N000909,regression of the tumor at 2 years
+N000174,urinary bladder
+N001190,EHE
+N001180,voiding irritation
+N001171,pelvic pain
+N001163,obstruction
+N000794,dead of disease at 6 months
+N001350,transurethral resection
+N001088,mammary angiosarcoma
+N001102,post-mastectomy angiosarcoma
+N001137,Lymph node
+N001137,lymph node
+N000164,truncal 
+N000817,disease-specific death
+N001051,younger age
+N001036,high LR grade
+N001040,multifocality
+N001044,R1 or R2 margins
+N000884,node metastases
+N001050,tumoral size
+N000113,Lip 
+N001055,angiosarcoma of the liver
+N001182,ASL
+N000114,liver 
+N000620,ultrasound detection
+N000146,retrorectal space
+N001347,trans-abdominal
+N001348,trans-sacral
+N001214,abdominal-sacral
+N000043,no perioperative death
+N000034,intraoperative injury
+N000008,Blood loss during surgery
+N001002,low mortality
+N001046,size
+N001039,mitotic activity
+N000096,genitals 
+N000588,size from 0.5 to 18 cm
+N000786,alive with disease
+N001135,liver 
+N001132,bone
+N001141,retroperitoneum
+N001142,soft tissue
+N001328,surgery and chemotherapy
+N001329,surgery and chemotherapy and/or radiation therapy
+N001103,Primary cardiac angiosarcoma
+N001201,PCAS
+N000099,heart
+N000400,CEBPB
+N000438,MYC 
+N000476,TAL1
+N000727,suppressive macrophages (SPP1+ and OLR1+)
+N000711,reduced mitochondrial gene MT-RNR2 (MTRNR2L12) expression in TME-infiltrating cells
+N000675,impaired mitochondrial function
