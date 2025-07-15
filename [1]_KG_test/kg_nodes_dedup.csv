@@ -1,1390 +1,1390 @@
 label,canonical,first_pmid,node_id
-Adverse event,adrenal insufficiency,unknown,N000000
-Adverse event,anaemia,unknown,N000001
-Adverse event,anorexia,unknown,N000002
-Adverse event,arterial hypertension,unknown,N000003
-Adverse event,asthenia,unknown,N000004
-Adverse event,atrophy,unknown,N000005
-Adverse event,bladder dysfunction,unknown,N000006
-Adverse event,bleeding,unknown,N000007
-Adverse event,blood los during surgery,unknown,N000008
-Adverse event,bone growth abnormalitie,unknown,N000009
-Adverse event,bone growth arrest,unknown,N000010
-Adverse event,chest pain,unknown,N000011
-Adverse event,decreased lymphocyte count,unknown,N000012
-Adverse event,dehydration,unknown,N000013
-Adverse event,diarrhoea,unknown,N000014
-Adverse event,edema,unknown,N000015
-Adverse event,fatigue,unknown,N000016
-Adverse event,febrile neutropenia,unknown,N000017
-Adverse event,fibrosi,unknown,N000018
-Adverse event,grade 3 adverse event,unknown,N000019
-Adverse event,grade 4 adverse event,unknown,N000020
-Adverse event,hand and foot skin reaction,unknown,N000021
-Adverse event,hand foot skin reaction,unknown,N000022
-Adverse event,hemoptysi,unknown,N000023
-Adverse event,hepatopathy,unknown,N000024
-Adverse event,hypertension,unknown,N000025
-Adverse event,hypophosphataemia,unknown,N000026
-Adverse event,immune related sae,unknown,N000027
-Adverse event,impairment of mobility and extremity function,unknown,N000028
-Adverse event,increased aspartate aminotransferase,unknown,N000029
-Adverse event,increased concentration of alanine aminotransferase,unknown,N000030
-Adverse event,induction of second malignant neoplasm,unknown,N000031
-Adverse event,infertility,unknown,N000032
-Adverse event,intracranial hemorrhage,unknown,N000033
-Adverse event,intraoperative injury,unknown,N000034
-Adverse event,liver failure,unknown,N000035
-Adverse event,moderate to severe limitation of movement,unknown,N000036
-Adverse event,muscle atrophy,unknown,N000037
-Adverse event,muscle spasm,unknown,N000038
-Adverse event,myelosuppression,unknown,N000039
-Adverse event,nausea,unknown,N000040
-Adverse event,nephriti,unknown,N000041
-Adverse event,neutropenia,unknown,N000042
-Adverse event,no perioperative death,unknown,N000043
-Adverse event,no treatment related death,unknown,N000044
-Adverse event,otiti,unknown,N000045
-Adverse event,pain requiring iv medication,unknown,N000046
-Adverse event,peripheral nerve injury,unknown,N000047
-Adverse event,pneumoniti,unknown,N000048
-Adverse event,postoperative joint stiffnes,unknown,N000049
-Adverse event,postoperative numbnes at the surgical site,unknown,N000050
-Adverse event,prolonged activated partial thromboplastin time,unknown,N000051
-Adverse event,proteinuria,unknown,N000052
-Adverse event,radial nerve palsy,unknown,N000053
-Adverse event,radiation induced myelopathy,unknown,N000054
-Adverse event,second malignant neoplasm,unknown,N000055
-Adverse event,seizure,unknown,N000056
-Adverse event,skin burn,unknown,N000057
-Adverse event,thrombocytopenia,unknown,N000058
-Adverse event,transient esophagiti,unknown,N000059
-Adverse event,treatment related death,unknown,N000060
-Adverse event,vascular injury,unknown,N000061
-Adverse event,vomiting,unknown,N000062
-Adverse event,weight los,unknown,N000063
-Adverse event,wound complication that required surgery,unknown,N000064
-Anatomical Site,abdomen,unknown,N000065
-Anatomical Site,abdominal,unknown,N000066
-Anatomical Site,abdominal wall,unknown,N000067
-Anatomical Site,adductor muscle,unknown,N000068
-Anatomical Site,adrenal gland,unknown,N000069
-Anatomical Site,aorta,unknown,N000070
-Anatomical Site,aortic arch,unknown,N000071
-Anatomical Site,ascending aorta,unknown,N000072
-Anatomical Site,back,unknown,N000073
-Anatomical Site,base of the skull,unknown,N000074
-Anatomical Site,bladder neck,unknown,N000075
-Anatomical Site,bone,unknown,N000076
-Anatomical Site,buccal fat pad,unknown,N000077
-Anatomical Site,buccal space,unknown,N000078
-Anatomical Site,central nervou system,unknown,N000079
-Anatomical Site,cerebellar pontine angle,unknown,N000080
-Anatomical Site,cerebellopontine angle,unknown,N000081
-Anatomical Site,cranial nerve,unknown,N000082
-Anatomical Site,deep groin,unknown,N000083
-Anatomical Site,deep soft tissue,unknown,N000084
-Anatomical Site,deep soft tissue of thigh,unknown,N000085
-Anatomical Site,duodenum,unknown,N000086
-Anatomical Site,ear,unknown,N000087
-Anatomical Site,extremitie,unknown,N000088
-Anatomical Site,extremity,unknown,N000089
-Anatomical Site,eyelid,unknown,N000090
-Anatomical Site,face,unknown,N000091
-Anatomical Site,facial buccal branche,unknown,N000092
-Anatomical Site,femoral arterie,unknown,N000093
-Anatomical Site,gastrocnemiu,unknown,N000094
-Anatomical Site,gastrointestinal tract,unknown,N000095
-Anatomical Site,genital,unknown,N000096
-Anatomical Site,groin muscle,unknown,N000097
-Anatomical Site,head,unknown,N000098
-Anatomical Site,heart,unknown,N000099
-Anatomical Site,inguinal area,unknown,N000100
-Anatomical Site,intraperitoneal,unknown,N000101
-Anatomical Site,intraperitoneal location,unknown,N000102
-Anatomical Site,jejunum,unknown,N000103
-Anatomical Site,kidney,unknown,N000104
-Anatomical Site,knee,unknown,N000105
-Anatomical Site,large nerve root and bundle,unknown,N000106
-Anatomical Site,large systemic vein,unknown,N000107
-Anatomical Site,left external iliac,unknown,N000108
-Anatomical Site,left lower leg,unknown,N000109
-Anatomical Site,left side of the abdomen,unknown,N000110
-Anatomical Site,left upper arm,unknown,N000111
-Anatomical Site,leg,unknown,N000112
-Anatomical Site,lip,unknown,N000113
-Anatomical Site,liver,unknown,N000114
-Anatomical Site,lower arm,unknown,N000115
-Anatomical Site,lower extremitie,unknown,N000116
-Anatomical Site,lower extremity,unknown,N000117
-Anatomical Site,lower limb,unknown,N000118
-Anatomical Site,lung,unknown,N000119
-Anatomical Site,lymph node,unknown,N000120
-Anatomical Site,masseter muscle,unknown,N000121
-Anatomical Site,masticator space,unknown,N000122
-Anatomical Site,mediastinum,unknown,N000123
-Anatomical Site,mentali,unknown,N000124
-Anatomical Site,mesentery,unknown,N000125
-Anatomical Site,meso hypogastrium,unknown,N000126
-Anatomical Site,mobile spine,unknown,N000127
-Anatomical Site,myometrium,unknown,N000128
-Anatomical Site,neck,unknown,N000129
-Anatomical Site,non extremitie,unknown,N000130
-Anatomical Site,nose,unknown,N000131
-Anatomical Site,omentum,unknown,N000132
-Anatomical Site,orbit,unknown,N000133
-Anatomical Site,paranasal sinuse,unknown,N000134
-Anatomical Site,parotid duct,unknown,N000135
-Anatomical Site,parotid gland,unknown,N000136
-Anatomical Site,pelvi,unknown,N000137
-Anatomical Site,pelvic,unknown,N000138
-Anatomical Site,posterior mediastinum,unknown,N000139
-Anatomical Site,posterior one third of the left fourth rib,unknown,N000140
-Anatomical Site,prostate,unknown,N000141
-Anatomical Site,proximal extremitie,unknown,N000142
-Anatomical Site,renal,unknown,N000143
-Anatomical Site,retroperitoneal,unknown,N000144
-Anatomical Site,retroperitoneum,unknown,N000145
-Anatomical Site,retrorectal space,unknown,N000146
-Anatomical Site,right cheek,unknown,N000147
-Anatomical Site,sacrum,unknown,N000148
-Anatomical Site,scalp,unknown,N000149
-Anatomical Site,sciatic nerve,unknown,N000150
-Anatomical Site,shoulder,unknown,N000151
-Anatomical Site,skin of the scalp,unknown,N000152
-Anatomical Site,skin thyroid,unknown,N000153
-Anatomical Site,smooth muscle of the uteru,unknown,N000154
-Anatomical Site,soft tissue,unknown,N000155
-Anatomical Site,spinal,unknown,N000156
-Anatomical Site,spinal cord,unknown,N000157
-Anatomical Site,sternocleidomastoid muscle,unknown,N000158
-Anatomical Site,subcutaneou area,unknown,N000159
-Anatomical Site,submandibular region,unknown,N000160
-Anatomical Site,t4 spine,unknown,N000161
-Anatomical Site,temple,unknown,N000162
-Anatomical Site,thigh,unknown,N000163
-Anatomical Site,truncal,unknown,N000164
-Anatomical Site,trunk,unknown,N000165
-Anatomical Site,trunk wall,unknown,N000166
-Anatomical Site,tunica intima,unknown,N000167
-Anatomical Site,upper and lower extremitie,unknown,N000168
-Anatomical Site,upper arm,unknown,N000169
-Anatomical Site,upper cervical region,unknown,N000170
-Anatomical Site,upper extremitie,unknown,N000171
-Anatomical Site,upper extremity,unknown,N000172
-Anatomical Site,upper thigh,unknown,N000173
-Anatomical Site,urinary bladder,unknown,N000174
-Anatomical Site,uterine,unknown,N000175
-Anatomical Site,uteru,unknown,N000176
-Anatomical Site,vaginal,unknown,N000177
-Anatomical Site,vastu laterali,unknown,N000178
-Anatomical Site,visceral aorta,unknown,N000179
-Biology Feature,4 mitose 10hpf,unknown,N000180
-Biology Feature,a thin layer of viable tumor cell overlying a large thrombu,unknown,N000181
-Biology Feature,absence of sma,unknown,N000182
-Biology Feature,abundant pale eosinophilic cytoplasm,unknown,N000183
-Biology Feature,activation of telomere maintenance pathway,unknown,N000184
-Biology Feature,adipocyte,unknown,N000185
-Biology Feature,albumin,unknown,N000186
-Biology Feature,amplification of the 12q13 15 region,unknown,N000187
-Biology Feature,apoplectic change,unknown,N000188
-Biology Feature,apoptosi,unknown,N000189
-Biology Feature,bcor overexpression,unknown,N000190
-Biology Feature,bizarre nuclei,unknown,N000191
-Biology Feature,blastemal predominant subtype,unknown,N000192
-Biology Feature,cd123 positive plasmacytic dendritic cell,unknown,N000193
-Biology Feature,cd163 positive macrophage,unknown,N000194
-Biology Feature,cd20 positive b cell,unknown,N000195
-Biology Feature,cd3 cd4 positive lymphocyte,unknown,N000196
-Biology Feature,cell pleomorphism,unknown,N000197
-Biology Feature,cell size area cm2,unknown,N000198
-Biology Feature,cellular area with a partial hemangiopericytoma pattern,unknown,N000199
-Biology Feature,classical hematoxylin eosin he staining,unknown,N000200
-Biology Feature,coexpression of keratin and endothelial marker,unknown,N000201
-Biology Feature,complex chromosomal rearrangement,unknown,N000202
-Biology Feature,cord strand and solid aggregate of round oval and polygonal cell,unknown,N000203
-Biology Feature,cystic degeneration,unknown,N000204
-Biology Feature,cytogenetic finding,unknown,N000205
-Biology Feature,cytologic atypia,unknown,N000206
-Biology Feature,dedifferentiation,unknown,N000207
-Biology Feature,dense band of collagen appeared in cros section a minute nodule that separated individual tumor cell,unknown,N000208
-Biology Feature,diffuse anaplasia,unknown,N000209
-Biology Feature,diffusely infiltrating growth,unknown,N000210
-Biology Feature,doubly indented spindle cell,unknown,N000211
-Biology Feature,embedded in a fibromyxoid or sclerotic stroma,unknown,N000212
-Biology Feature,epithelial and stromal predominant,unknown,N000213
-Biology Feature,epithelioid morphology,unknown,N000214
-Biology Feature,fibrolipoma,unknown,N000215
-Biology Feature,fibrosi,unknown,N000216
-Biology Feature,focal anaplasia,unknown,N000217
-Biology Feature,focal fibrosarcomatou and focal giant cell fibroblastoma like change,unknown,N000218
-Biology Feature,focal myxoid area,unknown,N000219
-Biology Feature,focal neurogenic,unknown,N000220
-Biology Feature,focal weak fosb staining,unknown,N000221
-Biology Feature,foci of lymphovascular invasion,unknown,N000222
-Biology Feature,ghr expression,unknown,N000223
-Biology Feature,h3k27me3 los,unknown,N000224
-Biology Feature,have higher pd l1 expression,unknown,N000225
-Biology Feature,hemoglobin,unknown,N000226
-Biology Feature,high expression of cancer testi antigen cta,unknown,N000227
-Biology Feature,histone acetylation and nuclear heparanase level,unknown,N000228
-Biology Feature,hotspot area easier to locate in whole section,unknown,N000229
-Biology Feature,hypercellularity,unknown,N000230
-Biology Feature,hypocellular area,unknown,N000231
-Biology Feature,immunohistochemical feature,unknown,N000232
-Biology Feature,inconspicuou nucleoli,unknown,N000233
-Biology Feature,increased mitotic activity,unknown,N000234
-Biology Feature,infiltration,unknown,N000235
-Biology Feature,infiltrative growth pattern,unknown,N000236
-Biology Feature,inflammation,unknown,N000237
-Biology Feature,isolated patulou vessel,unknown,N000238
-Biology Feature,keloid like to wiry collagen wa present between the neoplastic cell,unknown,N000239
-Biology Feature,lack hif 1alpha expression,unknown,N000240
-Biology Feature,large cell with an epethelioid morphology,unknown,N000241
-Biology Feature,low level amplified sequence from 17q22 qter and 22q10 q131 or t1722,unknown,N000242
-Biology Feature,lymphoplasmacytic infiltrate,unknown,N000243
-Biology Feature,lymphovascular invasion,unknown,N000244
-Biology Feature,major histocompatibility complex 1 and weak igg4 were focally positive,unknown,N000245
-Biology Feature,matrix rich in proteoglycan and glycosaminoglycan,unknown,N000246
-Biology Feature,mdm2 and cdk4 staining,unknown,N000247
-Biology Feature,mild to moderate lymphocytic inflammatory,unknown,N000248
-Biology Feature,mitose,unknown,N000249
-Biology Feature,mitotic activity,unknown,N000250
-Biology Feature,mitotic rate,unknown,N000251
-Biology Feature,morphologic pattern,unknown,N000252
-Biology Feature,multifocal geographic necrose,unknown,N000253
-Biology Feature,multifocal presentation,unknown,N000254
-Biology Feature,myxoid area,unknown,N000255
-Biology Feature,myxoid change,unknown,N000256
-Biology Feature,myxoid mas,unknown,N000257
-Biology Feature,myxoid stromal change,unknown,N000258
-Biology Feature,necrosi,unknown,N000259
-Biology Feature,necrosi wa absent,unknown,N000260
-Biology Feature,neutrophil to lymphocyte ratio,unknown,N000261
-Biology Feature,nuclear pleomorphism,unknown,N000262
-Biology Feature,nuclear staining,unknown,N000263
-Biology Feature,numerou blood vessel with slightly fibrosed vessel wall,unknown,N000264
-Biology Feature,oval to spindle shaped cell arranged in sheet and fascicle or herringbone like pattern within a small amount of edematou to myxoid vascularized stroma,unknown,N000265
-Biology Feature,overlapping feature with soft tissue giant cell fibroblastoma,unknown,N000266
-Biology Feature,p53 and p16 overexpression,unknown,N000267
-Biology Feature,papillary endothelial hyperplasia like foci,unknown,N000268
-Biology Feature,plump spindled and epithelioid cell,unknown,N000269
-Biology Feature,polyploidy,unknown,N000270
-Biology Feature,poorly differentiated epithelioid and pleomorphic malignant neoplasm,unknown,N000271
-Biology Feature,predominant myxoid component,unknown,N000272
-Biology Feature,presence of large polygonal epithelioid malignant cell with marked cellular atypia and pleomorphism,unknown,N000273
-Biology Feature,presence of node,unknown,N000274
-Biology Feature,presence of villou growth,unknown,N000275
-Biology Feature,proliferation,unknown,N000276
-Biology Feature,prominent eosinophil,unknown,N000277
-Biology Feature,prominent mitotic figure,unknown,N000278
-Biology Feature,rare mitosi on high power field,unknown,N000279
-Biology Feature,rarely it may contain melanin pigment,unknown,N000280
-Biology Feature,reactivity for at least 3 of 5 immunohistochemistry ihc marker,unknown,N000281
-Biology Feature,rhabdoid morphology,unknown,N000282
-Biology Feature,round cell tumor with pathology consistent with ewing sarcoma,unknown,N000283
-Biology Feature,s 100 protein positivity,unknown,N000284
-Biology Feature,scattered enlarged tumor cell,unknown,N000285
-Biology Feature,severity of hemosiderosi,unknown,N000286
-Biology Feature,siglec 15 and pd l1 expression were evaluated using immunohistochemistry,unknown,N000287
-Biology Feature,skeletal muscle fiber with vacuolar change,unknown,N000288
-Biology Feature,smooth muscle component,unknown,N000289
-Biology Feature,solid architecture,unknown,N000290
-Biology Feature,spindle cell lipoma,unknown,N000291
-Biology Feature,spindle to oval cell were disposed in wavy fascicle between prominent eosinophilic band of collagen,unknown,N000292
-Biology Feature,spindled cell showed tapering cytoplasm with monotonou round to oval nuclei with coarse nuclear chromatin distribution,unknown,N000293
-Biology Feature,stromal collagen,unknown,N000294
-Biology Feature,stromal intramembranou ossification,unknown,N000295
-Biology Feature,stromal myxoid change,unknown,N000296
-Biology Feature,strong and diffuse nuclear bcor immunoreactivity,unknown,N000297
-Biology Feature,strong diffuse cytoplasmic staining for muc4,unknown,N000298
-Biology Feature,the distinctive histopathologic appearance of the primary luminal lesion wa lost whenever tumor invaded outside the vessel wall,unknown,N000299
-Biology Feature,the number of multinucleated giant cell,unknown,N000300
-Biology Feature,the sum of longest tumor diameter sld visualized by cros sectional imaging correlated significantly with paired tumor fraction in plasma,unknown,N000301
-Biology Feature,tumor cell necrosi,unknown,N000302
-Biology Feature,tumor showed focally entrapped normal salivary gland acini and duct at the edge,unknown,N000303
-Biology Feature,tumor were cellular,unknown,N000304
-Biology Feature,tumor were described a well circumscribed to encapsulated firm homogenou white to tan masse,unknown,N000305
-Biology Feature,type of predominant cellular proliferate,unknown,N000306
-Biology Feature,uncertain behavior to low grade malignant,unknown,N000307
-Biology Feature,unusual multivacuolated adipocytic cell,unknown,N000308
-Biology Feature,variable hemorrhage,unknown,N000309
-Biology Feature,variable mitotic activity,unknown,N000310
-Biology Feature,variable myopathic,unknown,N000311
-Biology Feature,vascular crow feet pattern,unknown,N000312
-Biology Feature,vesicular nuclei,unknown,N000313
-Drug,amg 900,unknown,N000314
-Drug,anthracycline,unknown,N000315
-Drug,anthracycline plu ifosfamide,unknown,N000316
-Drug,antiangiogenic,unknown,N000317
-Drug,azd1152 hqpa,unknown,N000318
-Drug,bendamustine,unknown,N000319
-Drug,bevacizumab,unknown,N000320
-Drug,cediranib,unknown,N000321
-Drug,cisplatin,unknown,N000322
-Drug,dacarbazine,unknown,N000323
-Drug,dna minor groove binder,unknown,N000324
-Drug,dna topoisomerase i inhibitor,unknown,N000325
-Drug,docetaxel,unknown,N000326
-Drug,doxorubicin,unknown,N000327
-Drug,efavirenz,unknown,N000328
-Drug,epirubicin,unknown,N000329
-Drug,esomeprazole,unknown,N000330
-Drug,etoposide,unknown,N000331
-Drug,fk228,unknown,N000332
-Drug,fluconazole,unknown,N000333
-Drug,gemcitabine,unknown,N000334
-Drug,hdac inhibitor,unknown,N000335
-Drug,ifosfamide,unknown,N000336
-Drug,imatinib,unknown,N000337
-Drug,imatinib mesilat,unknown,N000338
-Drug,imatinib mesylate,unknown,N000339
-Drug,intratumoral talimogene laherpavec,unknown,N000340
-Drug,intravenou etoposide,unknown,N000341
-Drug,intravenou ifosfamide,unknown,N000342
-Drug,irinotecan,unknown,N000343
-Drug,itraconazole,unknown,N000344
-Drug,mk 5108,unknown,N000345
-Drug,multi tyrosine kinase inhibitor,unknown,N000346
-Drug,olaratumab,unknown,N000347
-Drug,pazopanib,unknown,N000348
-Drug,pembrolizumab,unknown,N000349
-Drug,pexidartinib,unknown,N000350
-Drug,probenecid,unknown,N000351
-Drug,regorafenib,unknown,N000352
-Drug,rifampin,unknown,N000353
-Drug,saha,unknown,N000354
-Drug,single agent doxorubicin,unknown,N000355
-Drug,sst0001 roneparstat,unknown,N000356
-Drug,talazoparib,unknown,N000357
-Drug,taxane,unknown,N000358
-Drug,tazemetostat,unknown,N000359
-Drug,temozolomide,unknown,N000360
-Drug,thrombospondin agonist abt 510,unknown,N000361
-Drug,topotecan,unknown,N000362
-Drug,trabectedin,unknown,N000363
-Drug,trametinib,unknown,N000364
-Drug,trofosfamide,unknown,N000365
-Drug,tyrosine kinase braf or mek inhibitor,unknown,N000366
-Drug,tyrosine kinase inhibitor,unknown,N000367
-Drug response outcome,cytoprotective,unknown,N000368
-Drug response outcome,improving progression free survival,unknown,N000369
-Drug response outcome,modest improvement in pain,unknown,N000370
-Drug response outcome,no treatment related death,unknown,N000371
-Drug response outcome,objective response,unknown,N000372
-Drug response outcome,reduction in tumor size,unknown,N000373
-Drug response outcome,yield an impressive 35% orr when associated to pembrolizumab,unknown,N000374
-Evaluation Result,exces over blis score ch2879 59% lower 95% ci 52% jj012 18% lower 95% ci 8% and sw1353 55% lower 95% ci 25% of thi combination treatment,unknown,N000375
-Evaluation Result,for the evaluable population wa 83% iqr 265 to 59 with cediranib versu 134% iqr 11 to 213 with placebo one sided p00010,unknown,N000376
-Follow-up Plan,clinical follow up of patient with dfsp after tumor excision should be performed every six month for the first five year,unknown,N000377
-Follow-up Plan,close postoperative follow up i,unknown,N000378
-Follow-up Plan,regular yearly or more frequent follow up,unknown,N000379
-Gene,ahsg,unknown,N000380
-Gene,akt,unknown,N000381
-Gene,alk,unknown,N000382
-Gene,ambp,unknown,N000383
-Gene,apoa1,unknown,N000384
-Gene,arid1a,unknown,N000385
-Gene,atf1,unknown,N000386
-Gene,aurora kinase a,unknown,N000387
-Gene,aurora kinase b,unknown,N000388
-Gene,bcl 2,unknown,N000389
-Gene,bcl2,unknown,N000390
-Gene,bcl6,unknown,N000391
-Gene,bcor,unknown,N000392
-Gene,camta1,unknown,N000393
-Gene,ccnb3,unknown,N000394
-Gene,cd34,unknown,N000395
-Gene,cd99,unknown,N000396
-Gene,cdk4,unknown,N000397
-Gene,cdkn2a,unknown,N000398
-Gene,cdkn2a b,unknown,N000399
-Gene,cebpb,unknown,N000400
-Gene,cep290,unknown,N000401
-Gene,chop,unknown,N000402
-Gene,chop translocation at 12q131 q132,unknown,N000403
-Gene,classic ra,unknown,N000404
-Gene,cltc,unknown,N000405
-Gene,col1a1,unknown,N000406
-Gene,creb3l1,unknown,N000407
-Gene,cyclin d1,unknown,N000408
-Gene,egfr,unknown,N000409
-Gene,erbb4,unknown,N000410
-Gene,etv6,unknown,N000411
-Gene,ew,unknown,N000412
-Gene,ewsr1,unknown,N000413
-Gene,ezh2,unknown,N000414
-Gene,f2,unknown,N000415
-Gene,fli1,unknown,N000416
-Gene,fm like tyrosine kinase 3,unknown,N000417
-Gene,fosb,unknown,N000418
-Gene,foxp2,unknown,N000419
-Gene,fu,unknown,N000420
-Gene,h ra,unknown,N000421
-Gene,hter,unknown,N000422
-Gene,ick,unknown,N000423
-Gene,ini1,unknown,N000424
-Gene,k ra,unknown,N000425
-Gene,kdr,unknown,N000426
-Gene,ki67,unknown,N000427
-Gene,kit,unknown,N000428
-Gene,kit proto oncogene receptor tyrosine kinase,unknown,N000429
-Gene,lmna,unknown,N000430
-Gene,m ra,unknown,N000431
-Gene,maml3,unknown,N000432
-Gene,mapk,unknown,N000433
-Gene,mdm2,unknown,N000434
-Gene,mdm2 at 12q13 15,unknown,N000435
-Gene,met,unknown,N000436
-Gene,mtor,unknown,N000437
-Gene,myc,unknown,N000438
-Gene,n ra,unknown,N000439
-Gene,nab2,unknown,N000440
-Gene,nf1,unknown,N000441
-Gene,nf2,unknown,N000442
-Gene,nr4a3,unknown,N000443
-Gene,nrg1beta,unknown,N000444
-Gene,ntrk,unknown,N000445
-Gene,ntrk1,unknown,N000446
-Gene,ntrk3,unknown,N000447
-Gene,nutm2b,unknown,N000448
-Gene,p21,unknown,N000449
-Gene,p53,unknown,N000450
-Gene,pd l1,unknown,N000451
-Gene,pdgfb,unknown,N000452
-Gene,pdgfr,unknown,N000453
-Gene,pdgfra,unknown,N000454
-Gene,pikc3,unknown,N000455
-Gene,prc2,unknown,N000456
-Gene,pten,unknown,N000457
-Gene,r ra,unknown,N000458
-Gene,r ras2,unknown,N000459
-Gene,ra,unknown,N000460
-Gene,rf,unknown,N000461
-Gene,s 100,unknown,N000462
-Gene,serpinc1,unknown,N000463
-Gene,serpine1,unknown,N000464
-Gene,siglec 15,unknown,N000465
-Gene,smarca2,unknown,N000466
-Gene,smarca4,unknown,N000467
-Gene,smarcb1,unknown,N000468
-Gene,sox2,unknown,N000469
-Gene,ss18,unknown,N000470
-Gene,ssx,unknown,N000471
-Gene,stat6,unknown,N000472
-Gene,strn3,unknown,N000473
-Gene,suz12,unknown,N000474
-Gene,syt,unknown,N000475
-Gene,tal1,unknown,N000476
-Gene,tert,unknown,N000477
-Gene,tp53,unknown,N000478
-Gene,tpm3,unknown,N000479
-Gene,trp53,unknown,N000480
-Gene,vimentin,unknown,N000481
-Gene,vwc2,unknown,N000482
-Gene,wwtr1,unknown,N000483
-Gene,ywhae,unknown,N000484
-Gene Fusion,alk tpm3,unknown,N000485
-Gene Fusion,bcor ccnb3,unknown,N000486
-Gene Fusion,bcor maml3,unknown,N000487
-Gene Fusion,cep290 met,unknown,N000488
-Gene Fusion,cltc alk,unknown,N000489
-Gene Fusion,col1a1 pdgfb,unknown,N000490
-Gene Fusion,col1a1 pdgfb fusion gene,unknown,N000491
-Gene Fusion,etv6 ntrk,unknown,N000492
-Gene Fusion,ew atf1,unknown,N000493
-Gene Fusion,ew chop,unknown,N000494
-Gene Fusion,ew fli1,unknown,N000495
-Gene Fusion,ewsr1 rearrangement,unknown,N000496
-Gene Fusion,fosb gene fusion,unknown,N000497
-Gene Fusion,foxp2 met,unknown,N000498
-Gene Fusion,fu chop,unknown,N000499
-Gene Fusion,ick kdr,unknown,N000500
-Gene Fusion,lmna ntrk1,unknown,N000501
-Gene Fusion,nab2 stat6,unknown,N000502
-Gene Fusion,nab2ex3 stat6ex19,unknown,N000503
-Gene Fusion,nab2ex4 stat6ex2,unknown,N000504
-Gene Fusion,nab2ex4 stat6ex4,unknown,N000505
-Gene Fusion,nab2ex6 sat6ex16,unknown,N000506
-Gene Fusion,nab2ex6 stat6ex17,unknown,N000507
-Gene Fusion,nab2ex6 stat6ex3,unknown,N000508
-Gene Fusion,nab2ex7 stat6ex2,unknown,N000509
-Gene Fusion,nr4a3 translocated,unknown,N000510
-Gene Fusion,serpine1 fosb fusion,unknown,N000511
-Gene Fusion,ss18 ssx fusion oncogene,unknown,N000512
-Gene Fusion,ss18 ssx gene fusion,unknown,N000513
-Gene Fusion,strn3 ntrk3,unknown,N000514
-Gene Fusion,syt ssx,unknown,N000515
-Gene Fusion,vwc2 egfr,unknown,N000516
-Gene Fusion,wwtr1 camta1,unknown,N000517
-Gene Fusion,ywhae nutm2b,unknown,N000518
-Histological Subtype,alveolar rhabdomyosarcoma,unknown,N000519
-Histological Subtype,biphasic synovial sarcoma,unknown,N000520
-Histological Subtype,ddlp,unknown,N000521
-Histological Subtype,de differentiated liposarcoma,unknown,N000522
-Histological Subtype,dedifferentiated chondrosarcoma,unknown,N000523
-Histological Subtype,dedifferentiated liposarcoma,unknown,N000524
-Histological Subtype,embryonal rhabdomyosarcoma,unknown,N000525
-Histological Subtype,epithelioid angiosarcoma,unknown,N000526
-Histological Subtype,epithelioid gastrointestinal stromal tumor,unknown,N000527
-Histological Subtype,epithelioid liposarcoma,unknown,N000528
-Histological Subtype,epithelioid malignant peripheral nerve sheath tumor,unknown,N000529
-Histological Subtype,fibroma like epithelioid sarcoma,unknown,N000530
-Histological Subtype,fibrosarcomatou dermatofibrosarcoma protuberan,unknown,N000531
-Histological Subtype,fibrosarcomatou myofibroblastic and granular cell dfsp,unknown,N000532
-Histological Subtype,high grade myxoid liposarcoma,unknown,N000533
-Histological Subtype,hpc phenotype,unknown,N000534
-Histological Subtype,intraperitoneal dedifferentiated liposarcoma,unknown,N000535
-Histological Subtype,lipoleiomyosarcoma,unknown,N000536
-Histological Subtype,malignant sft,unknown,N000537
-Histological Subtype,mlp,unknown,N000538
-Histological Subtype,myxoid leiomyosarcoma,unknown,N000539
-Histological Subtype,myxoid liposarcoma,unknown,N000540
-Histological Subtype,myxoid or round cell liposarcoma,unknown,N000541
-Histological Subtype,myxoid round cell liposarcoma,unknown,N000542
-Histological Subtype,pigmented dermatofibrosarcoma protuberan,unknown,N000543
-Histological Subtype,pleomorphic liposarcoma,unknown,N000544
-Histological Subtype,pleomorphic rhabdomyosarcoma,unknown,N000545
-Histological Subtype,plp,unknown,N000546
-Histological Subtype,poorly differentiated synovial sarcoma,unknown,N000547
-Histological Subtype,proximal type epithelioid sarcoma,unknown,N000548
-Histological Subtype,round cell liposarcoma,unknown,N000549
-Histological Subtype,sclerosing rhabdomyosarcoma,unknown,N000550
-Histological Subtype,sft phenotype,unknown,N000551
-Histological Subtype,spindle cell angiosarcoma,unknown,N000552
-Histological Subtype,spindle cell mpnst,unknown,N000553
-Histological Subtype,spindle cell rhabdomyosarcoma,unknown,N000554
-Histological Subtype,wdlp,unknown,N000555
-Histological Subtype,well differentiated liposarcoma,unknown,N000556
-Imaging Feature,absence of fibrotic component,unknown,N000557
-Imaging Feature,absence of tail sign,unknown,N000558
-Imaging Feature,adc cutoff value of 09 10,unknown,N000559
-Imaging Feature,asymptomatic recurrence found during regular mri,unknown,N000560
-Imaging Feature,biphasic pattern,unknown,N000561
-Imaging Feature,central area of necrosi,unknown,N000562
-Imaging Feature,centrally located palpable nodule measuring between 3 and 5 mm,unknown,N000563
-Imaging Feature,deep location,unknown,N000564
-Imaging Feature,dw signal intensity,unknown,N000565
-Imaging Feature,enlarged pelvic lymph node,unknown,N000566
-Imaging Feature,extent of disease,unknown,N000567
-Imaging Feature,heterogeneou density mas,unknown,N000568
-Imaging Feature,high signal intensitie on t1 weighted imaging,unknown,N000569
-Imaging Feature,histopathological mimic,unknown,N000570
-Imaging Feature,ill defined plaque measuring 10 cm,unknown,N000571
-Imaging Feature,infiltrative growth pattern,unknown,N000572
-Imaging Feature,infiltrative irregular tumor margin,unknown,N000573
-Imaging Feature,irregular tumor margin,unknown,N000574
-Imaging Feature,kidney mas,unknown,N000575
-Imaging Feature,large ill defined prostatic mas lesion with circumferential extension into the rectal wall,unknown,N000576
-Imaging Feature,large lobulated masse,unknown,N000577
-Imaging Feature,largely necrotic,unknown,N000578
-Imaging Feature,mas response,unknown,N000579
-Imaging Feature,mean tumor size wa 45,unknown,N000580
-Imaging Feature,nodular growth,unknown,N000581
-Imaging Feature,number of flow void,unknown,N000582
-Imaging Feature,peripheral diffuse infiltration,unknown,N000583
-Imaging Feature,presence of intra and peritumoral flow void,unknown,N000584
-Imaging Feature,radiological phenotype,unknown,N000585
-Imaging Feature,resection potential,unknown,N000586
-Imaging Feature,size from 04 up to 95 cm,unknown,N000587
-Imaging Feature,size from 05 to 18 cm,unknown,N000588
-Imaging Feature,skin discoloration,unknown,N000589
-Imaging Feature,slightly enlarged nuclei,unknown,N000590
-Imaging Feature,slowly growing indurated dermal plaque or firm nodule attached to the skin,unknown,N000591
-Imaging Feature,soft and gelatinou,unknown,N000592
-Imaging Feature,solid and cystic mas,unknown,N000593
-Imaging Feature,t2w signal intensity,unknown,N000594
-Imaging Feature,tumor depth,unknown,N000595
-Imaging Feature,tumor diameter,unknown,N000596
-Imaging Feature,tumor grade,unknown,N000597
-Imaging Feature,tumor location,unknown,N000598
-Imaging Feature,tumor ranged from 1 cm to over 10 cm in diameter,unknown,N000599
-Imaging Feature,tumor size,unknown,N000600
-Imaging Feature,tumor size 8 cm,unknown,N000601
-Imaging Feature,tumor volume,unknown,N000602
-Imaging Mehtod,18f fdg pet ct,unknown,N000603
-Imaging Mehtod,computed tomography,unknown,N000604
-Imaging Mehtod,contrast enhanced ct scan,unknown,N000605
-Imaging Mehtod,ct,unknown,N000606
-Imaging Mehtod,ct based radiomic,unknown,N000607
-Imaging Mehtod,f fdg pet alone,unknown,N000608
-Imaging Mehtod,fdg pet,unknown,N000609
-Imaging Mehtod,magnetic resonance imaging,unknown,N000610
-Imaging Mehtod,mri,unknown,N000611
-Imaging Mehtod,mri scan,unknown,N000612
-Imaging Mehtod,pelvic ultrasonography,unknown,N000613
-Imaging Mehtod,pet ct,unknown,N000614
-Imaging Mehtod,positron emission tomography,unknown,N000615
-Imaging Mehtod,scintigraphy,unknown,N000616
-Imaging Mehtod,thoracoabdominal computed tomograph,unknown,N000617
-Imaging Mehtod,tumor to background ratio,unknown,N000618
-Imaging Mehtod,ultrasound,unknown,N000619
-Imaging Mehtod,ultrasound detection,unknown,N000620
-Imaging Mehtod,visual inspection of scintigram,unknown,N000621
-Marker,alk,unknown,N000622
-Marker,alk1,unknown,N000623
-Marker,alpha smooth muscle actin,unknown,N000624
-Marker,alternative lengthening of telomere alt pathway,unknown,N000625
-Marker,apoptotic protease activating factor,unknown,N000626
-Marker,aurora kinase a and b mrna expression,unknown,N000627
-Marker,bcl 2,unknown,N000628
-Marker,bcl2,unknown,N000629
-Marker,bcor gene expression,unknown,N000630
-Marker,c kit,unknown,N000631
-Marker,c met,unknown,N000632
-Marker,calsequestrin 2,unknown,N000633
-Marker,camta1,unknown,N000634
-Marker,cathepsink,unknown,N000635
-Marker,cd 31,unknown,N000636
-Marker,cd10,unknown,N000637
-Marker,cd123,unknown,N000638
-Marker,cd163,unknown,N000639
-Marker,cd20,unknown,N000640
-Marker,cd21,unknown,N000641
-Marker,cd3,unknown,N000642
-Marker,cd31,unknown,N000643
-Marker,cd34,unknown,N000644
-Marker,cd34 expression,unknown,N000645
-Marker,cd4,unknown,N000646
-Marker,cd99,unknown,N000647
-Marker,cdk4,unknown,N000648
-Marker,cell stiffnes,unknown,N000649
-Marker,cell were significant stiffer than the chondrocyte,unknown,N000650
-Marker,change in cell cytoskeletal architecture,unknown,N000651
-Marker,ck,unknown,N000652
-Marker,col1a1 pdgfb fusion gene,unknown,N000653
-Marker,collagen iv laminin,unknown,N000654
-Marker,complete los of arid1a expression,unknown,N000655
-Marker,desmin,unknown,N000656
-Marker,egr1,unknown,N000657
-Marker,ema,unknown,N000658
-Marker,epithelial membrane antigen,unknown,N000659
-Marker,ewsr1 and creb3l1 rearrangement,unknown,N000660
-Marker,expression of aurora kinase a and b,unknown,N000661
-Marker,f actin content wa lowe,unknown,N000662
-Marker,factor viii related antigen,unknown,N000663
-Marker,fli 1,unknown,N000664
-Marker,fosb expression,unknown,N000665
-Marker,gria2,unknown,N000666
-Marker,h caldesmon,unknown,N000667
-Marker,h3k27me3,unknown,N000668
-Marker,heparanase,unknown,N000669
-Marker,high molecular weight ck,unknown,N000670
-Marker,hmb 45,unknown,N000671
-Marker,human muscle cofilin2,unknown,N000672
-Marker,igg4,unknown,N000673
-Marker,ihc expression of stat6,unknown,N000674
-Marker,impaired mitochondrial function,unknown,N000675
-Marker,ini1,unknown,N000676
-Marker,ki 67,unknown,N000677
-Marker,ki 67 10%,unknown,N000678
-Marker,ki 67 index,unknown,N000679
-Marker,les stiff than their corresponding non malignant counterpart,unknown,N000680
-Marker,level of mmp 9 monomer and dimer,unknown,N000681
-Marker,major histocompatibility complex 1,unknown,N000682
-Marker,mdm2,unknown,N000683
-Marker,melana,unknown,N000684
-Marker,mitf,unknown,N000685
-Marker,mitotic count,unknown,N000686
-Marker,muc4 expression,unknown,N000687
-Marker,myo d1,unknown,N000688
-Marker,myogenin,unknown,N000689
-Marker,myosin light chain kinase,unknown,N000690
-Marker,nab2,unknown,N000691
-Marker,neuroendocrine marker,unknown,N000692
-Marker,over expression of pdgfbeta,unknown,N000693
-Marker,p16,unknown,N000694
-Marker,p16 should be used with caution,unknown,N000695
-Marker,p53,unknown,N000696
-Marker,p53 expression,unknown,N000697
-Marker,p53 through it acetylation,unknown,N000698
-Marker,p63,unknown,N000699
-Marker,pax2,unknown,N000700
-Marker,pax8,unknown,N000701
-Marker,pcna polyclonal antibodie,unknown,N000702
-Marker,pd l1 expression,unknown,N000703
-Marker,pdgfr alpha,unknown,N000704
-Marker,pdgfr beta,unknown,N000705
-Marker,pgp 95 expression in mesenchymal neoplasm,unknown,N000706
-Marker,prame,unknown,N000707
-Marker,pretreatment level of albumin hemoglobin and neutrophil to lymphocyte ratio,unknown,N000708
-Marker,promyelocytic leukemia nuclear body,unknown,N000709
-Marker,protein s 100,unknown,N000710
-Marker,reduced mitochondrial gene mt rnr2 mtrnr2l12 expression in tme infiltrating cell,unknown,N000711
-Marker,s 100 protein,unknown,N000712
-Marker,s100,unknown,N000713
-Marker,s100 protein,unknown,N000714
-Marker,sarcolemmal membrane associated protein,unknown,N000715
-Marker,satb2 mrna upregulation,unknown,N000716
-Marker,siglec 15 expression,unknown,N000717
-Marker,significant upregulation of beta tubulin gene expression,unknown,N000718
-Marker,sma,unknown,N000719
-Marker,smooth muscle actin,unknown,N000720
-Marker,smooth muscle gamma actin,unknown,N000721
-Marker,sox10,unknown,N000722
-Marker,sox2 protein expression,unknown,N000723
-Marker,staining with stat6,unknown,N000724
-Marker,stat6,unknown,N000725
-Marker,stat6 antibody,unknown,N000726
-Marker,suppressive macrophage spp1+ and olr1+,unknown,N000727
-Marker,telomerase,unknown,N000728
-Marker,telomere length,unknown,N000729
-Marker,tert mrna expression,unknown,N000730
-Marker,tfe 3,unknown,N000731
-Marker,tfe3,unknown,N000732
-Marker,tle1,unknown,N000733
-Marker,truncated splice variant of aurora kinase b,unknown,N000734
-Marker,wide spectrum cytokeratin,unknown,N000735
-Marker,wt1,unknown,N000736
-Marker,wwtr1 camta1,unknown,N000737
-Model Evaluation Method,calculating exces over blis score,unknown,N000738
-Model Evaluation Method,calibration curve,unknown,N000739
-Model Evaluation Method,confidence interval,unknown,N000740
-Model Evaluation Method,hazard ratio,unknown,N000741
-Model Evaluation Method,kaplan meier k m curve,unknown,N000742
-Model Evaluation Method,log rank test,unknown,N000743
-Model Evaluation Method,percentage change in sum of target marker lesion diameter,unknown,N000744
-Model Evaluation Method,precision recall p r curve,unknown,N000745
-Model Evaluation Method,receiver operator curve,unknown,N000746
-Model Evaluation Method,roc,unknown,N000747
-Mutation,aberration of the switch sucrose non fermentable,unknown,N000748
-Mutation,activating enhancer of zeste homolog 2 ezh2 mutation,unknown,N000749
-Mutation,alteration,unknown,N000750
-Mutation,bcor internal tandem duplication,unknown,N000751
-Mutation,biallelic inactivation mutation of arid1a,unknown,N000752
-Mutation,biallelic smarcb1 the gene that encode ini1 alteration,unknown,N000753
-Mutation,duplication,unknown,N000754
-Mutation,exon 9 insertion duplication ay502 503,unknown,N000755
-Mutation,focal copy number gain in chromosome arm 1q 7p 8q 9q and 17q,unknown,N000756
-Mutation,focal copy number losse in suz12 smarca2 cdkn2a b and chromosome arm 6p and 9p,unknown,N000757
-Mutation,focal nf1 copy number los,unknown,N000758
-Mutation,heterozygou los of function variant in the tumor suppressor gene nf1,unknown,N000759
-Mutation,hter,unknown,N000760
-Mutation,idh wildtype,unknown,N000761
-Mutation,idh1 mutant,unknown,N000762
-Mutation,idh2 mutant,unknown,N000763
-Mutation,in frame deletion,unknown,N000764
-Mutation,internal tandem duplication mutation,unknown,N000765
-Mutation,kit exon 11 mutation,unknown,N000766
-Mutation,los of ini1 expression,unknown,N000767
-Mutation,los of the other nf2 allele,unknown,N000768
-Mutation,med12 mutation,unknown,N000769
-Mutation,mutation of the nf1 gene,unknown,N000770
-Mutation,nf1 null,unknown,N000771
-Mutation,nonsense or missense mutation in nf2 gene,unknown,N000772
-Mutation,pdgfra mutation,unknown,N000773
-Mutation,point mutation,unknown,N000774
-Mutation,supernumerary ring chromosome,unknown,N000775
-Mutation,tert,unknown,N000776
-Mutation,tert promoter mutation,unknown,N000777
-Mutation,tp53,unknown,N000778
-Mutation,truncated splice variant,unknown,N000779
-Outcome,1 year 3 year and 5 year overall survival rate for the entire cohort wa 862% 95% confidence interval ci 852% 872% 705% 95% ci 689% 721% and 630% 95% ci 612% 648%,unknown,N000780
-Outcome,5 year event free survival and overall survival were 889% 95% ci 840 938 and 962% 932 992 in the low risk group 650% 582 718 and 792% 734 850 in the intermediate risk group and 212% 114 311 and 355% 236 474 in the high risk group,unknown,N000781
-Outcome,5 year survival rate 70%,unknown,N000782
-Outcome,achieving encouraging result especially with pembrolizumab and doxorubicin at an early stage or ici with antiangiogenic,unknown,N000783
-Outcome,activity wa limited,unknown,N000784
-Outcome,additional primary malignancie developed,unknown,N000785
-Outcome,alive with disease,unknown,N000786
-Outcome,alive without disease,unknown,N000787
-Outcome,an orr ranging from 20 to 50%,unknown,N000788
-Outcome,antiproliferative and pro apoptotic effect,unknown,N000789
-Outcome,better o,unknown,N000790
-Outcome,cachexia,unknown,N000791
-Outcome,complete response,unknown,N000792
-Outcome,complete response wa achieved,unknown,N000793
-Outcome,dead of disease at 6 month,unknown,N000794
-Outcome,death,unknown,N000795
-Outcome,delaying disease progression,unknown,N000796
-Outcome,detection of distant metastase,unknown,N000797
-Outcome,detection of regional lymph node metastase,unknown,N000798
-Outcome,did not affect ra activation,unknown,N000799
-Outcome,did not alter proliferation,unknown,N000800
-Outcome,did not have a significant influence on local recurrence or survival,unknown,N000801
-Outcome,did not reduce tumor burden,unknown,N000802
-Outcome,did not reduce tumor growth,unknown,N000803
-Outcome,did not result in significant anti proliferative or pro apoptotic activity,unknown,N000804
-Outcome,did not significantly increase the percentage of polyploid cell,unknown,N000805
-Outcome,died,unknown,N000806
-Outcome,died of disease,unknown,N000807
-Outcome,died of locally aggressive,unknown,N000808
-Outcome,died of other cause,unknown,N000809
-Outcome,died of tumor related complication,unknown,N000810
-Outcome,difficult candidate for surgical treatment,unknown,N000811
-Outcome,disappointing response rate of 15%,unknown,N000812
-Outcome,disease free,unknown,N000813
-Outcome,disease free after treatment,unknown,N000814
-Outcome,disease free for one year postoperatively,unknown,N000815
-Outcome,disease free survival,unknown,N000816
-Outcome,disease specific death,unknown,N000817
-Outcome,disease specific mortality,unknown,N000818
-Outcome,disease specific survival,unknown,N000819
-Outcome,disseminating malignant cell and worsening survival outcome,unknown,N000820
-Outcome,distant metastase,unknown,N000821
-Outcome,distant metastasi,unknown,N000822
-Outcome,distant metastasi free survival,unknown,N000823
-Outcome,do not benefit,unknown,N000824
-Outcome,dose dependent decrease in the total viable cell number,unknown,N000825
-Outcome,dsm,unknown,N000826
-Outcome,dsm rate were also higher,unknown,N000827
-Outcome,durable objective response,unknown,N000828
-Outcome,enhanced antiproliferative and pro apoptotic effect,unknown,N000829
-Outcome,esomeprazole modestly decreased pexidartinib exposure,unknown,N000830
-Outcome,event free survival,unknown,N000831
-Outcome,fatal outcome occurred in 66% of patient wherea 19% were reported alive with or without complication,unknown,N000832
-Outcome,five year survival rate wa 643%,unknown,N000833
-Outcome,for postoperative radiotherapy median follow up time wa 54 month iqr 32 79 for patient in the postoperative radiotherapy group and 47 month 26 72 for patient in the no radiotherapy group median overall survival wa 89 month 95% ci 79 100 versu 64 month 59 69,unknown,N000834
-Outcome,for preoperative radiotherapy median follow up time wa 42 month iqr 27 70 for the preoperative radiotherapy group versu 43 month 25 64 for the no radiotherapy group median overall survival wa 110 month 95% ci 75 not estimable versu 66 month 61 76,unknown,N000835
-Outcome,free of disease,unknown,N000836
-Outcome,have somewhat promising but still largely uncertain treatment role,unknown,N000837
-Outcome,high recurrence rate,unknown,N000838
-Outcome,high response rate,unknown,N000839
-Outcome,hospitalized,unknown,N000840
-Outcome,impaired migration and invasion altered cellular morphology and triggered the accumulation of large intracellular vesicle,unknown,N000841
-Outcome,inhibited dna synthesi and viability,unknown,N000842
-Outcome,inhibited migration and rock1 phosphorylation,unknown,N000843
-Outcome,itraconazole increased pexidartinib exposure,unknown,N000844
-Outcome,liver metastasi,unknown,N000845
-Outcome,local control,unknown,N000846
-Outcome,local recurrence,unknown,N000847
-Outcome,local recurrence at 5 year,unknown,N000848
-Outcome,local recurrence free survival,unknown,N000849
-Outcome,local relapse free survival,unknown,N000850
-Outcome,locoregional recurrence,unknown,N000851
-Outcome,los of extremity,unknown,N000852
-Outcome,low rate of regional metastase,unknown,N000853
-Outcome,low sensitivity to cytotoxic chemotherapy,unknown,N000854
-Outcome,lymph node metastase,unknown,N000855
-Outcome,may improve response,unknown,N000856
-Outcome,mean time of recurrence or metastasi i 122 month,unknown,N000857
-Outcome,median overall survival wa 190 month,unknown,N000858
-Outcome,median progression free survival wa 55 month,unknown,N000859
-Outcome,metastase,unknown,N000860
-Outcome,metastasi,unknown,N000861
-Outcome,metastasi free survival,unknown,N000862
-Outcome,metastasized,unknown,N000863
-Outcome,metastatic,unknown,N000864
-Outcome,mild inhibition of proliferation,unknown,N000865
-Outcome,minimal disseminated disease,unknown,N000866
-Outcome,multifocality,unknown,N000867
-Outcome,multiple recurrence,unknown,N000868
-Outcome,narrow surgical margin,unknown,N000869
-Outcome,ndsm,unknown,N000870
-Outcome,ndsm wa higher,unknown,N000871
-Outcome,no death from toxic event,unknown,N000872
-Outcome,no death or grade 4 adverse event occurred,unknown,N000873
-Outcome,no difference in overall survival benefit,unknown,N000874
-Outcome,no evidence of disease,unknown,N000875
-Outcome,no further disease progression,unknown,N000876
-Outcome,no local or distant recurrence,unknown,N000877
-Outcome,no local recurrence,unknown,N000878
-Outcome,no objective response,unknown,N000879
-Outcome,no postradiotherapy complication,unknown,N000880
-Outcome,no regional and or distant metastase,unknown,N000881
-Outcome,no significant influence on recurrence or survival,unknown,N000882
-Outcome,no treatment related death,unknown,N000883
-Outcome,node metastase,unknown,N000884
-Outcome,non progressive at 8 week,unknown,N000885
-Outcome,objective response according to recist 11,unknown,N000886
-Outcome,outcome for patient who present with metastatic disease remain poor,unknown,N000887
-Outcome,overall 5 year survival,unknown,N000888
-Outcome,overall median survival wa histology specific osteosarcoma 11 month ewing sarcoma 26 month chondrosarcoma 37 month chordoma 50 month and significantly worse in patient with metastasi,unknown,N000889
-Outcome,overall survival,unknown,N000890
-Outcome,overall survival benefit of 118 month,unknown,N000891
-Outcome,partial response,unknown,N000892
-Outcome,patient died,unknown,N000893
-Outcome,positive therapeutic efficacy,unknown,N000894
-Outcome,potentiated the antitumor efficacy against the cme 1 orthotopic s model,unknown,N000895
-Outcome,progression,unknown,N000896
-Outcome,progressive disease,unknown,N000897
-Outcome,promote proliferation and survival but not migration,unknown,N000898
-Outcome,pulmonary metastase,unknown,N000899
-Outcome,recurred,unknown,N000900
-Outcome,recurrence,unknown,N000901
-Outcome,recurrence free survival at 25 year,unknown,N000902
-Outcome,recurrent,unknown,N000903
-Outcome,recurrent disease,unknown,N000904
-Outcome,reduced proliferation,unknown,N000905
-Outcome,reducing the rate of recurrence,unknown,N000906
-Outcome,reducing the viability of chondrosarcoma spheroid and spheroid growth,unknown,N000907
-Outcome,regional lymph node metastase,unknown,N000908
-Outcome,regression of the tumor at 2 year,unknown,N000909
-Outcome,relapse,unknown,N000910
-Outcome,repeat surgery,unknown,N000911
-Outcome,resistance,unknown,N000912
-Outcome,rifampin decreased exposure,unknown,N000913
-Outcome,secondary drug resistance,unknown,N000914
-Outcome,sensitize chondrosarcoma cell line to chemotherapy temozolomide or radiotherapy,unknown,N000915
-Outcome,significant increase in polyploidy,unknown,N000916
-Outcome,significant increase starting at 100 nm in the sw 872 cell and 250 nm in the 93t449 cell,unknown,N000917
-Outcome,significantly worse recurrence free survival rf p 0001 and overall survival o p 0004,unknown,N000918
-Outcome,stable disease,unknown,N000919
-Outcome,stage i can be reduced to 4 week without worsening treatment outcome,unknown,N000920
-Outcome,substantial activity in asp,unknown,N000921
-Outcome,substantially improved prognosi for many cancer type,unknown,N000922
-Outcome,sufficient to reduce nf1 associated mpnst viability potentially due inhibition of glycolysi,unknown,N000923
-Outcome,survival,unknown,N000924
-Outcome,survival rate appear to be higher after surgical treatment and were significantly improved by adjuvant chemotherapy,unknown,N000925
-Outcome,survival rate wa better than the case without,unknown,N000926
-Outcome,survival rate were 767%,unknown,N000927
-Outcome,systemic metastase,unknown,N000928
-Outcome,the 3 and 5 year metastasi free survival rate were 86% 95% ci 067 to 100 and 75% 95% ci 049 to 100 respectively,unknown,N000929
-Outcome,the ef i identical for patient with stage i and ii n 092 a well a for stage ii n+ and iii 082,unknown,N000930
-Outcome,the mean overall survival duration of patient with chordoma chondrosarcoma ewing sarcoma and osteosarcoma wa 6686 95% ci 6406 6966 6353 95% ci 6181 6525 5806 95% ci 5549 6062 and 5491 95% ci 5314 5669 month,unknown,N000931
-Outcome,three year cumulative survival rate wa 711%,unknown,N000932
-Outcome,treatment failure,unknown,N000933
-Outcome,tumor related death,unknown,N000934
-Outcome,tumor volume did shrink,unknown,N000935
-Outcome,two year cumulative survival rate wa 743%,unknown,N000936
-Outcome,ugt inhibition increased pexidartinib exposure,unknown,N000937
-Outcome,unresponsive,unknown,N000938
-Outcome,usually resistant,unknown,N000939
-Outcome,vent free survival ef after 5 year wa 91 %,unknown,N000940
-Outcome,well tolerated,unknown,N000941
-Pathology Method,fish,unknown,N000942
-Pathology Method,fluorescence in situ hybridization,unknown,N000943
-Pathology Method,fu,unknown,N000944
-Pathology Method,histopathology,unknown,N000945
-Pathology Method,immunohistochemical,unknown,N000946
-Pathology Method,immunohistochemical analysi,unknown,N000947
-Pathology Method,immunohistochemistry,unknown,N000948
-Pathology Method,macroscopic examination,unknown,N000949
-Pathology Method,p53 immunoreaction,unknown,N000950
-Pathology Method,prame immunoreactivity,unknown,N000951
-Pathology Method,qpcr,unknown,N000952
-Pathology Method,reverse transcription polymerase chain reaction,unknown,N000953
-Pathology Method,rt pcr,unknown,N000954
-Pathology Method,sensitive ihc,unknown,N000955
-Pathology Method,tissue microarray,unknown,N000956
-Pathology Method,whole tissue section,unknown,N000957
-Prediction Model,clinical model,unknown,N000958
-Prediction Model,competing risk model,unknown,N000959
-Prediction Model,cox proportional hazard regression,unknown,N000960
-Prediction Model,ct based radiomic classification model for the prediction of histological type and grade,unknown,N000961
-Prediction Model,exces over blis score,unknown,N000962
-Prediction Model,hybrid model modelsupcr sup that amalgamated radiomic and clinical feature,unknown,N000963
-Prediction Model,independent predictor of df,unknown,N000964
-Prediction Model,multivariable crr model,unknown,N000965
-Prediction Model,prognostic biomarker score,unknown,N000966
-Prediction Model,radiomic model utilizing multiparametric magnetic resonance imaging mri for the prediction of preoperative risk assessment in gastrointestinal stromal tumor gist,unknown,N000967
-Prediction Model,response evaluation criteria in solid tumor,unknown,N000968
-Prognosis Category,advanced stage,unknown,N000969
-Prognosis Category,adverse outcome,unknown,N000970
-Prognosis Category,after preoperative chemotherapy i worse than in any other patient group of intermediate risk,unknown,N000971
-Prognosis Category,better prognosi than diffuse anaplasia,unknown,N000972
-Prognosis Category,brain metastase,unknown,N000973
-Prognosis Category,destructive nature,unknown,N000974
-Prognosis Category,disease progression,unknown,N000975
-Prognosis Category,dismal prognosi,unknown,N000976
-Prognosis Category,distant metastase,unknown,N000977
-Prognosis Category,do not shrink during preoperative chemotherapy,unknown,N000978
-Prognosis Category,early stage,unknown,N000979
-Prognosis Category,five and ten year disease specific mortalitie were underestimated by 31 and 19 percentage,unknown,N000980
-Prognosis Category,five and ten year relative mortalitie of 328% and 360%,unknown,N000981
-Prognosis Category,five year local recurrence,unknown,N000982
-Prognosis Category,fungating mas,unknown,N000983
-Prognosis Category,high grade,unknown,N000984
-Prognosis Category,high grade and tumor size 17cm,unknown,N000985
-Prognosis Category,high local recurrence rate,unknown,N000986
-Prognosis Category,high recurrence rate,unknown,N000987
-Prognosis Category,high risk,unknown,N000988
-Prognosis Category,high risk group,unknown,N000989
-Prognosis Category,higher rate of recurrence,unknown,N000990
-Prognosis Category,higher risk of lymph node involvement,unknown,N000991
-Prognosis Category,highly radio and chemosensitive,unknown,N000992
-Prognosis Category,improved overall survival after lymphadenectomy,unknown,N000993
-Prognosis Category,intermediate risk,unknown,N000994
-Prognosis Category,intermediate risk group,unknown,N000995
-Prognosis Category,local recurrence free survival,unknown,N000996
-Prognosis Category,locally advanced disease,unknown,N000997
-Prognosis Category,locally aggressive,unknown,N000998
-Prognosis Category,locally aggressive behavior,unknown,N000999
-Prognosis Category,low grade,unknown,N001000
-Prognosis Category,low grade and tumor size 17cm,unknown,N001001
-Prognosis Category,low mortality,unknown,N001002
-Prognosis Category,low risk,unknown,N001003
-Prognosis Category,low risk group,unknown,N001004
-Prognosis Category,lymph node metastase,unknown,N001005
-Prognosis Category,metastasi,unknown,N001006
-Prognosis Category,metastasi free survival,unknown,N001007
-Prognosis Category,metastatic disease,unknown,N001008
-Prognosis Category,overall survival,unknown,N001009
-Prognosis Category,poor outcome,unknown,N001010
-Prognosis Category,poor prognosi,unknown,N001011
-Prognosis Category,poor sarcoma o,unknown,N001012
-Prognosis Category,poor survival,unknown,N001013
-Prognosis Category,poorer disease free survival,unknown,N001014
-Prognosis Category,poorer survival,unknown,N001015
-Prognosis Category,rare long term survivor,unknown,N001016
-Prognosis Category,rate of recurrence wa 54%,unknown,N001017
-Prognosis Category,relatively aggressive clinical outcome,unknown,N001018
-Prognosis Category,relatively low risk of metastatic spread,unknown,N001019
-Prognosis Category,risk of recurrence,unknown,N001020
-Prognosis Category,sepsi,unknown,N001021
-Prognosis Category,ulceration,unknown,N001022
-Prognosis Category,wound healing complication,unknown,N001023
-Reason for drug outcome,activation of a cytoprotective and auto sustaining axi involving erk egr1 and the beta endoglycosidase heparanase,unknown,N001024
-Reason for drug outcome,high incidence of metastatic disease,unknown,N001025
-Reason for drug outcome,imatinib resistant mutation,unknown,N001026
-Reason for drug outcome,lack of efficacy of conventional chemotherapy,unknown,N001027
-Reason for drug outcome,poor long term prognosi,unknown,N001028
-Reason for drug outcome,proliferative dependency on ezh2 activity,unknown,N001029
-Reason for drug outcome,strn3 ntrk3 positive cell were sensitive to larotrectinib in vitro,unknown,N001030
-Reason for drug outcome,the combination of saha with sst0001 prevented the upregulation of erk egr1 heparanase induced by the hdaci and promoted caspase dependent cell death,unknown,N001031
-Risk Factor,30 year of age,unknown,N001032
-Risk Factor,bone and lung metastase,unknown,N001033
-Risk Factor,high grade,unknown,N001034
-Risk Factor,high grade histology,unknown,N001035
-Risk Factor,high lr grade,unknown,N001036
-Risk Factor,incomplete resection,unknown,N001037
-Risk Factor,larger tumor size,unknown,N001038
-Risk Factor,mitotic activity,unknown,N001039
-Risk Factor,multifocality,unknown,N001040
-Risk Factor,non surgery,unknown,N001041
-Risk Factor,older age,unknown,N001042
-Risk Factor,positive surgical margin,unknown,N001043
-Risk Factor,r1 or r2 margin,unknown,N001044
-Risk Factor,regional and distant stag,unknown,N001045
-Risk Factor,size,unknown,N001046
-Risk Factor,t size 5 cm,unknown,N001047
-Risk Factor,t2 stage,unknown,N001048
-Risk Factor,tumor in the extremitie,unknown,N001049
-Risk Factor,tumoral size,unknown,N001050
-Risk Factor,younger age,unknown,N001051
-Sarcoma Subtype,alveolar rhabdomyosarcoma,unknown,N001052
-Sarcoma Subtype,alveolar soft part sarcoma,unknown,N001053
-Sarcoma Subtype,angiosarcoma,unknown,N001054
-Sarcoma Subtype,angiosarcoma of the liver,unknown,N001055
-Sarcoma Subtype,asp,unknown,N001056
-Sarcoma Subtype,atypical lipomatou tumor,unknown,N001057
-Sarcoma Subtype,chondrosarcoma,unknown,N001058
-Sarcoma Subtype,chordoma,unknown,N001059
-Sarcoma Subtype,clear cell sarcoma,unknown,N001060
-Sarcoma Subtype,clear cell sarcoma of kidney,unknown,N001061
-Sarcoma Subtype,clear cell sarcoma of soft tissue,unknown,N001062
-Sarcoma Subtype,clear cell sarcoma of the gastrointestinal tract,unknown,N001063
-Sarcoma Subtype,cutaneou angiosarcoma,unknown,N001064
-Sarcoma Subtype,dermatofibrosarcoma protuberan,unknown,N001065
-Sarcoma Subtype,diffuse type tenosynovial giant cell tumor,unknown,N001066
-Sarcoma Subtype,diffuse type tgct,unknown,N001067
-Sarcoma Subtype,diffuse type tsgct,unknown,N001068
-Sarcoma Subtype,epithelioid hemangioendothelioma,unknown,N001069
-Sarcoma Subtype,epithelioid sarcoma,unknown,N001070
-Sarcoma Subtype,extraskeletal myxoid chondrosarcoma,unknown,N001071
-Sarcoma Subtype,extrathoracic sft,unknown,N001072
-Sarcoma Subtype,fibrosarcoma,unknown,N001073
-Sarcoma Subtype,gastric gist,unknown,N001074
-Sarcoma Subtype,gastrointestinal stromal tumor,unknown,N001075
-Sarcoma Subtype,hemangiopericytoma,unknown,N001076
-Sarcoma Subtype,high grade undifferentiated spindle cell sarcoma,unknown,N001077
-Sarcoma Subtype,high risk soft tissue sarcoma,unknown,N001078
-Sarcoma Subtype,infantile fibrosarcoma,unknown,N001079
-Sarcoma Subtype,inflammatory myofibroblastic tumor,unknown,N001080
-Sarcoma Subtype,leiomyosarcoma,unknown,N001081
-Sarcoma Subtype,liposarcoma,unknown,N001082
-Sarcoma Subtype,localized type of tsgct,unknown,N001083
-Sarcoma Subtype,lower extremity soft tissue sarcoma,unknown,N001084
-Sarcoma Subtype,malignant peripheral nerve sheath tumor,unknown,N001085
-Sarcoma Subtype,malignant peripheral sheath tumor,unknown,N001086
-Sarcoma Subtype,malignant solitary fibrou tumor,unknown,N001087
-Sarcoma Subtype,mammary angiosarcoma,unknown,N001088
-Sarcoma Subtype,meningeal sft,unknown,N001089
-Sarcoma Subtype,meningioma,unknown,N001090
-Sarcoma Subtype,metastatic soft tissue sarcoma,unknown,N001091
-Sarcoma Subtype,metastatic st,unknown,N001092
-Sarcoma Subtype,myxofibrosarcoma,unknown,N001093
-Sarcoma Subtype,myxoid dfsp,unknown,N001094
-Sarcoma Subtype,non metastatic liposarcoma,unknown,N001095
-Sarcoma Subtype,non rhabdomyosarcoma soft tissue sarcoma,unknown,N001096
-Sarcoma Subtype,nonmetastatic retroperitoneal sarcoma,unknown,N001097
-Sarcoma Subtype,pecoma,unknown,N001098
-Sarcoma Subtype,pediatric rm,unknown,N001099
-Sarcoma Subtype,pleomorphic liposarcoma,unknown,N001100
-Sarcoma Subtype,pleuro pulmonary solitary fibrou tumor,unknown,N001101
-Sarcoma Subtype,post mastectomy angiosarcoma,unknown,N001102
-Sarcoma Subtype,primary cardiac angiosarcoma,unknown,N001103
-Sarcoma Subtype,primary caval leiomyosarcoma,unknown,N001104
-Sarcoma Subtype,primary renal synovial sarcoma,unknown,N001105
-Sarcoma Subtype,primary synovial sarcoma,unknown,N001106
-Sarcoma Subtype,prostatic sft,unknown,N001107
-Sarcoma Subtype,renal sft,unknown,N001108
-Sarcoma Subtype,retroperitoneal leiomyosarcoma,unknown,N001109
-Sarcoma Subtype,retroperitoneal liposarcoma,unknown,N001110
-Sarcoma Subtype,retroperitoneal sarcoma,unknown,N001111
-Sarcoma Subtype,rhabdomyosarcoma,unknown,N001112
-Sarcoma Subtype,round cell liposarcoma,unknown,N001113
-Sarcoma Subtype,soft tissue leiomyosarcoma,unknown,N001114
-Sarcoma Subtype,soft tissue sarcoma,unknown,N001115
-Sarcoma Subtype,solitary fibrou tumor,unknown,N001116
-Sarcoma Subtype,sporadic schwannoma,unknown,N001117
-Sarcoma Subtype,synovial sarcoma,unknown,N001118
-Sarcoma Subtype,tenosynovial giant cell tumo,unknown,N001119
-Sarcoma Subtype,tenosynovial giant cell tumor,unknown,N001120
-Sarcoma Subtype,unclassified malignant soft tissue sarcoma,unknown,N001121
-Sarcoma Subtype,undifferentiated pleiomorphic sarcoma,unknown,N001122
-Sarcoma Subtype,undifferentiated pleomorphic sarcoma,unknown,N001123
-Sarcoma Subtype,undifferentiated spindle cell sarcoma,unknown,N001124
-Sarcoma Subtype,up,unknown,N001125
-Sarcoma Subtype,uterine leiomyosarcoma,unknown,N001126
-Secondary Tumor,develop malignant tumor,unknown,N001127
-Secondary Tumor,distant metastasi,unknown,N001128
-Secondary Tumor,malignant fibrou histiocytoma,unknown,N001129
-Secondary Tumor,tumor involvement of the inferior vena cava,unknown,N001130
-Spread site,anterior compartment,unknown,N001131
-Spread site,bone,unknown,N001132
-Spread site,dermi,unknown,N001133
-Spread site,extraarticular,unknown,N001134
-Spread site,liver,unknown,N001135
-Spread site,lung,unknown,N001136
-Spread site,lymph node,unknown,N001137
-Spread site,muscle,unknown,N001138
-Spread site,posterior compartment,unknown,N001139
-Spread site,regional lymph node,unknown,N001140
-Spread site,retroperitoneum,unknown,N001141
-Spread site,soft tissue,unknown,N001142
-Spread site,subcutaneou tissue,unknown,N001143
-Symptom,abdominal pain,unknown,N001144
-Symptom,abdominal pressure,unknown,N001145
-Symptom,activity limitation,unknown,N001146
-Symptom,acute urinary retention,unknown,N001147
-Symptom,change in tumor volume,unknown,N001148
-Symptom,chest pain,unknown,N001149
-Symptom,compression symptom,unknown,N001150
-Symptom,constipation,unknown,N001151
-Symptom,cough,unknown,N001152
-Symptom,dizzines,unknown,N001153
-Symptom,dysphagia,unknown,N001154
-Symptom,dysuria,unknown,N001155
-Symptom,flat plaque,unknown,N001156
-Symptom,headache,unknown,N001157
-Symptom,hearing los,unknown,N001158
-Symptom,high risk for depression anxiety and suicidal ideation,unknown,N001159
-Symptom,lesion wa enlarged,unknown,N001160
-Symptom,limited rom with a median time before diagnosi of 12 month,unknown,N001161
-Symptom,new unexplained neurologic symptom,unknown,N001162
-Symptom,obstruction,unknown,N001163
-Symptom,obstructive voiding symptom,unknown,N001164
-Symptom,orbital mas,unknown,N001165
-Symptom,pain,unknown,N001166
-Symptom,pain at the site of the tumor,unknown,N001167
-Symptom,painful mas,unknown,N001168
-Symptom,painles mas,unknown,N001169
-Symptom,parotid gland painles mas,unknown,N001170
-Symptom,pelvic pain,unknown,N001171
-Symptom,physical impairment,unknown,N001172
-Symptom,pleural based mas,unknown,N001173
-Symptom,postmenopausal abnormal bleeding,unknown,N001174
-Symptom,progressive severe pain,unknown,N001175
-Symptom,proptosi,unknown,N001176
-Symptom,swelling,unknown,N001177
-Symptom,unstable walk,unknown,N001178
-Symptom,vaginal bleeding,unknown,N001179
-Symptom,voiding irritation,unknown,N001180
-Synonym for Sarcoma Subtype,a,unknown,N001181
-Synonym for Sarcoma Subtype,asl,unknown,N001182
-Synonym for Sarcoma Subtype,asp,unknown,N001183
-Synonym for Sarcoma Subtype,cc,unknown,N001184
-Synonym for Sarcoma Subtype,ccsk,unknown,N001185
-Synonym for Sarcoma Subtype,d tgct,unknown,N001186
-Synonym for Sarcoma Subtype,ddlp,unknown,N001187
-Synonym for Sarcoma Subtype,dfsp,unknown,N001188
-Synonym for Sarcoma Subtype,ea,unknown,N001189
-Synonym for Sarcoma Subtype,ehe,unknown,N001190
-Synonym for Sarcoma Subtype,emc,unknown,N001191
-Synonym for Sarcoma Subtype,f,unknown,N001192
-Synonym for Sarcoma Subtype,gist,unknown,N001193
-Synonym for Sarcoma Subtype,lm,unknown,N001194
-Synonym for Sarcoma Subtype,lp,unknown,N001195
-Synonym for Sarcoma Subtype,mlm,unknown,N001196
-Synonym for Sarcoma Subtype,mlp,unknown,N001197
-Synonym for Sarcoma Subtype,mpnst,unknown,N001198
-Synonym for Sarcoma Subtype,nmrp,unknown,N001199
-Synonym for Sarcoma Subtype,nrst,unknown,N001200
-Synonym for Sarcoma Subtype,pca,unknown,N001201
-Synonym for Sarcoma Subtype,pigmented villonodular synoviti,unknown,N001202
-Synonym for Sarcoma Subtype,rlp,unknown,N001203
-Synonym for Sarcoma Subtype,s,unknown,N001204
-Synonym for Sarcoma Subtype,sft,unknown,N001205
-Synonym for Sarcoma Subtype,soft tissue sarcoma,unknown,N001206
-Synonym for Sarcoma Subtype,st,unknown,N001207
-Synonym for Sarcoma Subtype,sts,unknown,N001208
-Synonym for Sarcoma Subtype,tgct,unknown,N001209
-Synonym for Sarcoma Subtype,tsgct,unknown,N001210
-Synonym for Sarcoma Subtype,up,unknown,N001211
-Treatment,3 brpa treatment,unknown,N001212
-Treatment,a backbone of vincristine and dactinomycin with either cyclophosphamide vac or ifosfamide iva,unknown,N001213
-Treatment,abdominal sacral,unknown,N001214
-Treatment,adjuvant chemotherapy,unknown,N001215
-Treatment,adjuvant radiosurgery,unknown,N001216
-Treatment,adjuvant radiotherapy,unknown,N001217
-Treatment,adjuvant therapy,unknown,N001218
-Treatment,adjuvant treatment,unknown,N001219
-Treatment,adoptive cellular therapie,unknown,N001220
-Treatment,adoptive t cell based immunotherapy,unknown,N001221
-Treatment,amputation,unknown,N001222
-Treatment,anthracycline with or without ifosfamide,unknown,N001223
-Treatment,anti pd l1 therapie,unknown,N001224
-Treatment,anti pd1,unknown,N001225
-Treatment,anti pd1 + anti cytotoxic t lymphocyte associated protein 4,unknown,N001226
-Treatment,anti pd1 + chemo,unknown,N001227
-Treatment,anti pd1 + immunomodulator,unknown,N001228
-Treatment,anti pd1 + tyrosine kinase inhibitor,unknown,N001229
-Treatment,anti pdgfra,unknown,N001230
-Treatment,association of ici with chemotherapy,unknown,N001231
-Treatment,bilateral salpingo oophorectomy,unknown,N001232
-Treatment,bloc resection,unknown,N001233
-Treatment,chemoradiotherapy,unknown,N001234
-Treatment,chemotherapy,unknown,N001235
-Treatment,chemotherapy of combined etoposide and cisplatin,unknown,N001236
-Treatment,chemotherapy of doxorubicin and ifosfamide,unknown,N001237
-Treatment,classic ra protein,unknown,N001238
-Treatment,co administration of pexidartinib,unknown,N001239
-Treatment,co treatment with a mek inhibitor trametinib or a heparanase inhibitor sst0001 roneparstat,unknown,N001240
-Treatment,combination of doxorubicin and anti pdgfra,unknown,N001241
-Treatment,combination with mdm2 antagonist or cdk4 6 inhibitor,unknown,N001242
-Treatment,combined multiagent chemotherapy,unknown,N001243
-Treatment,complete resection,unknown,N001244
-Treatment,complete surgical excision,unknown,N001245
-Treatment,conservative excision,unknown,N001246
-Treatment,cryoablation,unknown,N001247
-Treatment,cyberknife srt,unknown,N001248
-Treatment,cytotoxic chemotherapy,unknown,N001249
-Treatment,di articulation,unknown,N001250
-Treatment,dn r ra expression and rra and rras2 knockdown,unknown,N001251
-Treatment,dn r ra inhibition,unknown,N001252
-Treatment,enneking appropriate ea resection,unknown,N001253
-Treatment,enneking inappropriate ei resection,unknown,N001254
-Treatment,erbb4 ablation,unknown,N001255
-Treatment,erbb4 knockdown in human mpnst cell,unknown,N001256
-Treatment,flap,unknown,N001257
-Treatment,free tissue transfer,unknown,N001258
-Treatment,gamma knife treatment,unknown,N001259
-Treatment,gros total resection,unknown,N001260
-Treatment,hdac inhibitor hdaci monotherapie,unknown,N001261
-Treatment,histotype tailored chemotherapy,unknown,N001262
-Treatment,hysterectomy,unknown,N001263
-Treatment,icb monotherapy,unknown,N001264
-Treatment,ido blockade,unknown,N001265
-Treatment,immune checkpoint inhibitor,unknown,N001266
-Treatment,immunotherapy related drug,unknown,N001267
-Treatment,inhibition of polyadp ribose polymerase parp,unknown,N001268
-Treatment,inhibition of stat3 stat5 and phospholipase cgamma,unknown,N001269
-Treatment,intracapsular excision,unknown,N001270
-Treatment,intraoperative rt boost,unknown,N001271
-Treatment,intraoral resection,unknown,N001272
-Treatment,jejunal resection,unknown,N001273
-Treatment,limb salvage,unknown,N001274
-Treatment,local excision,unknown,N001275
-Treatment,local resection,unknown,N001276
-Treatment,lymph node excision,unknown,N001277
-Treatment,lymphadenectomy,unknown,N001278
-Treatment,manipulation under anesthesia,unknown,N001279
-Treatment,marginal excision,unknown,N001280
-Treatment,marginal resection,unknown,N001281
-Treatment,megavoltage radiotherapy,unknown,N001282
-Treatment,microwave ablation,unknown,N001283
-Treatment,moh micrographic surgery,unknown,N001284
-Treatment,moh surgery,unknown,N001285
-Treatment,morcellation,unknown,N001286
-Treatment,multimodality therapy combining surgery and wide field radiation therapy,unknown,N001287
-Treatment,multiportal arthroscopic synovectomy,unknown,N001288
-Treatment,neoadjuvant chemoradiation,unknown,N001289
-Treatment,neoadjuvant chemoradiotherapy,unknown,N001290
-Treatment,neoadjuvant chemotherapy,unknown,N001291
-Treatment,neoadjuvant regimen,unknown,N001292
-Treatment,open posterior incision,unknown,N001293
-Treatment,open resection,unknown,N001294
-Treatment,operative procedure,unknown,N001295
-Treatment,ovarian tissue cryopreservation,unknown,N001296
-Treatment,parp inhibitor,unknown,N001297
-Treatment,pelvic lymphadenectomy,unknown,N001298
-Treatment,percutaneou ablation,unknown,N001299
-Treatment,pik3ca akt inhibition,unknown,N001300
-Treatment,post operative chemotherapy,unknown,N001301
-Treatment,postoperative adjuvant radiotherapy,unknown,N001302
-Treatment,postoperative radiotherapy,unknown,N001303
-Treatment,postoperative rt,unknown,N001304
-Treatment,preoperative chemotherapy,unknown,N001305
-Treatment,preoperative radiation,unknown,N001306
-Treatment,preoperative radiotherapy,unknown,N001307
-Treatment,radiation,unknown,N001308
-Treatment,radiation and chemotherapy,unknown,N001309
-Treatment,radiation therapy,unknown,N001310
-Treatment,radical resection with adjuvant radiotherapy,unknown,N001311
-Treatment,radio and chemo,unknown,N001312
-Treatment,radiofrequency ablation,unknown,N001313
-Treatment,radiotherapy,unknown,N001314
-Treatment,radiotherapy wa performed in addition to excision,unknown,N001315
-Treatment,reexcision,unknown,N001316
-Treatment,resection,unknown,N001317
-Treatment,rock1 inhibition,unknown,N001318
-Treatment,saha and sst0001,unknown,N001319
-Treatment,single agent doxorubicin,unknown,N001320
-Treatment,skin graft,unknown,N001321
-Treatment,standard chemotherapy,unknown,N001322
-Treatment,stereotactic body radiotherapy,unknown,N001323
-Treatment,str,unknown,N001324
-Treatment,subtotal resection,unknown,N001325
-Treatment,surgery,unknown,N001326
-Treatment,surgery alone,unknown,N001327
-Treatment,surgery and chemotherapy,unknown,N001328
-Treatment,surgery and chemotherapy and or radiation therapy,unknown,N001329
-Treatment,surgery with wide excisional margin,unknown,N001330
-Treatment,surgical,unknown,N001331
-Treatment,surgical excision,unknown,N001332
-Treatment,surgical removal,unknown,N001333
-Treatment,surgical resection,unknown,N001334
-Treatment,surgical treatment,unknown,N001335
-Treatment,surgically treated,unknown,N001336
-Treatment,talazoparib and radiotherapy,unknown,N001337
-Treatment,talazoparib and temozolomide,unknown,N001338
-Treatment,targeted oncologic therapy,unknown,N001339
-Treatment,targeted therapie,unknown,N001340
-Treatment,targeted therapy tyrosine kinase braf or mek inhibitor,unknown,N001341
-Treatment,tazemetostat an oral selective ezh2 inhibitor,unknown,N001342
-Treatment,tazemetostat monotherapy,unknown,N001343
-Treatment,total hysterectomy,unknown,N001344
-Treatment,total hysterectomy plu bilateral salpingo oophorectomy,unknown,N001345
-Treatment,total hysterectomy with bilateral salpingooophorectomy,unknown,N001346
-Treatment,tran abdominal,unknown,N001347
-Treatment,tran sacral,unknown,N001348
-Treatment,transplantation,unknown,N001349
-Treatment,transurethral resection,unknown,N001350
-Treatment,treatment aiming at increasing antigenicity,unknown,N001351
-Treatment,tur,unknown,N001352
-Treatment,tyrosine kinase inhibitor,unknown,N001353
-Treatment,wide excision,unknown,N001354
-Treatment,wide local excision,unknown,N001355
-Treatment,wide surgical excision,unknown,N001356
-Treatment,wnk1 inhibition,unknown,N001357
-Treatment Response,disease progression wa not noted,unknown,N001358
-Treatment Response,impaired migration and invasion but not survival,unknown,N001359
-Treatment Response,mas reduction,unknown,N001360
-canonical subtype for PEComa,pecoma,unknown,N001361
-canonical subtype for alveolar soft part sarcoma,alveolar soft part sarcoma,unknown,N001362
-canonical subtype for angiosarcoma,angiosarcoma,unknown,N001363
-canonical subtype for chondrosarcoma,chondrosarcoma,unknown,N001364
-canonical subtype for clear cell sarcoma,clear cell sarcoma,unknown,N001365
-canonical subtype for dermatofibrosarcoma protuberans,dermatofibrosarcoma protuberan,unknown,N001366
-canonical subtype for epithelioid hemangioendothelioma,epithelioid hemangioendothelioma,unknown,N001367
-canonical subtype for epithelioid sarcoma,epithelioid sarcoma,unknown,N001368
-canonical subtype for extraskeletal myxoid chondrosarcoma,extraskeletal myxoid chondrosarcoma,unknown,N001369
-canonical subtype for fibrosarcoma,fibrosarcoma,unknown,N001370
-canonical subtype for fibrosarcoma,infantile fibrosarcoma,unknown,N001371
-canonical subtype for gastrointestinal stromal tumor,gastrointestinal stromal tumor,unknown,N001372
-canonical subtype for inflammatory myofibroblastic tumor,inflammatory myofibroblastic tumor,unknown,N001373
-canonical subtype for leiomyosarcoma,leiomyosarcoma,unknown,N001374
-canonical subtype for liposarcoma,liposarcoma,unknown,N001375
-canonical subtype for malignant peripheral nerve sheath tumor,malignant peripheral nerve sheath tumor,unknown,N001376
-canonical subtype for malignant peripheral nerve sheath tumor,malignant peripheral sheath tumor,unknown,N001377
-canonical subtype for myxofibrosarcoma,myxofibrosarcoma,unknown,N001378
-canonical subtype for retroperitoneal sarcoma,retroperitoneal sarcoma,unknown,N001379
-canonical subtype for rhabdomyosarcoma,rhabdomyosarcoma,unknown,N001380
-canonical subtype for soft tissue sarcoma,soft tissue sarcoma,unknown,N001381
-canonical subtype for solitary fibrous tumor,solitary fibrou tumor,unknown,N001382
-canonical subtype for synovial sarcoma,clear cell sarcoma,unknown,N001383
-canonical subtype for synovial sarcoma,synovial sarcoma,unknown,N001384
-canonical subtype for tenosynovial giant cell tumor,tenosynovial giant cell tumor,unknown,N001385
-canonical subtype for undifferentiated pleomorphic sarcoma,undifferentiated pleiomorphic sarcoma,unknown,N001386
-canonical subtype for undifferentiated pleomorphic sarcoma,undifferentiated pleomorphic sarcoma,unknown,N001387
-canonical subtype for undifferentiated spindle cell sarcoma,undifferentiated spindle cell sarcoma,unknown,N001388
+Adverse event,adrenal insufficiency,28988646,N000000
+Adverse event,anaemia,28499583,N000001
+Adverse event,anorexia,29650362,N000002
+Adverse event,arterial hypertension,27751846,N000003
+Adverse event,asthenia,27751846,N000004
+Adverse event,atrophy,15337565,N000005
+Adverse event,bladder dysfunction,18052409,N000006
+Adverse event,bleeding,39582122,N000007
+Adverse event,blood los during surgery,22340347,N000008
+Adverse event,bone growth abnormalitie,15337565,N000009
+Adverse event,bone growth arrest,18052409,N000010
+Adverse event,chest pain,30477937,N000011
+Adverse event,decreased lymphocyte count,28988646,N000012
+Adverse event,dehydration,31160249,N000013
+Adverse event,diarrhoea,31160249,N000014
+Adverse event,edema,15337565,N000015
+Adverse event,fatigue,30477937,N000016
+Adverse event,febrile neutropenia,18052409,N000017
+Adverse event,fibrosi,15337565,N000018
+Adverse event,grade 3 adverse event,31160249,N000019
+Adverse event,grade 4 adverse event,31786124,N000020
+Adverse event,hand and foot skin reaction,27751846,N000021
+Adverse event,hand foot skin reaction,30477937,N000022
+Adverse event,hemoptysi,33035459,N000023
+Adverse event,hepatopathy,18052409,N000024
+Adverse event,hypertension,31160249,N000025
+Adverse event,hypophosphataemia,30477937,N000026
+Adverse event,immune related sae,28988646,N000027
+Adverse event,impairment of mobility and extremity function,15337565,N000028
+Adverse event,increased aspartate aminotransferase,31331701,N000029
+Adverse event,increased concentration of alanine aminotransferase,31331701,N000030
+Adverse event,induction of second malignant neoplasm,18052409,N000031
+Adverse event,infertility,18052409,N000032
+Adverse event,intracranial hemorrhage,31160249,N000033
+Adverse event,intraoperative injury,22340347,N000034
+Adverse event,liver failure,27751846,N000035
+Adverse event,moderate to severe limitation of movement,15337565,N000036
+Adverse event,muscle atrophy,18052409,N000037
+Adverse event,muscle spasm,29650362,N000038
+Adverse event,myelosuppression,18052409,N000039
+Adverse event,nausea,29650362,N000040
+Adverse event,nephriti,28988646,N000041
+Adverse event,neutropenia,28499583,N000042
+Adverse event,no perioperative death,22340347,N000043
+Adverse event,no treatment related death,30477937,N000044
+Adverse event,otiti,16601376,N000045
+Adverse event,pain requiring iv medication,39582122,N000046
+Adverse event,peripheral nerve injury,15337565,N000047
+Adverse event,pneumoniti,28988646,N000048
+Adverse event,postoperative joint stiffnes,38153106,N000049
+Adverse event,postoperative numbnes at the surgical site,38876200,N000050
+Adverse event,prolonged activated partial thromboplastin time,28988646,N000051
+Adverse event,proteinuria,31160249,N000052
+Adverse event,radial nerve palsy,15337565,N000053
+Adverse event,radiation induced myelopathy,16601376,N000054
+Adverse event,second malignant neoplasm,18052409,N000055
+Adverse event,seizure,33035459,N000056
+Adverse event,skin burn,39582122,N000057
+Adverse event,thrombocytopenia,28499583,N000058
+Adverse event,transient esophagiti,16601376,N000059
+Adverse event,treatment related death,31160249,N000060
+Adverse event,vascular injury,38153106,N000061
+Adverse event,vomiting,31160249,N000062
+Adverse event,weight los,33035459,N000063
+Adverse event,wound complication that required surgery,31786124,N000064
+Anatomical Site,abdomen,20829680,N000065
+Anatomical Site,abdominal,35673808,N000066
+Anatomical Site,abdominal wall,17890911,N000067
+Anatomical Site,adductor muscle,19363438,N000068
+Anatomical Site,adrenal gland,17998131,N000069
+Anatomical Site,aorta,16096408,N000070
+Anatomical Site,aortic arch,14670013,N000071
+Anatomical Site,ascending aorta,14670013,N000072
+Anatomical Site,back,17890911,N000073
+Anatomical Site,base of the skull,16601376,N000074
+Anatomical Site,bladder neck,37879305,N000075
+Anatomical Site,bone,26905128,N000076
+Anatomical Site,buccal fat pad,22134298,N000077
+Anatomical Site,buccal space,22134298,N000078
+Anatomical Site,central nervou system,21938461,N000079
+Anatomical Site,cerebellar pontine angle,21938461,N000080
+Anatomical Site,cerebellopontine angle,21938461,N000081
+Anatomical Site,cranial nerve,20399579,N000082
+Anatomical Site,deep groin,14508393,N000083
+Anatomical Site,deep soft tissue,23327728,N000084
+Anatomical Site,deep soft tissue of thigh,19718788,N000085
+Anatomical Site,duodenum,24279301,N000086
+Anatomical Site,ear,20123452,N000087
+Anatomical Site,extremitie,14669292,N000088
+Anatomical Site,extremity,18820664,N000089
+Anatomical Site,eyelid,20123452,N000090
+Anatomical Site,face,20123452,N000091
+Anatomical Site,facial buccal branche,22134298,N000092
+Anatomical Site,femoral arterie,16096408,N000093
+Anatomical Site,gastrocnemiu,19363438,N000094
+Anatomical Site,gastrointestinal tract,29661713,N000095
+Anatomical Site,genital,18551749,N000096
+Anatomical Site,groin muscle,19363438,N000097
+Anatomical Site,head,20829680,N000098
+Anatomical Site,heart,39658531,N000099
+Anatomical Site,inguinal area,17890911,N000100
+Anatomical Site,intraperitoneal,24279301,N000101
+Anatomical Site,intraperitoneal location,24279301,N000102
+Anatomical Site,jejunum,24279301,N000103
+Anatomical Site,kidney,27428733,N000104
+Anatomical Site,knee,38153106,N000105
+Anatomical Site,large nerve root and bundle,38954182,N000106
+Anatomical Site,large systemic vein,16096408,N000107
+Anatomical Site,left external iliac,16096408,N000108
+Anatomical Site,left lower leg,20123452,N000109
+Anatomical Site,left side of the abdomen,36254545,N000110
+Anatomical Site,left upper arm,23648456,N000111
+Anatomical Site,leg,14508393,N000112
+Anatomical Site,lip,15509490,N000113
+Anatomical Site,liver,36483242,N000114
+Anatomical Site,lower arm,20123452,N000115
+Anatomical Site,lower extremitie,19363438,N000116
+Anatomical Site,lower extremity,35901432,N000117
+Anatomical Site,lower limb,30421387,N000118
+Anatomical Site,lung,14669292,N000119
+Anatomical Site,lymph node,29529647,N000120
+Anatomical Site,masseter muscle,22134298,N000121
+Anatomical Site,masticator space,12916461,N000122
+Anatomical Site,mediastinum,20829680,N000123
+Anatomical Site,mentali,19363438,N000124
+Anatomical Site,mesentery,24279301,N000125
+Anatomical Site,meso hypogastrium,24279301,N000126
+Anatomical Site,mobile spine,21184634,N000127
+Anatomical Site,myometrium,35673808,N000128
+Anatomical Site,neck,19363438,N000129
+Anatomical Site,non extremitie,34502329,N000130
+Anatomical Site,nose,20123452,N000131
+Anatomical Site,omentum,19718788,N000132
+Anatomical Site,orbit,21056898,N000133
+Anatomical Site,paranasal sinuse,12916461,N000134
+Anatomical Site,parotid duct,22134298,N000135
+Anatomical Site,parotid gland,22002440,N000136
+Anatomical Site,pelvi,21184634,N000137
+Anatomical Site,pelvic,35673808,N000138
+Anatomical Site,posterior mediastinum,25475695,N000139
+Anatomical Site,posterior one third of the left fourth rib,17998131,N000140
+Anatomical Site,prostate,35125107,N000141
+Anatomical Site,proximal extremitie,36254545,N000142
+Anatomical Site,renal,21836481,N000143
+Anatomical Site,retroperitoneal,36438917,N000144
+Anatomical Site,retroperitoneum,18820664,N000145
+Anatomical Site,retrorectal space,22340347,N000146
+Anatomical Site,right cheek,22134298,N000147
+Anatomical Site,sacrum,21184634,N000148
+Anatomical Site,scalp,12916461,N000149
+Anatomical Site,sciatic nerve,21460792,N000150
+Anatomical Site,shoulder,17890911,N000151
+Anatomical Site,skin of the scalp,20123452,N000152
+Anatomical Site,skin thyroid,17998131,N000153
+Anatomical Site,smooth muscle of the uteru,35673808,N000154
+Anatomical Site,soft tissue,26905128,N000155
+Anatomical Site,spinal,27834629,N000156
+Anatomical Site,spinal cord,20399579,N000157
+Anatomical Site,sternocleidomastoid muscle,19363438,N000158
+Anatomical Site,subcutaneou area,34502329,N000159
+Anatomical Site,submandibular region,22134298,N000160
+Anatomical Site,t4 spine,17998131,N000161
+Anatomical Site,temple,20123452,N000162
+Anatomical Site,thigh,17890911,N000163
+Anatomical Site,truncal,39230901,N000164
+Anatomical Site,trunk,19363438,N000165
+Anatomical Site,trunk wall,14669292,N000166
+Anatomical Site,tunica intima,16096408,N000167
+Anatomical Site,upper and lower extremitie,31692830,N000168
+Anatomical Site,upper arm,17890911,N000169
+Anatomical Site,upper cervical region,16601376,N000170
+Anatomical Site,upper extremitie,20829680,N000171
+Anatomical Site,upper extremity,19363438,N000172
+Anatomical Site,upper thigh,14508393,N000173
+Anatomical Site,urinary bladder,18580491,N000174
+Anatomical Site,uterine,32075391,N000175
+Anatomical Site,uteru,30447212,N000176
+Anatomical Site,vaginal,35673808,N000177
+Anatomical Site,vastu laterali,19363438,N000178
+Anatomical Site,visceral aorta,14670013,N000179
+Biology Feature,4 mitose 10hpf,34502329,N000180
+Biology Feature,a thin layer of viable tumor cell overlying a large thrombu,16096408,N000181
+Biology Feature,absence of sma,20123452,N000182
+Biology Feature,abundant pale eosinophilic cytoplasm,23327728,N000183
+Biology Feature,activation of telomere maintenance pathway,27562490,N000184
+Biology Feature,adipocyte,21056898,N000185
+Biology Feature,albumin,25370967,N000186
+Biology Feature,amplification of the 12q13 15 region,18820664,N000187
+Biology Feature,apoplectic change,26715170,N000188
+Biology Feature,apoptosi,36729612,N000189
+Biology Feature,bcor overexpression,27428733,N000190
+Biology Feature,bizarre nuclei,26715170,N000191
+Biology Feature,blastemal predominant subtype,15175957,N000192
+Biology Feature,cd123 positive plasmacytic dendritic cell,19363438,N000193
+Biology Feature,cd163 positive macrophage,19363438,N000194
+Biology Feature,cd20 positive b cell,19363438,N000195
+Biology Feature,cd3 cd4 positive lymphocyte,19363438,N000196
+Biology Feature,cell pleomorphism,35673808,N000197
+Biology Feature,cell size area cm2,32124739,N000198
+Biology Feature,cellular area with a partial hemangiopericytoma pattern,21938461,N000199
+Biology Feature,classical hematoxylin eosin he staining,35673808,N000200
+Biology Feature,coexpression of keratin and endothelial marker,28009608,N000201
+Biology Feature,complex chromosomal rearrangement,12661001,N000202
+Biology Feature,cord strand and solid aggregate of round oval and polygonal cell,23327728,N000203
+Biology Feature,cystic degeneration,24279301,N000204
+Biology Feature,cytogenetic finding,12916461,N000205
+Biology Feature,cytologic atypia,21056898,N000206
+Biology Feature,dedifferentiation,34502329,N000207
+Biology Feature,dense band of collagen appeared in cros section a minute nodule that separated individual tumor cell,21938461,N000208
+Biology Feature,diffuse anaplasia,15175957,N000209
+Biology Feature,diffusely infiltrating growth,17890911,N000210
+Biology Feature,doubly indented spindle cell,21045379,N000211
+Biology Feature,embedded in a fibromyxoid or sclerotic stroma,23327728,N000212
+Biology Feature,epithelial and stromal predominant,15175957,N000213
+Biology Feature,epithelioid morphology,17163160,N000214
+Biology Feature,fibrolipoma,22134298,N000215
+Biology Feature,fibrosi,19363438,N000216
+Biology Feature,focal anaplasia,15175957,N000217
+Biology Feature,focal fibrosarcomatou and focal giant cell fibroblastoma like change,17890911,N000218
+Biology Feature,focal myxoid area,34502329,N000219
+Biology Feature,focal neurogenic,19363438,N000220
+Biology Feature,focal weak fosb staining,28009608,N000221
+Biology Feature,foci of lymphovascular invasion,35125107,N000222
+Biology Feature,ghr expression,18225592,N000223
+Biology Feature,h3k27me3 los,38178234,N000224
+Biology Feature,have higher pd l1 expression,34925348,N000225
+Biology Feature,hemoglobin,25370967,N000226
+Biology Feature,high expression of cancer testi antigen cta,34925348,N000227
+Biology Feature,histone acetylation and nuclear heparanase level,34857011,N000228
+Biology Feature,hotspot area easier to locate in whole section,36613891,N000229
+Biology Feature,hypercellularity,34502329,N000230
+Biology Feature,hypocellular area,17890911,N000231
+Biology Feature,immunohistochemical feature,18820664,N000232
+Biology Feature,inconspicuou nucleoli,23327728,N000233
+Biology Feature,increased mitotic activity,21056898,N000234
+Biology Feature,infiltration,26715170,N000235
+Biology Feature,infiltrative growth pattern,20123452,N000236
+Biology Feature,inflammation,19363438,N000237
+Biology Feature,isolated patulou vessel,22002440,N000238
+Biology Feature,keloid like to wiry collagen wa present between the neoplastic cell,22002440,N000239
+Biology Feature,lack hif 1alpha expression,20123452,N000240
+Biology Feature,large cell with an epethelioid morphology,17998131,N000241
+Biology Feature,low level amplified sequence from 17q22 qter and 22q10 q131 or t1722,12661001,N000242
+Biology Feature,lymphoplasmacytic infiltrate,26715170,N000243
+Biology Feature,lymphovascular invasion,26715170,N000244
+Biology Feature,major histocompatibility complex 1 and weak igg4 were focally positive,19363438,N000245
+Biology Feature,matrix rich in proteoglycan and glycosaminoglycan,35673808,N000246
+Biology Feature,mdm2 and cdk4 staining,18820664,N000247
+Biology Feature,mild to moderate lymphocytic inflammatory,20123452,N000248
+Biology Feature,mitose,22002440,N000249
+Biology Feature,mitotic activity,26715170,N000250
+Biology Feature,mitotic rate,17890911,N000251
+Biology Feature,morphologic pattern,24279301,N000252
+Biology Feature,multifocal geographic necrose,35125107,N000253
+Biology Feature,multifocal presentation,28009608,N000254
+Biology Feature,myxoid area,18820664,N000255
+Biology Feature,myxoid change,26715170,N000256
+Biology Feature,myxoid mas,24279301,N000257
+Biology Feature,myxoid stromal change,17890911,N000258
+Biology Feature,necrosi,34502329,N000259
+Biology Feature,necrosi wa absent,22002440,N000260
+Biology Feature,neutrophil to lymphocyte ratio,25370967,N000261
+Biology Feature,nuclear pleomorphism,35673808,N000262
+Biology Feature,nuclear staining,14508393,N000263
+Biology Feature,numerou blood vessel with slightly fibrosed vessel wall,17890911,N000264
+Biology Feature,oval to spindle shaped cell arranged in sheet and fascicle or herringbone like pattern within a small amount of edematou to myxoid vascularized stroma,35125107,N000265
+Biology Feature,overlapping feature with soft tissue giant cell fibroblastoma,21056898,N000266
+Biology Feature,p53 and p16 overexpression,19718788,N000267
+Biology Feature,papillary endothelial hyperplasia like foci,20123452,N000268
+Biology Feature,plump spindled and epithelioid cell,28009608,N000269
+Biology Feature,polyploidy,29197031,N000270
+Biology Feature,poorly differentiated epithelioid and pleomorphic malignant neoplasm,16096408,N000271
+Biology Feature,predominant myxoid component,35673808,N000272
+Biology Feature,presence of large polygonal epithelioid malignant cell with marked cellular atypia and pleomorphism,17998131,N000273
+Biology Feature,presence of node,32124739,N000274
+Biology Feature,presence of villou growth,32124739,N000275
+Biology Feature,proliferation,36729612,N000276
+Biology Feature,prominent eosinophil,19363438,N000277
+Biology Feature,prominent mitotic figure,35125107,N000278
+Biology Feature,rare mitosi on high power field,35673808,N000279
+Biology Feature,rarely it may contain melanin pigment,26715170,N000280
+Biology Feature,reactivity for at least 3 of 5 immunohistochemistry ihc marker,21412072,N000281
+Biology Feature,rhabdoid morphology,35125107,N000282
+Biology Feature,round cell tumor with pathology consistent with ewing sarcoma,28141799,N000283
+Biology Feature,s 100 protein positivity,21045379,N000284
+Biology Feature,scattered enlarged tumor cell,17890911,N000285
+Biology Feature,severity of hemosiderosi,32124739,N000286
+Biology Feature,siglec 15 and pd l1 expression were evaluated using immunohistochemistry,36438917,N000287
+Biology Feature,skeletal muscle fiber with vacuolar change,19363438,N000288
+Biology Feature,smooth muscle component,25475695,N000289
+Biology Feature,solid architecture,20123452,N000290
+Biology Feature,spindle cell lipoma,22134298,N000291
+Biology Feature,spindle to oval cell were disposed in wavy fascicle between prominent eosinophilic band of collagen,21938461,N000292
+Biology Feature,spindled cell showed tapering cytoplasm with monotonou round to oval nuclei with coarse nuclear chromatin distribution,22002440,N000293
+Biology Feature,stromal collagen,21056898,N000294
+Biology Feature,stromal intramembranou ossification,21056898,N000295
+Biology Feature,stromal myxoid change,21056898,N000296
+Biology Feature,strong and diffuse nuclear bcor immunoreactivity,27428733,N000297
+Biology Feature,strong diffuse cytoplasmic staining for muc4,22982887,N000298
+Biology Feature,the distinctive histopathologic appearance of the primary luminal lesion wa lost whenever tumor invaded outside the vessel wall,16096408,N000299
+Biology Feature,the number of multinucleated giant cell,32124739,N000300
+Biology Feature,the sum of longest tumor diameter sld visualized by cros sectional imaging correlated significantly with paired tumor fraction in plasma,34464388,N000301
+Biology Feature,tumor cell necrosi,26715170,N000302
+Biology Feature,tumor showed focally entrapped normal salivary gland acini and duct at the edge,22002440,N000303
+Biology Feature,tumor were cellular,22002440,N000304
+Biology Feature,tumor were described a well circumscribed to encapsulated firm homogenou white to tan masse,22002440,N000305
+Biology Feature,type of predominant cellular proliferate,32124739,N000306
+Biology Feature,uncertain behavior to low grade malignant,21056898,N000307
+Biology Feature,unusual multivacuolated adipocytic cell,21056898,N000308
+Biology Feature,variable hemorrhage,24279301,N000309
+Biology Feature,variable mitotic activity,35673808,N000310
+Biology Feature,variable myopathic,19363438,N000311
+Biology Feature,vascular crow feet pattern,18820664,N000312
+Biology Feature,vesicular nuclei,23327728,N000313
+Drug,amg 900,29197031,N000314
+Drug,anthracycline,27751846,N000315
+Drug,anthracycline plu ifosfamide,38954182,N000316
+Drug,antiangiogenic,34925348,N000317
+Drug,azd1152 hqpa,29197031,N000318
+Drug,bendamustine,18572972,N000319
+Drug,bevacizumab,18572972,N000320
+Drug,cediranib,31160249,N000321
+Drug,cisplatin,35125107,N000322
+Drug,dacarbazine,28499583,N000323
+Drug,dna minor groove binder,18572972,N000324
+Drug,dna topoisomerase i inhibitor,18572972,N000325
+Drug,docetaxel,28499583,N000326
+Drug,doxorubicin,31786124,N000327
+Drug,efavirenz,36264536,N000328
+Drug,epirubicin,28499583,N000329
+Drug,esomeprazole,36264536,N000330
+Drug,etoposide,35125107,N000331
+Drug,fk228,34857011,N000332
+Drug,fluconazole,36264536,N000333
+Drug,gemcitabine,28499583,N000334
+Drug,hdac inhibitor,34857011,N000335
+Drug,ifosfamide,28499583,N000336
+Drug,imatinib,18572972,N000337
+Drug,imatinib mesilat,36254545,N000338
+Drug,imatinib mesylate,17163160,N000339
+Drug,intratumoral talimogene laherpavec,34925348,N000340
+Drug,intravenou etoposide,28499583,N000341
+Drug,intravenou ifosfamide,28499583,N000342
+Drug,irinotecan,18052409,N000343
+Drug,itraconazole,36264536,N000344
+Drug,mk 5108,29197031,N000345
+Drug,multi tyrosine kinase inhibitor,18572972,N000346
+Drug,olaratumab,32075391,N000347
+Drug,pazopanib,27751846,N000348
+Drug,pembrolizumab,28988646,N000349
+Drug,pexidartinib,36264536,N000350
+Drug,probenecid,36264536,N000351
+Drug,regorafenib,30477937,N000352
+Drug,rifampin,36264536,N000353
+Drug,saha,34857011,N000354
+Drug,single agent doxorubicin,31331295,N000355
+Drug,sst0001 roneparstat,34857011,N000356
+Drug,talazoparib,36729612,N000357
+Drug,taxane,18572972,N000358
+Drug,tazemetostat,29650362,N000359
+Drug,temozolomide,18572972,N000360
+Drug,thrombospondin agonist abt 510,18572972,N000361
+Drug,topotecan,18052409,N000362
+Drug,trabectedin,28499583,N000363
+Drug,trametinib,34857011,N000364
+Drug,trofosfamide,18572972,N000365
+Drug,tyrosine kinase braf or mek inhibitor,30646278,N000366
+Drug,tyrosine kinase inhibitor,38014853,N000367
+Drug response outcome,cytoprotective,34857011,N000368
+Drug response outcome,improving progression free survival,27751846,N000369
+Drug response outcome,modest improvement in pain,36001000,N000370
+Drug response outcome,no treatment related death,29650362,N000371
+Drug response outcome,objective response,33035459,N000372
+Drug response outcome,reduction in tumor size,36001000,N000373
+Drug response outcome,yield an impressive 35% orr when associated to pembrolizumab,34925348,N000374
+Evaluation Result,exces over blis score ch2879 59% lower 95% ci 52% jj012 18% lower 95% ci 8% and sw1353 55% lower 95% ci 25% of thi combination treatment,36729612,N000375
+Evaluation Result,for the evaluable population wa 83% iqr 265 to 59 with cediranib versu 134% iqr 11 to 213 with placebo one sided p00010,31160249,N000376
+Follow-up Plan,clinical follow up of patient with dfsp after tumor excision should be performed every six month for the first five year,36254545,N000377
+Follow-up Plan,close postoperative follow up i,20399579,N000378
+Follow-up Plan,regular yearly or more frequent follow up,17338203,N000379
+Gene,ahsg,36438917,N000380
+Gene,akt,38954182,N000381
+Gene,alk,17163160,N000382
+Gene,ambp,36438917,N000383
+Gene,apoa1,36438917,N000384
+Gene,arid1a,35125107,N000385
+Gene,atf1,17163160,N000386
+Gene,aurora kinase a,29197031,N000387
+Gene,aurora kinase b,29197031,N000388
+Gene,bcl 2,22002440,N000389
+Gene,bcl2,32948135,N000390
+Gene,bcl6,32948135,N000391
+Gene,bcor,27428733,N000392
+Gene,camta1,26811225,N000393
+Gene,ccnb3,27428733,N000394
+Gene,cd34,17890911,N000395
+Gene,cd99,22002440,N000396
+Gene,cdk4,18820664,N000397
+Gene,cdkn2a,37585199,N000398
+Gene,cdkn2a b,39563528,N000399
+Gene,cebpb,39658531,N000400
+Gene,cep290,38014853,N000401
+Gene,chop,17163160,N000402
+Gene,chop translocation at 12q131 q132,25475695,N000403
+Gene,classic ra,34530870,N000404
+Gene,cltc,38014853,N000405
+Gene,col1a1,17890911,N000406
+Gene,creb3l1,22982887,N000407
+Gene,cyclin d1,32948135,N000408
+Gene,egfr,38014853,N000409
+Gene,erbb4,31291965,N000410
+Gene,etv6,17163160,N000411
+Gene,ew,17163160,N000412
+Gene,ewsr1,28141799,N000413
+Gene,ezh2,29650362,N000414
+Gene,f2,36438917,N000415
+Gene,fli1,17163160,N000416
+Gene,fm like tyrosine kinase 3,36264536,N000417
+Gene,fosb,28009608,N000418
+Gene,foxp2,38014853,N000419
+Gene,fu,17163160,N000420
+Gene,h ra,34530870,N000421
+Gene,hter,36613891,N000422
+Gene,ick,38014853,N000423
+Gene,ini1,29650362,N000424
+Gene,k ra,34530870,N000425
+Gene,kdr,38014853,N000426
+Gene,ki67,32948135,N000427
+Gene,kit,17163160,N000428
+Gene,kit proto oncogene receptor tyrosine kinase,36264536,N000429
+Gene,lmna,38014853,N000430
+Gene,m ra,34530870,N000431
+Gene,maml3,27428733,N000432
+Gene,mapk,38954182,N000433
+Gene,mdm2,39563528,N000434
+Gene,mdm2 at 12q13 15,25475695,N000435
+Gene,met,38014853,N000436
+Gene,mtor,38954182,N000437
+Gene,myc,39658531,N000438
+Gene,n ra,34530870,N000439
+Gene,nab2,30233017,N000440
+Gene,nf1,23218951,N000441
+Gene,nf2,17163160,N000442
+Gene,nr4a3,31331701,N000443
+Gene,nrg1beta,31291965,N000444
+Gene,ntrk,17163160,N000445
+Gene,ntrk1,38014853,N000446
+Gene,ntrk3,38014853,N000447
+Gene,nutm2b,27428733,N000448
+Gene,p21,32948135,N000449
+Gene,p53,38954182,N000450
+Gene,pd l1,36438917,N000451
+Gene,pdgfb,17890911,N000452
+Gene,pdgfr,32075391,N000453
+Gene,pdgfra,17163160,N000454
+Gene,pikc3,39563528,N000455
+Gene,prc2,38954182,N000456
+Gene,pten,39563528,N000457
+Gene,r ra,34530870,N000458
+Gene,r ras2,34530870,N000459
+Gene,ra,38954182,N000460
+Gene,rf,21938461,N000461
+Gene,s 100,21938461,N000462
+Gene,serpinc1,36438917,N000463
+Gene,serpine1,28009608,N000464
+Gene,siglec 15,36438917,N000465
+Gene,smarca2,34464388,N000466
+Gene,smarca4,29650362,N000467
+Gene,smarcb1,33035459,N000468
+Gene,sox2,29773426,N000469
+Gene,ss18,29773426,N000470
+Gene,ssx,17163160,N000471
+Gene,stat6,30233017,N000472
+Gene,strn3,38014853,N000473
+Gene,suz12,34464388,N000474
+Gene,syt,17163160,N000475
+Gene,tal1,39658531,N000476
+Gene,tert,27562490,N000477
+Gene,tp53,39563528,N000478
+Gene,tpm3,17163160,N000479
+Gene,trp53,31291965,N000480
+Gene,vimentin,21938461,N000481
+Gene,vwc2,38014853,N000482
+Gene,wwtr1,26811225,N000483
+Gene,ywhae,27428733,N000484
+Gene Fusion,alk tpm3,17163160,N000485
+Gene Fusion,bcor ccnb3,27428733,N000486
+Gene Fusion,bcor maml3,27428733,N000487
+Gene Fusion,cep290 met,38014853,N000488
+Gene Fusion,cltc alk,38014853,N000489
+Gene Fusion,col1a1 pdgfb,12661001,N000490
+Gene Fusion,col1a1 pdgfb fusion gene,17890911,N000491
+Gene Fusion,etv6 ntrk,17163160,N000492
+Gene Fusion,ew atf1,17163160,N000493
+Gene Fusion,ew chop,18820664,N000494
+Gene Fusion,ew fli1,17163160,N000495
+Gene Fusion,ewsr1 rearrangement,28141799,N000496
+Gene Fusion,fosb gene fusion,28009608,N000497
+Gene Fusion,foxp2 met,38014853,N000498
+Gene Fusion,fu chop,17163160,N000499
+Gene Fusion,ick kdr,38014853,N000500
+Gene Fusion,lmna ntrk1,38014853,N000501
+Gene Fusion,nab2 stat6,34502329,N000502
+Gene Fusion,nab2ex3 stat6ex19,28869107,N000503
+Gene Fusion,nab2ex4 stat6ex2,28869107,N000504
+Gene Fusion,nab2ex4 stat6ex4,28869107,N000505
+Gene Fusion,nab2ex6 sat6ex16,28869107,N000506
+Gene Fusion,nab2ex6 stat6ex17,28869107,N000507
+Gene Fusion,nab2ex6 stat6ex3,28869107,N000508
+Gene Fusion,nab2ex7 stat6ex2,28869107,N000509
+Gene Fusion,nr4a3 translocated,31331701,N000510
+Gene Fusion,serpine1 fosb fusion,28009608,N000511
+Gene Fusion,ss18 ssx fusion oncogene,34857011,N000512
+Gene Fusion,ss18 ssx gene fusion,29773426,N000513
+Gene Fusion,strn3 ntrk3,38014853,N000514
+Gene Fusion,syt ssx,17163160,N000515
+Gene Fusion,vwc2 egfr,38014853,N000516
+Gene Fusion,wwtr1 camta1,26811225,N000517
+Gene Fusion,ywhae nutm2b,27428733,N000518
+Histological Subtype,alveolar rhabdomyosarcoma,37477762,N000519
+Histological Subtype,biphasic synovial sarcoma,22982887,N000520
+Histological Subtype,ddlp,30421387,N000521
+Histological Subtype,de differentiated liposarcoma,25475695,N000522
+Histological Subtype,dedifferentiated chondrosarcoma,15111298,N000523
+Histological Subtype,dedifferentiated liposarcoma,33112583,N000524
+Histological Subtype,embryonal rhabdomyosarcoma,37477762,N000525
+Histological Subtype,epithelioid angiosarcoma,22982887,N000526
+Histological Subtype,epithelioid gastrointestinal stromal tumor,22982887,N000527
+Histological Subtype,epithelioid liposarcoma,17175794,N000528
+Histological Subtype,epithelioid malignant peripheral nerve sheath tumor,23648456,N000529
+Histological Subtype,fibroma like epithelioid sarcoma,20829680,N000530
+Histological Subtype,fibrosarcomatou dermatofibrosarcoma protuberan,37477762,N000531
+Histological Subtype,fibrosarcomatou myofibroblastic and granular cell dfsp,17890911,N000532
+Histological Subtype,high grade myxoid liposarcoma,28499583,N000533
+Histological Subtype,hpc phenotype,30233017,N000534
+Histological Subtype,intraperitoneal dedifferentiated liposarcoma,24279301,N000535
+Histological Subtype,lipoleiomyosarcoma,17175794,N000536
+Histological Subtype,malignant sft,28869107,N000537
+Histological Subtype,mlp,30421387,N000538
+Histological Subtype,myxoid leiomyosarcoma,35673808,N000539
+Histological Subtype,myxoid liposarcoma,28499583,N000540
+Histological Subtype,myxoid or round cell liposarcoma,26970672,N000541
+Histological Subtype,myxoid round cell liposarcoma,29529647,N000542
+Histological Subtype,pigmented dermatofibrosarcoma protuberan,17175794,N000543
+Histological Subtype,pleomorphic liposarcoma,25475695,N000544
+Histological Subtype,pleomorphic rhabdomyosarcoma,37477762,N000545
+Histological Subtype,plp,30421387,N000546
+Histological Subtype,poorly differentiated synovial sarcoma,29661713,N000547
+Histological Subtype,proximal type epithelioid sarcoma,17175794,N000548
+Histological Subtype,round cell liposarcoma,25475695,N000549
+Histological Subtype,sclerosing rhabdomyosarcoma,29661713,N000550
+Histological Subtype,sft phenotype,30233017,N000551
+Histological Subtype,spindle cell angiosarcoma,28009608,N000552
+Histological Subtype,spindle cell mpnst,23648456,N000553
+Histological Subtype,spindle cell rhabdomyosarcoma,38876200,N000554
+Histological Subtype,wdlp,30421387,N000555
+Histological Subtype,well differentiated liposarcoma,24279301,N000556
+Imaging Feature,absence of fibrotic component,30560359,N000557
+Imaging Feature,absence of tail sign,30560359,N000558
+Imaging Feature,adc cutoff value of 09 10,40273759,N000559
+Imaging Feature,asymptomatic recurrence found during regular mri,38153106,N000560
+Imaging Feature,biphasic pattern,33112583,N000561
+Imaging Feature,central area of necrosi,30560359,N000562
+Imaging Feature,centrally located palpable nodule measuring between 3 and 5 mm,36254545,N000563
+Imaging Feature,deep location,30560359,N000564
+Imaging Feature,dw signal intensity,40273759,N000565
+Imaging Feature,enlarged pelvic lymph node,40273759,N000566
+Imaging Feature,extent of disease,31786124,N000567
+Imaging Feature,heterogeneou density mas,24279301,N000568
+Imaging Feature,high signal intensitie on t1 weighted imaging,30560359,N000569
+Imaging Feature,histopathological mimic,18820664,N000570
+Imaging Feature,ill defined plaque measuring 10 cm,36254545,N000571
+Imaging Feature,infiltrative growth pattern,30560359,N000572
+Imaging Feature,infiltrative irregular tumor margin,35673808,N000573
+Imaging Feature,irregular tumor margin,40273759,N000574
+Imaging Feature,kidney mas,26337721,N000575
+Imaging Feature,large ill defined prostatic mas lesion with circumferential extension into the rectal wall,35125107,N000576
+Imaging Feature,large lobulated masse,25475695,N000577
+Imaging Feature,largely necrotic,16096408,N000578
+Imaging Feature,mas response,16601376,N000579
+Imaging Feature,mean tumor size wa 45,22002440,N000580
+Imaging Feature,nodular growth,17890911,N000581
+Imaging Feature,number of flow void,30560359,N000582
+Imaging Feature,peripheral diffuse infiltration,17890911,N000583
+Imaging Feature,presence of intra and peritumoral flow void,30560359,N000584
+Imaging Feature,radiological phenotype,37922931,N000585
+Imaging Feature,resection potential,31786124,N000586
+Imaging Feature,size from 04 up to 95 cm,20123452,N000587
+Imaging Feature,size from 05 to 18 cm,18551749,N000588
+Imaging Feature,skin discoloration,36254545,N000589
+Imaging Feature,slightly enlarged nuclei,17890911,N000590
+Imaging Feature,slowly growing indurated dermal plaque or firm nodule attached to the skin,36254545,N000591
+Imaging Feature,soft and gelatinou,35673808,N000592
+Imaging Feature,solid and cystic mas,35125107,N000593
+Imaging Feature,t2w signal intensity,40273759,N000594
+Imaging Feature,tumor depth,30421387,N000595
+Imaging Feature,tumor diameter,39545983,N000596
+Imaging Feature,tumor grade,31786124,N000597
+Imaging Feature,tumor location,39545983,N000598
+Imaging Feature,tumor ranged from 1 cm to over 10 cm in diameter,16096408,N000599
+Imaging Feature,tumor size,31786124,N000600
+Imaging Feature,tumor size 8 cm,19828411,N000601
+Imaging Feature,tumor volume,15175957,N000602
+Imaging Mehtod,18f fdg pet ct,18719909,N000603
+Imaging Mehtod,computed tomography,24279301,N000604
+Imaging Mehtod,contrast enhanced ct scan,37922931,N000605
+Imaging Mehtod,ct,18719909,N000606
+Imaging Mehtod,ct based radiomic,37922931,N000607
+Imaging Mehtod,f fdg pet alone,18719909,N000608
+Imaging Mehtod,fdg pet,33112583,N000609
+Imaging Mehtod,magnetic resonance imaging,22134298,N000610
+Imaging Mehtod,mri,33112583,N000611
+Imaging Mehtod,mri scan,16601376,N000612
+Imaging Mehtod,pelvic ultrasonography,35673808,N000613
+Imaging Mehtod,pet ct,33112583,N000614
+Imaging Mehtod,positron emission tomography,35673808,N000615
+Imaging Mehtod,scintigraphy,15968601,N000616
+Imaging Mehtod,thoracoabdominal computed tomograph,37879305,N000617
+Imaging Mehtod,tumor to background ratio,15968601,N000618
+Imaging Mehtod,ultrasound,22134298,N000619
+Imaging Mehtod,ultrasound detection,36483242,N000620
+Imaging Mehtod,visual inspection of scintigram,15968601,N000621
+Marker,alk,26715170,N000622
+Marker,alk1,20829680,N000623
+Marker,alpha smooth muscle actin,17890911,N000624
+Marker,alternative lengthening of telomere alt pathway,15111298,N000625
+Marker,apoptotic protease activating factor,34502329,N000626
+Marker,aurora kinase a and b mrna expression,29197031,N000627
+Marker,bcl 2,21056898,N000628
+Marker,bcl2,34502329,N000629
+Marker,bcor gene expression,27428733,N000630
+Marker,c kit,20829680,N000631
+Marker,c met,18753943,N000632
+Marker,calsequestrin 2,21412072,N000633
+Marker,camta1,28009608,N000634
+Marker,cathepsink,26715170,N000635
+Marker,cd 31,18225592,N000636
+Marker,cd10,26715170,N000637
+Marker,cd123,19363438,N000638
+Marker,cd163,19363438,N000639
+Marker,cd20,19363438,N000640
+Marker,cd21,20829680,N000641
+Marker,cd3,19363438,N000642
+Marker,cd31,20829680,N000643
+Marker,cd34,21056898,N000644
+Marker,cd34 expression,36254545,N000645
+Marker,cd4,19363438,N000646
+Marker,cd99,21056898,N000647
+Marker,cdk4,33112583,N000648
+Marker,cell stiffnes,37700272,N000649
+Marker,cell were significant stiffer than the chondrocyte,37700272,N000650
+Marker,change in cell cytoskeletal architecture,37700272,N000651
+Marker,ck,34502329,N000652
+Marker,col1a1 pdgfb fusion gene,17890911,N000653
+Marker,collagen iv laminin,20399579,N000654
+Marker,complete los of arid1a expression,35125107,N000655
+Marker,desmin,20829680,N000656
+Marker,egr1,34857011,N000657
+Marker,ema,20829680,N000658
+Marker,epithelial membrane antigen,17890911,N000659
+Marker,ewsr1 and creb3l1 rearrangement,22982887,N000660
+Marker,expression of aurora kinase a and b,29197031,N000661
+Marker,f actin content wa lowe,37700272,N000662
+Marker,factor viii related antigen,17998131,N000663
+Marker,fli 1,16096408,N000664
+Marker,fosb expression,28009608,N000665
+Marker,gria2,26337721,N000666
+Marker,h caldesmon,26715170,N000667
+Marker,h3k27me3,29773426,N000668
+Marker,heparanase,34857011,N000669
+Marker,high molecular weight ck,20829680,N000670
+Marker,hmb 45,26715170,N000671
+Marker,human muscle cofilin2,21412072,N000672
+Marker,igg4,19363438,N000673
+Marker,ihc expression of stat6,28869107,N000674
+Marker,impaired mitochondrial function,39658531,N000675
+Marker,ini1,20829680,N000676
+Marker,ki 67,21056898,N000677
+Marker,ki 67 10%,34502329,N000678
+Marker,ki 67 index,36613891,N000679
+Marker,les stiff than their corresponding non malignant counterpart,37700272,N000680
+Marker,level of mmp 9 monomer and dimer,24378964,N000681
+Marker,major histocompatibility complex 1,19363438,N000682
+Marker,mdm2,25475695,N000683
+Marker,melana,26715170,N000684
+Marker,mitf,26715170,N000685
+Marker,mitotic count,36613891,N000686
+Marker,muc4 expression,22982887,N000687
+Marker,myo d1,20829680,N000688
+Marker,myogenin,20829680,N000689
+Marker,myosin light chain kinase,21412072,N000690
+Marker,nab2,26337721,N000691
+Marker,neuroendocrine marker,34502329,N000692
+Marker,over expression of pdgfbeta,36254545,N000693
+Marker,p16,33112583,N000694
+Marker,p16 should be used with caution,26715170,N000695
+Marker,p53,21056898,N000696
+Marker,p53 expression,18753943,N000697
+Marker,p53 through it acetylation,34857011,N000698
+Marker,p63,20829680,N000699
+Marker,pax2,21836481,N000700
+Marker,pax8,21836481,N000701
+Marker,pcna polyclonal antibodie,18225592,N000702
+Marker,pd l1 expression,36438917,N000703
+Marker,pdgfr alpha,18753943,N000704
+Marker,pdgfr beta,18753943,N000705
+Marker,pgp 95 expression in mesenchymal neoplasm,14559978,N000706
+Marker,prame,37477762,N000707
+Marker,pretreatment level of albumin hemoglobin and neutrophil to lymphocyte ratio,25370967,N000708
+Marker,promyelocytic leukemia nuclear body,15111298,N000709
+Marker,protein s 100,20399579,N000710
+Marker,reduced mitochondrial gene mt rnr2 mtrnr2l12 expression in tme infiltrating cell,39658531,N000711
+Marker,s 100 protein,25475695,N000712
+Marker,s100,19363438,N000713
+Marker,s100 protein,22495377,N000714
+Marker,sarcolemmal membrane associated protein,21412072,N000715
+Marker,satb2 mrna upregulation,27428733,N000716
+Marker,siglec 15 expression,36438917,N000717
+Marker,significant upregulation of beta tubulin gene expression,37700272,N000718
+Marker,sma,25475695,N000719
+Marker,smooth muscle actin,20829680,N000720
+Marker,smooth muscle gamma actin,21412072,N000721
+Marker,sox10,22495377,N000722
+Marker,sox2 protein expression,29773426,N000723
+Marker,staining with stat6,30233017,N000724
+Marker,stat6,26337721,N000725
+Marker,stat6 antibody,26811225,N000726
+Marker,suppressive macrophage spp1+ and olr1+,39658531,N000727
+Marker,telomerase,15111298,N000728
+Marker,telomere length,15111298,N000729
+Marker,tert mrna expression,27562490,N000730
+Marker,tfe 3,26715170,N000731
+Marker,tfe3,28009608,N000732
+Marker,tle1,20829680,N000733
+Marker,truncated splice variant of aurora kinase b,29197031,N000734
+Marker,wide spectrum cytokeratin,20829680,N000735
+Marker,wt1,20829680,N000736
+Marker,wwtr1 camta1,26811225,N000737
+Model Evaluation Method,calculating exces over blis score,36729612,N000738
+Model Evaluation Method,calibration curve,39545983,N000739
+Model Evaluation Method,confidence interval,31100257,N000740
+Model Evaluation Method,hazard ratio,31100257,N000741
+Model Evaluation Method,kaplan meier k m curve,39545983,N000742
+Model Evaluation Method,log rank test,39545983,N000743
+Model Evaluation Method,percentage change in sum of target marker lesion diameter,31160249,N000744
+Model Evaluation Method,precision recall p r curve,39545983,N000745
+Model Evaluation Method,receiver operator curve,37922931,N000746
+Model Evaluation Method,roc,39545983,N000747
+Mutation,aberration of the switch sucrose non fermentable,29650362,N000748
+Mutation,activating enhancer of zeste homolog 2 ezh2 mutation,29650362,N000749
+Mutation,alteration,39563528,N000750
+Mutation,bcor internal tandem duplication,27428733,N000751
+Mutation,biallelic inactivation mutation of arid1a,35125107,N000752
+Mutation,biallelic smarcb1 the gene that encode ini1 alteration,33035459,N000753
+Mutation,duplication,17163160,N000754
+Mutation,exon 9 insertion duplication ay502 503,17163160,N000755
+Mutation,focal copy number gain in chromosome arm 1q 7p 8q 9q and 17q,34464388,N000756
+Mutation,focal copy number losse in suz12 smarca2 cdkn2a b and chromosome arm 6p and 9p,34464388,N000757
+Mutation,focal nf1 copy number los,34464388,N000758
+Mutation,heterozygou los of function variant in the tumor suppressor gene nf1,30006586,N000759
+Mutation,hter,34502329,N000760
+Mutation,idh wildtype,36729612,N000761
+Mutation,idh1 mutant,36729612,N000762
+Mutation,idh2 mutant,36729612,N000763
+Mutation,in frame deletion,17163160,N000764
+Mutation,internal tandem duplication mutation,36264536,N000765
+Mutation,kit exon 11 mutation,17163160,N000766
+Mutation,los of ini1 expression,33035459,N000767
+Mutation,los of the other nf2 allele,17163160,N000768
+Mutation,med12 mutation,26715170,N000769
+Mutation,mutation of the nf1 gene,34530870,N000770
+Mutation,nf1 null,31291965,N000771
+Mutation,nonsense or missense mutation in nf2 gene,17163160,N000772
+Mutation,pdgfra mutation,17163160,N000773
+Mutation,point mutation,17163160,N000774
+Mutation,supernumerary ring chromosome,12661001,N000775
+Mutation,tert,34502329,N000776
+Mutation,tert promoter mutation,27562490,N000777
+Mutation,tp53,34502329,N000778
+Mutation,truncated splice variant,29197031,N000779
+Outcome,1 year 3 year and 5 year overall survival rate for the entire cohort wa 862% 95% confidence interval ci 852% 872% 705% 95% ci 689% 721% and 630% 95% ci 612% 648%,33305494,N000780
+Outcome,5 year event free survival and overall survival were 889% 95% ci 840 938 and 962% 932 992 in the low risk group 650% 582 718 and 792% 734 850 in the intermediate risk group and 212% 114 311 and 355% 236 474 in the high risk group,31786124,N000781
+Outcome,5 year survival rate 70%,18052409,N000782
+Outcome,achieving encouraging result especially with pembrolizumab and doxorubicin at an early stage or ici with antiangiogenic,34925348,N000783
+Outcome,activity wa limited,34107450,N000784
+Outcome,additional primary malignancie developed,33112583,N000785
+Outcome,alive with disease,18551749,N000786
+Outcome,alive without disease,20829680,N000787
+Outcome,an orr ranging from 20 to 50%,34925348,N000788
+Outcome,antiproliferative and pro apoptotic effect,34857011,N000789
+Outcome,better o,30421387,N000790
+Outcome,cachexia,14670013,N000791
+Outcome,complete response,29650362,N000792
+Outcome,complete response wa achieved,38014853,N000793
+Outcome,dead of disease at 6 month,18580491,N000794
+Outcome,death,27562490,N000795
+Outcome,delaying disease progression,30477937,N000796
+Outcome,detection of distant metastase,18719909,N000797
+Outcome,detection of regional lymph node metastase,18719909,N000798
+Outcome,did not affect ra activation,31291965,N000799
+Outcome,did not alter proliferation,31291965,N000800
+Outcome,did not have a significant influence on local recurrence or survival,27834629,N000801
+Outcome,did not reduce tumor burden,31331295,N000802
+Outcome,did not reduce tumor growth,31331295,N000803
+Outcome,did not result in significant anti proliferative or pro apoptotic activity,31331295,N000804
+Outcome,did not significantly increase the percentage of polyploid cell,29197031,N000805
+Outcome,died,30233017,N000806
+Outcome,died of disease,34502329,N000807
+Outcome,died of locally aggressive,20829680,N000808
+Outcome,died of other cause,20829680,N000809
+Outcome,died of tumor related complication,14670013,N000810
+Outcome,difficult candidate for surgical treatment,16601376,N000811
+Outcome,disappointing response rate of 15%,34925348,N000812
+Outcome,disease free,38876200,N000813
+Outcome,disease free after treatment,34251596,N000814
+Outcome,disease free for one year postoperatively,36254545,N000815
+Outcome,disease free survival,28499583,N000816
+Outcome,disease specific death,39230901,N000817
+Outcome,disease specific mortality,25370967,N000818
+Outcome,disease specific survival,30421387,N000819
+Outcome,disseminating malignant cell and worsening survival outcome,30447212,N000820
+Outcome,distant metastase,29529647,N000821
+Outcome,distant metastasi,39417883,N000822
+Outcome,distant metastasi free survival,30421387,N000823
+Outcome,do not benefit,34925348,N000824
+Outcome,dose dependent decrease in the total viable cell number,29197031,N000825
+Outcome,dsm,31100257,N000826
+Outcome,dsm rate were also higher,31100257,N000827
+Outcome,durable objective response,29650362,N000828
+Outcome,enhanced antiproliferative and pro apoptotic effect,34857011,N000829
+Outcome,esomeprazole modestly decreased pexidartinib exposure,36264536,N000830
+Outcome,event free survival,31786124,N000831
+Outcome,fatal outcome occurred in 66% of patient wherea 19% were reported alive with or without complication,20399579,N000832
+Outcome,five year survival rate wa 643%,17338203,N000833
+Outcome,for postoperative radiotherapy median follow up time wa 54 month iqr 32 79 for patient in the postoperative radiotherapy group and 47 month 26 72 for patient in the no radiotherapy group median overall survival wa 89 month 95% ci 79 100 versu 64 month 59 69,27210906,N000834
+Outcome,for preoperative radiotherapy median follow up time wa 42 month iqr 27 70 for the preoperative radiotherapy group versu 43 month 25 64 for the no radiotherapy group median overall survival wa 110 month 95% ci 75 not estimable versu 66 month 61 76,27210906,N000835
+Outcome,free of disease,34502329,N000836
+Outcome,have somewhat promising but still largely uncertain treatment role,38954182,N000837
+Outcome,high recurrence rate,31692830,N000838
+Outcome,high response rate,34107450,N000839
+Outcome,hospitalized,39582122,N000840
+Outcome,impaired migration and invasion altered cellular morphology and triggered the accumulation of large intracellular vesicle,34530870,N000841
+Outcome,inhibited dna synthesi and viability,31291965,N000842
+Outcome,inhibited migration and rock1 phosphorylation,34530870,N000843
+Outcome,itraconazole increased pexidartinib exposure,36264536,N000844
+Outcome,liver metastasi,25475695,N000845
+Outcome,local control,12916461,N000846
+Outcome,local recurrence,25370967,N000847
+Outcome,local recurrence at 5 year,17890911,N000848
+Outcome,local recurrence free survival,30421387,N000849
+Outcome,local relapse free survival,19828411,N000850
+Outcome,locoregional recurrence,24279301,N000851
+Outcome,los of extremity,26905128,N000852
+Outcome,low rate of regional metastase,12916461,N000853
+Outcome,low sensitivity to cytotoxic chemotherapy,31331701,N000854
+Outcome,lymph node metastase,29529647,N000855
+Outcome,may improve response,34925348,N000856
+Outcome,mean time of recurrence or metastasi i 122 month,20399579,N000857
+Outcome,median overall survival wa 190 month,33035459,N000858
+Outcome,median progression free survival wa 55 month,33035459,N000859
+Outcome,metastase,29529647,N000860
+Outcome,metastasi,36613891,N000861
+Outcome,metastasi free survival,33112583,N000862
+Outcome,metastasized,34502329,N000863
+Outcome,metastatic,22134298,N000864
+Outcome,mild inhibition of proliferation,31331295,N000865
+Outcome,minimal disseminated disease,27591237,N000866
+Outcome,multifocality,21045379,N000867
+Outcome,multiple recurrence,25475695,N000868
+Outcome,narrow surgical margin,36254545,N000869
+Outcome,ndsm,31100257,N000870
+Outcome,ndsm wa higher,31100257,N000871
+Outcome,no death from toxic event,31786124,N000872
+Outcome,no death or grade 4 adverse event occurred,31331701,N000873
+Outcome,no difference in overall survival benefit,28499583,N000874
+Outcome,no evidence of disease,19718788,N000875
+Outcome,no further disease progression,36254545,N000876
+Outcome,no local or distant recurrence,38876200,N000877
+Outcome,no local recurrence,15221986,N000878
+Outcome,no objective response,38954182,N000879
+Outcome,no postradiotherapy complication,38153106,N000880
+Outcome,no regional and or distant metastase,15221986,N000881
+Outcome,no significant influence on recurrence or survival,27834629,N000882
+Outcome,no treatment related death,28499583,N000883
+Outcome,node metastase,15509490,N000884
+Outcome,non progressive at 8 week,30477937,N000885
+Outcome,objective response according to recist 11,31331701,N000886
+Outcome,outcome for patient who present with metastatic disease remain poor,18052409,N000887
+Outcome,overall 5 year survival,29529647,N000888
+Outcome,overall median survival wa histology specific osteosarcoma 11 month ewing sarcoma 26 month chondrosarcoma 37 month chordoma 50 month and significantly worse in patient with metastasi,21184634,N000889
+Outcome,overall survival,31786124,N000890
+Outcome,overall survival benefit of 118 month,31331295,N000891
+Outcome,partial response,31651363,N000892
+Outcome,patient died,27834629,N000893
+Outcome,positive therapeutic efficacy,36254545,N000894
+Outcome,potentiated the antitumor efficacy against the cme 1 orthotopic s model,34857011,N000895
+Outcome,progression,21938461,N000896
+Outcome,progressive disease,31651363,N000897
+Outcome,promote proliferation and survival but not migration,34530870,N000898
+Outcome,pulmonary metastase,18719909,N000899
+Outcome,recurred,34502329,N000900
+Outcome,recurrence,38153106,N000901
+Outcome,recurrence free survival at 25 year,29494352,N000902
+Outcome,recurrent,22134298,N000903
+Outcome,recurrent disease,15221986,N000904
+Outcome,reduced proliferation,31291965,N000905
+Outcome,reducing the rate of recurrence,31692830,N000906
+Outcome,reducing the viability of chondrosarcoma spheroid and spheroid growth,36729612,N000907
+Outcome,regional lymph node metastase,18719909,N000908
+Outcome,regression of the tumor at 2 year,17998131,N000909
+Outcome,relapse,27562490,N000910
+Outcome,repeat surgery,38153106,N000911
+Outcome,resistance,36729612,N000912
+Outcome,rifampin decreased exposure,36264536,N000913
+Outcome,secondary drug resistance,17163160,N000914
+Outcome,sensitize chondrosarcoma cell line to chemotherapy temozolomide or radiotherapy,36729612,N000915
+Outcome,significant increase in polyploidy,29197031,N000916
+Outcome,significant increase starting at 100 nm in the sw 872 cell and 250 nm in the 93t449 cell,29197031,N000917
+Outcome,significantly worse recurrence free survival rf p 0001 and overall survival o p 0004,39545983,N000918
+Outcome,stable disease,31651363,N000919
+Outcome,stage i can be reduced to 4 week without worsening treatment outcome,15175957,N000920
+Outcome,substantial activity in asp,31160249,N000921
+Outcome,substantially improved prognosi for many cancer type,34107450,N000922
+Outcome,sufficient to reduce nf1 associated mpnst viability potentially due inhibition of glycolysi,32948135,N000923
+Outcome,survival,29529647,N000924
+Outcome,survival rate appear to be higher after surgical treatment and were significantly improved by adjuvant chemotherapy,14670013,N000925
+Outcome,survival rate wa better than the case without,20399579,N000926
+Outcome,survival rate were 767%,32620510,N000927
+Outcome,systemic metastase,39417883,N000928
+Outcome,the 3 and 5 year metastasi free survival rate were 86% 95% ci 067 to 100 and 75% 95% ci 049 to 100 respectively,33112583,N000929
+Outcome,the ef i identical for patient with stage i and ii n 092 a well a for stage ii n+ and iii 082,15175957,N000930
+Outcome,the mean overall survival duration of patient with chordoma chondrosarcoma ewing sarcoma and osteosarcoma wa 6686 95% ci 6406 6966 6353 95% ci 6181 6525 5806 95% ci 5549 6062 and 5491 95% ci 5314 5669 month,33305494,N000931
+Outcome,three year cumulative survival rate wa 711%,17338203,N000932
+Outcome,treatment failure,31786124,N000933
+Outcome,tumor related death,16096408,N000934
+Outcome,tumor volume did shrink,15175957,N000935
+Outcome,two year cumulative survival rate wa 743%,17338203,N000936
+Outcome,ugt inhibition increased pexidartinib exposure,36264536,N000937
+Outcome,unresponsive,31160249,N000938
+Outcome,usually resistant,16601376,N000939
+Outcome,vent free survival ef after 5 year wa 91 %,15175957,N000940
+Outcome,well tolerated,33035459,N000941
+Pathology Method,fish,27591237,N000942
+Pathology Method,fluorescence in situ hybridization,24279301,N000943
+Pathology Method,fu,22982887,N000944
+Pathology Method,histopathology,37879305,N000945
+Pathology Method,immunohistochemical,30233017,N000946
+Pathology Method,immunohistochemical analysi,18225592,N000947
+Pathology Method,immunohistochemistry,35125107,N000948
+Pathology Method,macroscopic examination,24279301,N000949
+Pathology Method,p53 immunoreaction,14508393,N000950
+Pathology Method,prame immunoreactivity,37477762,N000951
+Pathology Method,qpcr,27591237,N000952
+Pathology Method,reverse transcription polymerase chain reaction,26337721,N000953
+Pathology Method,rt pcr,27591237,N000954
+Pathology Method,sensitive ihc,27591237,N000955
+Pathology Method,tissue microarray,36613891,N000956
+Pathology Method,whole tissue section,36613891,N000957
+Prediction Model,clinical model,39545983,N000958
+Prediction Model,competing risk model,25370967,N000959
+Prediction Model,cox proportional hazard regression,25370967,N000960
+Prediction Model,ct based radiomic classification model for the prediction of histological type and grade,37922931,N000961
+Prediction Model,exces over blis score,36729612,N000962
+Prediction Model,hybrid model modelsupcr sup that amalgamated radiomic and clinical feature,39545983,N000963
+Prediction Model,independent predictor of df,36438917,N000964
+Prediction Model,multivariable crr model,31100257,N000965
+Prediction Model,prognostic biomarker score,25370967,N000966
+Prediction Model,radiomic model utilizing multiparametric magnetic resonance imaging mri for the prediction of preoperative risk assessment in gastrointestinal stromal tumor gist,39545983,N000967
+Prediction Model,response evaluation criteria in solid tumor,31160249,N000968
+Prognosis Category,advanced stage,19828411,N000969
+Prognosis Category,adverse outcome,26715170,N000970
+Prognosis Category,after preoperative chemotherapy i worse than in any other patient group of intermediate risk,15175957,N000971
+Prognosis Category,better prognosi than diffuse anaplasia,15175957,N000972
+Prognosis Category,brain metastase,39030374,N000973
+Prognosis Category,destructive nature,31692830,N000974
+Prognosis Category,disease progression,34857011,N000975
+Prognosis Category,dismal prognosi,14670013,N000976
+Prognosis Category,distant metastase,29529647,N000977
+Prognosis Category,do not shrink during preoperative chemotherapy,15175957,N000978
+Prognosis Category,early stage,19828411,N000979
+Prognosis Category,five and ten year disease specific mortalitie were underestimated by 31 and 19 percentage,25370967,N000980
+Prognosis Category,five and ten year relative mortalitie of 328% and 360%,25370967,N000981
+Prognosis Category,five year local recurrence,25370967,N000982
+Prognosis Category,fungating mas,26905128,N000983
+Prognosis Category,high grade,17338203,N000984
+Prognosis Category,high grade and tumor size 17cm,31100257,N000985
+Prognosis Category,high local recurrence rate,36254545,N000986
+Prognosis Category,high recurrence rate,38153106,N000987
+Prognosis Category,high risk,15175957,N000988
+Prognosis Category,high risk group,31786124,N000989
+Prognosis Category,higher rate of recurrence,31469398,N000990
+Prognosis Category,higher risk of lymph node involvement,29529647,N000991
+Prognosis Category,highly radio and chemosensitive,18820664,N000992
+Prognosis Category,improved overall survival after lymphadenectomy,29529647,N000993
+Prognosis Category,intermediate risk,15175957,N000994
+Prognosis Category,intermediate risk group,31786124,N000995
+Prognosis Category,local recurrence free survival,33112583,N000996
+Prognosis Category,locally advanced disease,26905128,N000997
+Prognosis Category,locally aggressive,20829680,N000998
+Prognosis Category,locally aggressive behavior,36254545,N000999
+Prognosis Category,low grade,17338203,N001000
+Prognosis Category,low grade and tumor size 17cm,31100257,N001001
+Prognosis Category,low mortality,18551749,N001002
+Prognosis Category,low risk,15175957,N001003
+Prognosis Category,low risk group,31786124,N001004
+Prognosis Category,lymph node metastase,29529647,N001005
+Prognosis Category,metastasi,26905128,N001006
+Prognosis Category,metastasi free survival,33112583,N001007
+Prognosis Category,metastatic disease,20829680,N001008
+Prognosis Category,overall survival,33112583,N001009
+Prognosis Category,poor outcome,21184634,N001010
+Prognosis Category,poor prognosi,28988646,N001011
+Prognosis Category,poor sarcoma o,36438917,N001012
+Prognosis Category,poor survival,33305494,N001013
+Prognosis Category,poorer disease free survival,36438917,N001014
+Prognosis Category,poorer survival,29529647,N001015
+Prognosis Category,rare long term survivor,16096408,N001016
+Prognosis Category,rate of recurrence wa 54%,31469398,N001017
+Prognosis Category,relatively aggressive clinical outcome,28869107,N001018
+Prognosis Category,relatively low risk of metastatic spread,36254545,N001019
+Prognosis Category,risk of recurrence,31469398,N001020
+Prognosis Category,sepsi,26905128,N001021
+Prognosis Category,ulceration,26905128,N001022
+Prognosis Category,wound healing complication,35901432,N001023
+Reason for drug outcome,activation of a cytoprotective and auto sustaining axi involving erk egr1 and the beta endoglycosidase heparanase,34857011,N001024
+Reason for drug outcome,high incidence of metastatic disease,31160249,N001025
+Reason for drug outcome,imatinib resistant mutation,17163160,N001026
+Reason for drug outcome,lack of efficacy of conventional chemotherapy,31160249,N001027
+Reason for drug outcome,poor long term prognosi,31160249,N001028
+Reason for drug outcome,proliferative dependency on ezh2 activity,29650362,N001029
+Reason for drug outcome,strn3 ntrk3 positive cell were sensitive to larotrectinib in vitro,38014853,N001030
+Reason for drug outcome,the combination of saha with sst0001 prevented the upregulation of erk egr1 heparanase induced by the hdaci and promoted caspase dependent cell death,34857011,N001031
+Risk Factor,30 year of age,21045379,N001032
+Risk Factor,bone and lung metastase,33305494,N001033
+Risk Factor,high grade,21045379,N001034
+Risk Factor,high grade histology,12916461,N001035
+Risk Factor,high lr grade,39230901,N001036
+Risk Factor,incomplete resection,14670013,N001037
+Risk Factor,larger tumor size,12916461,N001038
+Risk Factor,mitotic activity,18551749,N001039
+Risk Factor,multifocality,39230901,N001040
+Risk Factor,non surgery,33305494,N001041
+Risk Factor,older age,27562490,N001042
+Risk Factor,positive surgical margin,12916461,N001043
+Risk Factor,r1 or r2 margin,39230901,N001044
+Risk Factor,regional and distant stag,33305494,N001045
+Risk Factor,size,18551749,N001046
+Risk Factor,t size 5 cm,21045379,N001047
+Risk Factor,t2 stage,33305494,N001048
+Risk Factor,tumor in the extremitie,33305494,N001049
+Risk Factor,tumoral size,15509490,N001050
+Risk Factor,younger age,39230901,N001051
+Sarcoma Subtype,alveolar rhabdomyosarcoma,15337565,N001052
+Sarcoma Subtype,alveolar soft part sarcoma,31160249,N001053
+Sarcoma Subtype,angiosarcoma,22982887,N001054
+Sarcoma Subtype,angiosarcoma of the liver,36483242,N001055
+Sarcoma Subtype,asp,34925348,N001056
+Sarcoma Subtype,atypical lipomatou tumor,33112583,N001057
+Sarcoma Subtype,chondrosarcoma,36729612,N001058
+Sarcoma Subtype,chordoma,30477937,N001059
+Sarcoma Subtype,clear cell sarcoma,17163160,N001060
+Sarcoma Subtype,clear cell sarcoma of kidney,27428733,N001061
+Sarcoma Subtype,clear cell sarcoma of soft tissue,37477762,N001062
+Sarcoma Subtype,clear cell sarcoma of the gastrointestinal tract,29661713,N001063
+Sarcoma Subtype,cutaneou angiosarcoma,20123452,N001064
+Sarcoma Subtype,dermatofibrosarcoma protuberan,31786124,N001065
+Sarcoma Subtype,diffuse type tenosynovial giant cell tumor,38153106,N001066
+Sarcoma Subtype,diffuse type tgct,29494352,N001067
+Sarcoma Subtype,diffuse type tsgct,32124739,N001068
+Sarcoma Subtype,epithelioid hemangioendothelioma,28009608,N001069
+Sarcoma Subtype,epithelioid sarcoma,29650362,N001070
+Sarcoma Subtype,extraskeletal myxoid chondrosarcoma,28141799,N001071
+Sarcoma Subtype,extrathoracic sft,26337721,N001072
+Sarcoma Subtype,fibrosarcoma,20829680,N001073
+Sarcoma Subtype,gastric gist,17163160,N001074
+Sarcoma Subtype,gastrointestinal stromal tumor,30477937,N001075
+Sarcoma Subtype,hemangiopericytoma,21056898,N001076
+Sarcoma Subtype,high grade undifferentiated spindle cell sarcoma,38178234,N001077
+Sarcoma Subtype,high risk soft tissue sarcoma,28499583,N001078
+Sarcoma Subtype,infantile fibrosarcoma,17163160,N001079
+Sarcoma Subtype,inflammatory myofibroblastic tumor,17163160,N001080
+Sarcoma Subtype,leiomyosarcoma,28499583,N001081
+Sarcoma Subtype,liposarcoma,28499583,N001082
+Sarcoma Subtype,localized type of tsgct,32124739,N001083
+Sarcoma Subtype,lower extremity soft tissue sarcoma,35901432,N001084
+Sarcoma Subtype,malignant peripheral nerve sheath tumor,28499583,N001085
+Sarcoma Subtype,malignant peripheral sheath tumor,38954182,N001086
+Sarcoma Subtype,malignant solitary fibrou tumor,34251596,N001087
+Sarcoma Subtype,mammary angiosarcoma,15912727,N001088
+Sarcoma Subtype,meningeal sft,30233017,N001089
+Sarcoma Subtype,meningioma,17163160,N001090
+Sarcoma Subtype,metastatic soft tissue sarcoma,27751846,N001091
+Sarcoma Subtype,metastatic st,18572972,N001092
+Sarcoma Subtype,myxofibrosarcoma,39563528,N001093
+Sarcoma Subtype,myxoid dfsp,17890911,N001094
+Sarcoma Subtype,non metastatic liposarcoma,30421387,N001095
+Sarcoma Subtype,non rhabdomyosarcoma soft tissue sarcoma,31786124,N001096
+Sarcoma Subtype,nonmetastatic retroperitoneal sarcoma,31100257,N001097
+Sarcoma Subtype,pecoma,26715170,N001098
+Sarcoma Subtype,pediatric rm,12916461,N001099
+Sarcoma Subtype,pleomorphic liposarcoma,26905128,N001100
+Sarcoma Subtype,pleuro pulmonary solitary fibrou tumor,18753943,N001101
+Sarcoma Subtype,post mastectomy angiosarcoma,15912727,N001102
+Sarcoma Subtype,primary cardiac angiosarcoma,39658531,N001103
+Sarcoma Subtype,primary caval leiomyosarcoma,31843478,N001104
+Sarcoma Subtype,primary renal synovial sarcoma,17895746,N001105
+Sarcoma Subtype,primary synovial sarcoma,15614339,N001106
+Sarcoma Subtype,prostatic sft,37879305,N001107
+Sarcoma Subtype,renal sft,26337721,N001108
+Sarcoma Subtype,retroperitoneal leiomyosarcoma,37922931,N001109
+Sarcoma Subtype,retroperitoneal liposarcoma,36438917,N001110
+Sarcoma Subtype,retroperitoneal sarcoma,27210906,N001111
+Sarcoma Subtype,rhabdomyosarcoma,29529647,N001112
+Sarcoma Subtype,round cell liposarcoma,18820664,N001113
+Sarcoma Subtype,soft tissue leiomyosarcoma,32075391,N001114
+Sarcoma Subtype,soft tissue sarcoma,28499583,N001115
+Sarcoma Subtype,solitary fibrou tumor,21056898,N001116
+Sarcoma Subtype,sporadic schwannoma,17163160,N001117
+Sarcoma Subtype,synovial sarcoma,28499583,N001118
+Sarcoma Subtype,tenosynovial giant cell tumo,38153106,N001119
+Sarcoma Subtype,tenosynovial giant cell tumor,29494352,N001120
+Sarcoma Subtype,unclassified malignant soft tissue sarcoma,31786124,N001121
+Sarcoma Subtype,undifferentiated pleiomorphic sarcoma,32075391,N001122
+Sarcoma Subtype,undifferentiated pleomorphic sarcoma,28499583,N001123
+Sarcoma Subtype,undifferentiated spindle cell sarcoma,35125107,N001124
+Sarcoma Subtype,up,34925348,N001125
+Sarcoma Subtype,uterine leiomyosarcoma,32075391,N001126
+Secondary Tumor,develop malignant tumor,23218951,N001127
+Secondary Tumor,distant metastasi,26905128,N001128
+Secondary Tumor,malignant fibrou histiocytoma,15337565,N001129
+Secondary Tumor,tumor involvement of the inferior vena cava,31843478,N001130
+Spread site,anterior compartment,38153106,N001131
+Spread site,bone,18551749,N001132
+Spread site,dermi,15221986,N001133
+Spread site,extraarticular,38153106,N001134
+Spread site,liver,18551749,N001135
+Spread site,lung,38876200,N001136
+Spread site,lymph node,32910462,N001137
+Spread site,muscle,15221986,N001138
+Spread site,posterior compartment,38153106,N001139
+Spread site,regional lymph node,23327728,N001140
+Spread site,retroperitoneum,18551749,N001141
+Spread site,soft tissue,18551749,N001142
+Spread site,subcutaneou tissue,15221986,N001143
+Symptom,abdominal pain,24279301,N001144
+Symptom,abdominal pressure,35673808,N001145
+Symptom,activity limitation,27896676,N001146
+Symptom,acute urinary retention,37879305,N001147
+Symptom,change in tumor volume,30006586,N001148
+Symptom,chest pain,25475695,N001149
+Symptom,compression symptom,22002440,N001150
+Symptom,constipation,24279301,N001151
+Symptom,cough,25475695,N001152
+Symptom,dizzines,21938461,N001153
+Symptom,dysphagia,25475695,N001154
+Symptom,dysuria,35125107,N001155
+Symptom,flat plaque,31469398,N001156
+Symptom,headache,21938461,N001157
+Symptom,hearing los,21938461,N001158
+Symptom,high risk for depression anxiety and suicidal ideation,27896676,N001159
+Symptom,lesion wa enlarged,25434949,N001160
+Symptom,limited rom with a median time before diagnosi of 12 month,29494352,N001161
+Symptom,new unexplained neurologic symptom,30006586,N001162
+Symptom,obstruction,18580491,N001163
+Symptom,obstructive voiding symptom,35125107,N001164
+Symptom,orbital mas,21056898,N001165
+Symptom,pain,29494352,N001166
+Symptom,pain at the site of the tumor,36001000,N001167
+Symptom,painful mas,21056898,N001168
+Symptom,painles mas,21056898,N001169
+Symptom,parotid gland painles mas,22002440,N001170
+Symptom,pelvic pain,18580491,N001171
+Symptom,physical impairment,27896676,N001172
+Symptom,pleural based mas,26811225,N001173
+Symptom,postmenopausal abnormal bleeding,17338203,N001174
+Symptom,progressive severe pain,30006586,N001175
+Symptom,proptosi,21056898,N001176
+Symptom,swelling,29494352,N001177
+Symptom,unstable walk,21938461,N001178
+Symptom,vaginal bleeding,35673808,N001179
+Symptom,voiding irritation,18580491,N001180
+Synonym for Sarcoma Subtype,a,20123452,N001181
+Synonym for Sarcoma Subtype,asl,36483242,N001182
+Synonym for Sarcoma Subtype,asp,31160249,N001183
+Synonym for Sarcoma Subtype,cc,28141799,N001184
+Synonym for Sarcoma Subtype,ccsk,15175957,N001185
+Synonym for Sarcoma Subtype,d tgct,38153106,N001186
+Synonym for Sarcoma Subtype,ddlp,33112583,N001187
+Synonym for Sarcoma Subtype,dfsp,17890911,N001188
+Synonym for Sarcoma Subtype,ea,17998131,N001189
+Synonym for Sarcoma Subtype,ehe,18580491,N001190
+Synonym for Sarcoma Subtype,emc,28141799,N001191
+Synonym for Sarcoma Subtype,f,20829680,N001192
+Synonym for Sarcoma Subtype,gist,17163160,N001193
+Synonym for Sarcoma Subtype,lm,17338203,N001194
+Synonym for Sarcoma Subtype,lp,30421387,N001195
+Synonym for Sarcoma Subtype,mlm,35673808,N001196
+Synonym for Sarcoma Subtype,mlp,28141799,N001197
+Synonym for Sarcoma Subtype,mpnst,22495377,N001198
+Synonym for Sarcoma Subtype,nmrp,31100257,N001199
+Synonym for Sarcoma Subtype,nrst,31786124,N001200
+Synonym for Sarcoma Subtype,pca,39658531,N001201
+Synonym for Sarcoma Subtype,pigmented villonodular synoviti,38153106,N001202
+Synonym for Sarcoma Subtype,rlp,36438917,N001203
+Synonym for Sarcoma Subtype,s,20829680,N001204
+Synonym for Sarcoma Subtype,sft,36613891,N001205
+Synonym for Sarcoma Subtype,soft tissue sarcoma,35901432,N001206
+Synonym for Sarcoma Subtype,st,25370967,N001207
+Synonym for Sarcoma Subtype,sts,34107450,N001208
+Synonym for Sarcoma Subtype,tgct,29494352,N001209
+Synonym for Sarcoma Subtype,tsgct,32124739,N001210
+Synonym for Sarcoma Subtype,up,34107450,N001211
+Treatment,3 brpa treatment,32948135,N001212
+Treatment,a backbone of vincristine and dactinomycin with either cyclophosphamide vac or ifosfamide iva,18052409,N001213
+Treatment,abdominal sacral,22340347,N001214
+Treatment,adjuvant chemotherapy,14670013,N001215
+Treatment,adjuvant radiosurgery,21938461,N001216
+Treatment,adjuvant radiotherapy,12916461,N001217
+Treatment,adjuvant therapy,27834629,N001218
+Treatment,adjuvant treatment,21045379,N001219
+Treatment,adoptive cellular therapie,34925348,N001220
+Treatment,adoptive t cell based immunotherapy,31651363,N001221
+Treatment,amputation,26905128,N001222
+Treatment,anthracycline with or without ifosfamide,18572972,N001223
+Treatment,anti pd l1 therapie,34925348,N001224
+Treatment,anti pd1,34107450,N001225
+Treatment,anti pd1 + anti cytotoxic t lymphocyte associated protein 4,34107450,N001226
+Treatment,anti pd1 + chemo,34107450,N001227
+Treatment,anti pd1 + immunomodulator,34107450,N001228
+Treatment,anti pd1 + tyrosine kinase inhibitor,34107450,N001229
+Treatment,anti pdgfra,31331295,N001230
+Treatment,association of ici with chemotherapy,34925348,N001231
+Treatment,bilateral salpingo oophorectomy,19828411,N001232
+Treatment,bloc resection,17998131,N001233
+Treatment,chemoradiotherapy,31786124,N001234
+Treatment,chemotherapy,36729612,N001235
+Treatment,chemotherapy of combined etoposide and cisplatin,35125107,N001236
+Treatment,chemotherapy of doxorubicin and ifosfamide,35125107,N001237
+Treatment,classic ra protein,34530870,N001238
+Treatment,co administration of pexidartinib,36264536,N001239
+Treatment,co treatment with a mek inhibitor trametinib or a heparanase inhibitor sst0001 roneparstat,34857011,N001240
+Treatment,combination of doxorubicin and anti pdgfra,31331295,N001241
+Treatment,combination with mdm2 antagonist or cdk4 6 inhibitor,34925348,N001242
+Treatment,combined multiagent chemotherapy,12916461,N001243
+Treatment,complete resection,18753943,N001244
+Treatment,complete surgical excision,25475695,N001245
+Treatment,conservative excision,31469398,N001246
+Treatment,cryoablation,39582122,N001247
+Treatment,cyberknife srt,16601376,N001248
+Treatment,cytotoxic chemotherapy,31331701,N001249
+Treatment,di articulation,26905128,N001250
+Treatment,dn r ra expression and rra and rras2 knockdown,34530870,N001251
+Treatment,dn r ra inhibition,34530870,N001252
+Treatment,enneking appropriate ea resection,27834629,N001253
+Treatment,enneking inappropriate ei resection,27834629,N001254
+Treatment,erbb4 ablation,31291965,N001255
+Treatment,erbb4 knockdown in human mpnst cell,31291965,N001256
+Treatment,flap,35901432,N001257
+Treatment,free tissue transfer,12916461,N001258
+Treatment,gamma knife treatment,16601376,N001259
+Treatment,gros total resection,30233017,N001260
+Treatment,hdac inhibitor hdaci monotherapie,34857011,N001261
+Treatment,histotype tailored chemotherapy,28499583,N001262
+Treatment,hysterectomy,30447212,N001263
+Treatment,icb monotherapy,34925348,N001264
+Treatment,ido blockade,34925348,N001265
+Treatment,immune checkpoint inhibitor,34107450,N001266
+Treatment,immunotherapy related drug,30646278,N001267
+Treatment,inhibition of polyadp ribose polymerase parp,36729612,N001268
+Treatment,inhibition of stat3 stat5 and phospholipase cgamma,31291965,N001269
+Treatment,intracapsular excision,21045379,N001270
+Treatment,intraoperative rt boost,15337565,N001271
+Treatment,intraoral resection,22134298,N001272
+Treatment,jejunal resection,24279301,N001273
+Treatment,limb salvage,35901432,N001274
+Treatment,local excision,29529647,N001275
+Treatment,local resection,14508393,N001276
+Treatment,lymph node excision,29529647,N001277
+Treatment,lymphadenectomy,29529647,N001278
+Treatment,manipulation under anesthesia,38153106,N001279
+Treatment,marginal excision,21045379,N001280
+Treatment,marginal resection,15337565,N001281
+Treatment,megavoltage radiotherapy,17998131,N001282
+Treatment,microwave ablation,39582122,N001283
+Treatment,moh micrographic surgery,31469398,N001284
+Treatment,moh surgery,36254545,N001285
+Treatment,morcellation,30447212,N001286
+Treatment,multimodality therapy combining surgery and wide field radiation therapy,12916461,N001287
+Treatment,multiportal arthroscopic synovectomy,38153106,N001288
+Treatment,neoadjuvant chemoradiation,34251596,N001289
+Treatment,neoadjuvant chemoradiotherapy,31786124,N001290
+Treatment,neoadjuvant chemotherapy,12916461,N001291
+Treatment,neoadjuvant regimen,28499583,N001292
+Treatment,open posterior incision,38153106,N001293
+Treatment,open resection,29494352,N001294
+Treatment,operative procedure,17338203,N001295
+Treatment,ovarian tissue cryopreservation,27591237,N001296
+Treatment,parp inhibitor,34925348,N001297
+Treatment,pelvic lymphadenectomy,19828411,N001298
+Treatment,percutaneou ablation,39582122,N001299
+Treatment,pik3ca akt inhibition,34925348,N001300
+Treatment,post operative chemotherapy,15175957,N001301
+Treatment,postoperative adjuvant radiotherapy,38153106,N001302
+Treatment,postoperative radiotherapy,27210906,N001303
+Treatment,postoperative rt,15337565,N001304
+Treatment,preoperative chemotherapy,15175957,N001305
+Treatment,preoperative radiation,35901432,N001306
+Treatment,preoperative radiotherapy,28499583,N001307
+Treatment,radiation,26905128,N001308
+Treatment,radiation and chemotherapy,38954182,N001309
+Treatment,radiation therapy,16601376,N001310
+Treatment,radical resection with adjuvant radiotherapy,20399579,N001311
+Treatment,radio and chemo,18820664,N001312
+Treatment,radiofrequency ablation,39582122,N001313
+Treatment,radiotherapy,25370967,N001314
+Treatment,radiotherapy wa performed in addition to excision,23648456,N001315
+Treatment,reexcision,17890911,N001316
+Treatment,resection,21184634,N001317
+Treatment,rock1 inhibition,34530870,N001318
+Treatment,saha and sst0001,34857011,N001319
+Treatment,single agent doxorubicin,31331295,N001320
+Treatment,skin graft,35901432,N001321
+Treatment,standard chemotherapy,28499583,N001322
+Treatment,stereotactic body radiotherapy,39582122,N001323
+Treatment,str,39387992,N001324
+Treatment,subtotal resection,20399579,N001325
+Treatment,surgery,27210906,N001326
+Treatment,surgery alone,31786124,N001327
+Treatment,surgery and chemotherapy,18551749,N001328
+Treatment,surgery and chemotherapy and or radiation therapy,18551749,N001329
+Treatment,surgery with wide excisional margin,38954182,N001330
+Treatment,surgical,14670013,N001331
+Treatment,surgical excision,38153106,N001332
+Treatment,surgical removal,24279301,N001333
+Treatment,surgical resection,26970672,N001334
+Treatment,surgical treatment,16601376,N001335
+Treatment,surgically treated,31100257,N001336
+Treatment,talazoparib and radiotherapy,36729612,N001337
+Treatment,talazoparib and temozolomide,36729612,N001338
+Treatment,targeted oncologic therapy,18572972,N001339
+Treatment,targeted therapie,38954182,N001340
+Treatment,targeted therapy tyrosine kinase braf or mek inhibitor,30646278,N001341
+Treatment,tazemetostat an oral selective ezh2 inhibitor,33035459,N001342
+Treatment,tazemetostat monotherapy,29650362,N001343
+Treatment,total hysterectomy,19828411,N001344
+Treatment,total hysterectomy plu bilateral salpingo oophorectomy,19828411,N001345
+Treatment,total hysterectomy with bilateral salpingooophorectomy,17338203,N001346
+Treatment,tran abdominal,22340347,N001347
+Treatment,tran sacral,22340347,N001348
+Treatment,transplantation,27591237,N001349
+Treatment,transurethral resection,18580491,N001350
+Treatment,treatment aiming at increasing antigenicity,34925348,N001351
+Treatment,tur,37879305,N001352
+Treatment,tyrosine kinase inhibitor,31160249,N001353
+Treatment,wide excision,30421387,N001354
+Treatment,wide local excision,36254545,N001355
+Treatment,wide surgical excision,12661001,N001356
+Treatment,wnk1 inhibition,31291965,N001357
+Treatment Response,disease progression wa not noted,16601376,N001358
+Treatment Response,impaired migration and invasion but not survival,34530870,N001359
+Treatment Response,mas reduction,16601376,N001360
+canonical subtype for PEComa,pecoma,26715170,N001361
+canonical subtype for alveolar soft part sarcoma,alveolar soft part sarcoma,31160249,N001362
+canonical subtype for angiosarcoma,angiosarcoma,22982887,N001363
+canonical subtype for chondrosarcoma,chondrosarcoma,36729612,N001364
+canonical subtype for clear cell sarcoma,clear cell sarcoma,15175957,N001365
+canonical subtype for dermatofibrosarcoma protuberans,dermatofibrosarcoma protuberan,31786124,N001366
+canonical subtype for epithelioid hemangioendothelioma,epithelioid hemangioendothelioma,28009608,N001367
+canonical subtype for epithelioid sarcoma,epithelioid sarcoma,29650362,N001368
+canonical subtype for extraskeletal myxoid chondrosarcoma,extraskeletal myxoid chondrosarcoma,28141799,N001369
+canonical subtype for fibrosarcoma,fibrosarcoma,20829680,N001370
+canonical subtype for fibrosarcoma,infantile fibrosarcoma,32075391,N001371
+canonical subtype for gastrointestinal stromal tumor,gastrointestinal stromal tumor,30477937,N001372
+canonical subtype for inflammatory myofibroblastic tumor,inflammatory myofibroblastic tumor,32075391,N001373
+canonical subtype for leiomyosarcoma,leiomyosarcoma,28499583,N001374
+canonical subtype for liposarcoma,liposarcoma,28499583,N001375
+canonical subtype for malignant peripheral nerve sheath tumor,malignant peripheral nerve sheath tumor,28499583,N001376
+canonical subtype for malignant peripheral nerve sheath tumor,malignant peripheral sheath tumor,38954182,N001377
+canonical subtype for myxofibrosarcoma,myxofibrosarcoma,39563528,N001378
+canonical subtype for retroperitoneal sarcoma,retroperitoneal sarcoma,27210906,N001379
+canonical subtype for rhabdomyosarcoma,rhabdomyosarcoma,29529647,N001380
+canonical subtype for soft tissue sarcoma,soft tissue sarcoma,28499583,N001381
+canonical subtype for solitary fibrous tumor,solitary fibrou tumor,21056898,N001382
+canonical subtype for synovial sarcoma,clear cell sarcoma,27591237,N001383
+canonical subtype for synovial sarcoma,synovial sarcoma,28499583,N001384
+canonical subtype for tenosynovial giant cell tumor,tenosynovial giant cell tumor,38153106,N001385
+canonical subtype for undifferentiated pleomorphic sarcoma,undifferentiated pleiomorphic sarcoma,32075391,N001386
+canonical subtype for undifferentiated pleomorphic sarcoma,undifferentiated pleomorphic sarcoma,28499583,N001387
+canonical subtype for undifferentiated spindle cell sarcoma,undifferentiated spindle cell sarcoma,35125107,N001388
